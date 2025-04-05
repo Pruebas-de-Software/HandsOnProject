@@ -48,6 +48,8 @@ Cada aplicación deberá permitir:
 
 ## 🛠 2. Herramientas, Soluciones y Frameworks
 
+Para realizar las pruebas debe apoyarse en alguno de las herramientas que se listarán a continuación:
+
 ### 2.1 Herramientas de Testing Automatizado (seleccionar una):
 1. **Puppeteer**: es una biblioteca de Node.js que proporciona una API de alto nivel para controlar Chrome/Chromium mediante el Protocolo DevTools. Puppeteer se ejecuta en modo sin cabeza por defecto, pero puede configurarse para ejecutarse en modo completo ("headful") Chrome/Chromium.&#8203;:contentReference[oaicite:0]{index=0}
 
