@@ -7,12 +7,12 @@ Este repositorio contiene el proyecto práctico de la asignatura **INF331 - Test
 **INF331 - Testing de Software** es una asignatura enfocada en entregar herramientas prácticas para asegurar la calidad del software. A través de ejercicios aplicados, los estudiantes adquieren experiencia en testing automatizado, integración continua (CI), despliegue continuo (CD) y buenas prácticas de desarrollo moderno.
 
 Durante el curso se trabaja con tecnologías y herramientas reales como:
-- GitHub y GitFlow
+- GitHub (Repositorio)
 - JIRA (gestión ágil)
+  Slack (coordinación de equipo)
 - Jenkins / Github Actions (CI/CD)
-- Selenium (pruebas de interfaz)
-- Microsoft Azure o AWS u otra / Plataforma Nube
-- Slack (coordinación de equipo)
+- Microsoft Azure o AWS u otra (Plataforma Nube)
+- Selenium (Pruebas de interfaz)
 - Herramientas de testing especializadas
 
 ## 🛠️ Descripción general del proyecto
@@ -50,8 +50,18 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 📄 [Ver detalles de la Entrega 3](./plantilla-entregables/entrega-3_selenium.md)
 
 ---
+## 🧾 Temas 2025
 
-## 🧾 Versiones anteriores
+### 📅 Segundo 1
+
+**Temas a ser desarrollados:**
+- VitaCocina: Recetas saludables y consejos de cocina.
+- Neon Threads: Moda virtual en el metaverso ciberpunk.
+- El Rincón del Olvido: Sitio de remates postapocalíptico.
+
+---
+
+## 🧾 Versiones anteriores 
 
 ### 📅 Segundo semestre 2024
 
