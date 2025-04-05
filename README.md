@@ -76,7 +76,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - [Tarea 2 SRS](./semestres/2024-2/tarea2.md)
 
 **Repositorios de proyectos de estudiantes:**
-- **Equipo 1: Remates Rincón del Olvido**  
+- **[Equipo 1: Remates Rincón del Olvido](https://github.com/Equipo1-Pruebas-de-Software/remates-rincon-del-olvido).**  
   [Repositorio](https://github.com/Equipo1-Pruebas-de-Software/remates-rincon-del-olvido)
 
 - **Equipo 2: Moda Virtual Neon Threads**  
