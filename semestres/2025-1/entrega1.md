@@ -53,7 +53,7 @@ Para realizar las pruebas debe apoyarse en alguno de las herramientas que se lis
 ### 2.1 Herramientas de Testing Automatizado (seleccionar una):
 
 1. **Puppeteer** is a Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol. Puppeteer runs in headless mode by default, but can be configured to run in full ("headful") Chrome/Chromium.
-1. Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! 
+1. **Jest** is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! 
 1. **Mocha (Chai)** is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 1. **Jasmine** is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
 1. **Enzyme** is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output. Enzyme's API is meant to be intuitive and flexible by mimicking jQuery's API for DOM manipulation and traversal
@@ -141,8 +141,39 @@ Se deben cosiderar los siguientes entregables:
 1. Información de Contacto y Contribución
 
 ### 4.2 Documentación (en Markdown en el mismo repo):
-- Mismos puntos del video
-- Infraestructura de la aplicación y su relación con las pruebas
+Para asegurar una documentación completa y útil en el repositorio de GitHub, es esencial incluir los siguientes elementos:
+
+1. **Resumen del Proyecto**
+Una descripción concisa que abarque los objetivos, alcance y propósito del proyecto.
+
+1. **Descripción del Trabajo Realizado**
+Un detalle de las actividades llevadas a cabo, destacando las funcionalidades implementadas y los logros alcanzados.
+
+1.**Tecnologías de Aplicación y su Relación con las Pruebas**
+Listado de las tecnologías y herramientas utilizadas en el desarrollo, explicando cómo cada una contribuye al proceso de pruebas y aseguramiento de calidad.
+
+1.**Evidencia del Trabajo Realizado**
+Incluir capturas de pantalla, fragmentos de código, resultados de pruebas y cualquier otro material que demuestre el progreso y los resultados obtenidos.
+
+1.**Estrategia de Pruebas**
+Descripción de la metodología de pruebas adoptada, tipos de pruebas realizadas (unitarias, de integración, etc.), pruebas de Frontend, Backend, herramientas empleadas y cobertura de pruebas.
+
+1.**Supuestos y dependencias**
+2.**Listado de condiciones asumidas durante el Desarrollo**
+Cualquier suposición hecha que haya influido en las decisiones de diseño o implementación.
+2.**Identificación de factores externos que pueden influir en el proyecto**
+Dependencias de terceros, limitaciones tecnológicas o cualquier otro factor externo relevante.
+
+Para estructurar y presentar esta documentación de manera efectiva, se recomienda:
+
+- **Archivo README.md**
+Este archivo, ubicado en la raíz del repositorio, debe proporcionar una visión general del proyecto, incluyendo el resumen, instrucciones de instalación, uso básico y enlaces a documentación más detallada.​
+
+- **Wiki del proyecto*
+Utilizar la wiki de GitHub para documentar en profundidad aspectos específicos del proyecto, como la estrategia de pruebas, supuestos, dependencias y otros detalles técnicos. Las wikis permiten una organización estructurada y son ideales para documentación extensa.​
+
+- **Carpeta de documentación**
+Crear un directorio específico dentro del repositorio, por ejemplo, docs, para almacenar documentos adicionales, imágenes, diagramas y cualquier otro material relevante.
 
 ### 4.3 El video
 Video debe incluir:
