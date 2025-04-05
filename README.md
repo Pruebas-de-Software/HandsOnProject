@@ -1,46 +1,46 @@
 # HandsOnProject – INF331 | UTFSM 🧪💻
 
-Este repositorio contiene el proyecto práctico de la asignatura **INF331 - Pruebas de Software** de la **Universidad Técnica Federico Santa María**.
+Este repositorio contiene el proyecto práctico de la asignatura **INF331 - Testing de Software** de la **Universidad Técnica Federico Santa María**.
 
 ## 📚 Descripción general del curso
 
-**INF331 - Pruebas de Software** es una asignatura orientada al desarrollo de habilidades prácticas en el ámbito de la calidad de software. A través de experiencias reales, los estudiantes aprenden a implementar pruebas automatizadas, metodologías de desarrollo, integración continua (CI) y despliegue continuo (CD), utilizando herramientas ampliamente utilizadas en la industria.
+**INF331 - Testing de Software** es una asignatura enfocada en entregar herramientas prácticas para asegurar la calidad del software. A través de ejercicios aplicados, los estudiantes adquieren experiencia en testing automatizado, integración continua (CI), despliegue continuo (CD) y buenas prácticas de desarrollo moderno.
 
-Durante el curso se trabaja con:
+Durante el curso se trabaja con tecnologías y herramientas reales como:
 - GitHub y GitFlow
 - JIRA (gestión ágil)
 - Jenkins / Github Actions (CI/CD)
 - Selenium (pruebas de interfaz)
 - Microsoft Azure o AWS u otra / Plataforma Nube
 - Slack (coordinación de equipo)
+- Herramientas de testing especializadas
 
 ## 🛠️ Descripción general del proyecto
 
-**HandsOnProject** es una iniciativa modular y progresiva en la que los estudiantes desarrollan una aplicación web en equipos, enfrentando problemáticas reales. El proyecto consta de tres fases:
+**HandsOnProject** es una experiencia práctica y progresiva en la que los estudiantes desarrollan una aplicación web desde cero, enfrentando escenarios similares a los de la industria. El proyecto se estructura en tres entregas consecutivas:
 
 ### 🔹 Parte 1: Construcción inicial
-- Desarrollo de un CRUD funcional para un sistema definido.
+- Desarrollo de un CRUD funcional para una aplicación web definida por el equipo.
 - Especificación de requerimientos y casos de uso.
 - Implementación de pruebas automatizadas iniciales.
 
 ### 🔹 Parte 2: CI/CD con Jenkins
 - Instalación y configuración de Jenkins.
-- Construcción de un pipeline de integración y despliegue continuo.
-- Incorporación de dos nuevos requerimientos funcionales.
+- Creación de un pipeline de integración y despliegue continuo.
+- Desarrollo de dos nuevos requerimientos funcionales y automatización de su despliegue.
 
 ### 🔹 Parte 3: Pruebas de interfaz con Selenium
-- Desarrollo de pruebas automatizadas de interfaz.
-- Integración de las pruebas al pipeline de CI/CD.
-- Ejecución continua y notificaciones automáticas.
+- Desarrollo de pruebas de interfaz usando Selenium.
+- Integración de pruebas al pipeline CI/CD.
+- Ejecución continua y notificaciones automáticas de resultados.
 
-Los casos desarrollados por los estudiantes incluyen aplicaciones como:
+Los temas desarrollados por los equipos incluyen casos como:
 - **VitaCocina**: Plataforma de recetas saludables.
 - **Neon Threads**: Tienda de moda virtual en un mundo ciberpunk.
 - **El Rincón del Olvido**: Sitio de remates en línea en un universo distópico.
 
-Este proyecto busca simular un entorno de desarrollo profesional, integrando buenas prácticas, trabajo en equipo, automatización y despliegue real de soluciones web.
+Este proyecto busca simular un entorno de desarrollo profesional, donde se integran pruebas desde el primer momento, y se automatizan procesos de calidad y despliegue como parte central del ciclo de vida del software.
 
----
 
-¿Te gustaría agregar una sección para cómo contribuir, tecnologías recomendadas o instrucciones de instalación más adelante?
+
 
