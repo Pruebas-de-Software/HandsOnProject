@@ -17,7 +17,7 @@ Durante el curso se trabaja con tecnologías y herramientas reales como:
 
 ## 🛠️ Descripción general del proyecto
 
-**HandsOnProject** es una experiencia práctica y progresiva en la que los estudiantes desarrollan una aplicación web desde cero, enfrentando escenarios similares a los de la industria. El proyecto se estructura en tres entregas consecutivas:
+**HandsOnProject** es una experiencia práctica y progresiva en la que los estudiantes desarrollan una aplicación web desde cero, OpenSource, enfrentando escenarios similares a los de la industria. El proyecto se estructura en tres entregas consecutivas:
 
 ### 🔹 Parte 1: Construcción inicial
 - Desarrollo de un CRUD funcional para una aplicación web definida por el equipo.
@@ -35,6 +35,7 @@ Durante el curso se trabaja con tecnologías y herramientas reales como:
 - Ejecución continua y notificaciones automáticas de resultados.
 
 Los temas desarrollados por los equipos incluyen casos como:
+
 - **VitaCocina**: Plataforma de recetas saludables.
 - **Neon Threads**: Tienda de moda virtual en un mundo ciberpunk.
 - **El Rincón del Olvido**: Sitio de remates en línea en un universo distópico.
