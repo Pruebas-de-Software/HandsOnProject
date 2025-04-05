@@ -28,8 +28,10 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - Tema nuevo 2.
 - Tema nuevo 3.
 
-**Tarea Especificación de Requerimientos de Software**
+### 🔹 Tarea Especificación de Requerimientos de Software**
 - Especificación de Requerimientos de Software
+
+---
 
 ### 🔹 Entrega 1: Construcción inicial
 
