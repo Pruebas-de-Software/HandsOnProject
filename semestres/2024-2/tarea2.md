@@ -49,4 +49,4 @@ Para los temas presentados previamente. Cada estudiante debe preparar una **Espe
 
 ---
 
-> 💡 Recomendación: asegúrate de escribir con claridad, justificar tus decisiones y mantener trazabilidad entre requerimientos, diagramas y pruebas.
+> 💡 Preguntas en Foro de la semana
