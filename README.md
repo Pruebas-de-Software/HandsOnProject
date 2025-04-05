@@ -76,33 +76,16 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - [Tarea 2 SRS](./semestres/2024-2/tarea2.md)
 
 **Repositorios de proyectos de estudiantes:**
+
 - **[Equipo 1: Remates Rincón del Olvido](https://github.com/Equipo1-Pruebas-de-Software/remates-rincon-del-olvido).**  
-  [Repositorio](https://github.com/Equipo1-Pruebas-de-Software/remates-rincon-del-olvido)
-
-- **Equipo 2: Moda Virtual Neon Threads**  
-  [Repositorio](https://github.com/Equipo-2-Pruebas-de-Software/Moda-Virtual-Neon-Threads)
-
-- **Equipo 3: VitaCocina**  
-  [Repositorio](https://github.com/Equipo3INF331S2/VitaCocina)
-
-- **Claudio Vergara: VitaCocina Frontend**  
-  [Repositorio](https://github.com/claudiovergararavello/vitacocina-frontend)
-
-- **Equipo 5: Remate Online**  
-  [Repositorio](https://github.com/Equipo5-Remate-en-linea/Remate-Online)
-
-- **Equipo 6: VitaCocina**  
-  [Repositorio](https://github.com/equipo-6-VC/VitaCocina)
-
-- **Equipo 7: Proyecto de Pruebas de Software Frontend**  
-  [Repositorio](https://github.com/Equipo-7-PDS-Proyecto/pruebas-software-frontend)
-
-- **Equipo 8: Proyecto Sitio de Remates en Línea**  
-  [Repositorio](https://github.com/Equipo8-PruebadeSoftwareUSM/Proyecto-Sitio-de-remates-en-linea)
-
-- **Equipo 9: Proyecto Moda Virtual Neon Threads**  
-  [Repositorio](https://github.com/INF331-Equipo9/Proyecto-ModaVirtualNeonThreads)
-
+- **[Equipo 2: Moda Virtual Neon Threads](https://github.com/Equipo-2-Pruebas-de-Software/Moda-Virtual-Neon-Threads)**  
+- **[Equipo 3: VitaCocina](https://github.com/Equipo3INF331S2/VitaCocina)**  
+- **[Equipo 4: VitaCocina](https://github.com/claudiovergararavello/vitacocina-frontend)**  
+- **[Equipo 5: Remate Online](https://github.com/Equipo5-Remate-en-linea/Remate-Online)**  
+- **[Equipo 6: VitaCocina](https://github.com/equipo-6-VC/VitaCocina)**  
+- **[Equipo 7: Proyecto de Pruebas de Software Frontend](https://github.com/Equipo-7-PDS-Proyecto/pruebas-software-frontend)**  
+- **[Equipo 8: Proyecto Sitio de Remates en Línea](https://github.com/Equipo8-PruebadeSoftwareUSM/Proyecto-Sitio-de-remates-en-linea)**  
+- **[Equipo 9: Proyecto Moda Virtual Neon Threads](https://github.com/INF331-Equipo9/Proyecto-ModaVirtualNeonThreads)**  
 
 
 
