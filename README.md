@@ -52,7 +52,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ---
 ## 🧾 Temas 2025
 
-### 📅 Segundo 1
+### 📅 Primer semestre 2025 (NUEVO)
 
 **Temas a ser desarrollados:**
 - VitaCocina: Recetas saludables y consejos de cocina.
