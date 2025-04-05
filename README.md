@@ -70,6 +70,9 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
+**Temas desarrollados:**
+- [Tarea 2 SRS](./semestres/2024-2/tarea2.md)
+
 **Repositorios de proyectos de estudiantes:**
 - 🔗 [equipo-01_vitacocina](./semestres/2024-2/equipo-01_vitacocina/)
 - 🔗 [equipo-02_neon-threads](./semestres/2024-2/equipo-02_neon-threads/)
