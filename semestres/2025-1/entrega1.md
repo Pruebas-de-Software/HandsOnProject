@@ -132,7 +132,9 @@ Se sugiere usar [Azure for Students](https://azure.microsoft.com/es-es/free/stud
 
 - Fechas en aula Moodle
 
-## 4 Entregables
+---
+
+## 📦4 Entregables
 Se deben cosiderar los siguientes entregables:
 
  1. Repositorio con código fuente en GitHub
@@ -141,12 +143,12 @@ Se deben cosiderar los siguientes entregables:
  4. Presentación en clases (si eres seleccionado)
 
 ### 4.1 Repositorio con código fuente
-- README de instalación (completo)
-- Documentación de aplicación
-- Licencia
-- .gitignore, correctamente configurado
-- Estructura de carpeta y archivos
-- Cápsula de video explicativa
+1. README de instalación (completo)
+1. Documentación de aplicación
+1. Licencia
+1. .gitignore, correctamente configurado
+1. Estructura de carpeta y archivos
+1. Cápsula de video explicativa
 
 ### 4.2 Documentación (en Markdown en el mismo repo):
 - Mismos puntos del video
