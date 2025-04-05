@@ -21,6 +21,16 @@ Durante el curso se trabaja con tecnologías y herramientas reales como:
 
 Este proyecto busca simular un entorno de desarrollo profesional, donde se integran pruebas desde el primer momento, y se automatizan procesos de calidad y despliegue como parte central del ciclo de vida del software.
 
+### 📅 Temas Primer semestre 2025 (NUEVO)
+
+**Temas a ser desarrollados:**
+- Tema nuevo 1.
+- Tema nuevo 2.
+- Tema nuevo 3.
+
+**Tarea Especificación de Requerimientos de Software**
+- Especificación de Requerimientos de Software
+
 ### 🔹 Entrega 1: Construcción inicial
 
 - Desarrollo de un CRUD funcional para una aplicación web definida por el equipo.
@@ -48,16 +58,6 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - Ejecución continua y notificaciones automáticas de resultados.
 
 📄 [Ver detalles de la Entrega 3](./plantilla-entregables/entrega-3_selenium.md)
-
----
-## 🧾 Temas 2025
-
-### 📅 Primer semestre 2025 (NUEVO)
-
-**Temas a ser desarrollados:**
-- Tema nuevo 1.
-- Tema nuevo 2.
-- Tema nuevo 3.
 
 ---
 
