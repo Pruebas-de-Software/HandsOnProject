@@ -149,8 +149,8 @@ Para asegurar una documentación completa y útil en el repositorio de GitHub, e
 1. **Evidencia del Trabajo Realizado:** Incluir capturas de pantalla, fragmentos de código, resultados de pruebas y cualquier otro material que demuestre el progreso y los resultados obtenidos.
 1. **Estrategia de Pruebas:** Descripción de la metodología de pruebas adoptada, tipos de pruebas realizadas (unitarias, de integración, etc.), pruebas de Frontend, Backend, herramientas empleadas y cobertura de pruebas.
 1. **Supuestos y dependencias:**
-2. **Listado de condiciones asumidas durante el Desarrollo:** Cualquier suposición hecha que haya influido en las decisiones de diseño o implementación.
-2. **Identificación de factores externos que pueden influir en el proyecto:** Dependencias de terceros, limitaciones tecnológicas o cualquier otro factor externo relevante.
+- **Listado de condiciones asumidas durante el Desarrollo:** Cualquier suposición hecha que haya influido en las decisiones de diseño o implementación.
+- **Identificación de factores externos que pueden influir en el proyecto:** Dependencias de terceros, limitaciones tecnológicas o cualquier otro factor externo relevante.
 
 Para estructurar y presentar esta documentación de manera efectiva, se recomienda:
 
