@@ -1,5 +1,7 @@
 # 🕶️ Caso Ciberpunk: Sistema de Gestión de Moda Virtual "Neon Threads"
 
+![Neon Threads](./NeonThreads.png)
+
 ## 🧩 El Problema
 
 Es el año **2124**, un futuro donde las megacorporaciones dominan cada aspecto de la vida. *"Neon Threads"* es una tienda virtual especializada en moda para los ciudadanos del **Distrito de la Niebla**, una metrópolis caótica y sobrepoblada, conocida por su cultura de alta tecnología y baja vida.
