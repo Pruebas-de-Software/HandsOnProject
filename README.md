@@ -39,7 +39,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - Especificación de requerimientos y casos de uso.
 - Implementación de pruebas automatizadas iniciales.
 
-📄 [Ver detalles de la Entrega 1](./plantilla-entregables/entrega-1_requerimientos.md)
+📄 [Ver detalles de la Entrega 1](./semestres/2025-1/entrega1.md)
 
 ---
 
@@ -49,7 +49,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - Creación de un pipeline de integración y despliegue continuo.
 - Desarrollo de dos nuevos requerimientos funcionales y automatización de su despliegue.
 
-📄 [Ver detalles de la Entrega 2](./plantilla-entregables/entrega-2_ci_cd.md)
+📄 [Ver detalles de la Entrega 2](./semestres/2025-1/entrega2.md)
 
 ---
 
@@ -59,7 +59,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - Integración de pruebas al pipeline CI/CD.
 - Ejecución continua y notificaciones automáticas de resultados.
 
-📄 [Ver detalles de la Entrega 3](./plantilla-entregables/entrega-3_selenium.md)
+📄 [Ver detalles de la Entrega 3](./semestres/2025-1/entrega3.md)
 
 ---
 
