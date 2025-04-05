@@ -1,4 +1,4 @@
-# 🕶️ Caso Ciberpunk: Sistema de Gestión de Moda Virtual "Neon Threads"
+# 🕶️ Caso Sistema de Gestión de Moda Virtual "Neon Threads"
 
 ![Neon Threads](./NeonThreads.png)
 
