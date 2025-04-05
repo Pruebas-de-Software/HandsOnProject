@@ -26,12 +26,12 @@ Aunque los requerimientos son amplios, en esta etapa se debe enfocar en implemen
 
 Cada aplicación deberá permitir:
 
-- Listar elementos
-- Buscar un elemento específico
-- Visualizar el detalle de un elemento
-- Agregar un nuevo elemento
-- Editar un elemento existente
-- Eliminar un elemento
+1. Listar elementos
+1. Buscar un elemento específico
+1. Visualizar el detalle de un elemento
+1. Agregar un nuevo elemento
+1. Editar un elemento existente
+1. Eliminar un elemento
 
 #### Ejemplo: VitaCocina
 
