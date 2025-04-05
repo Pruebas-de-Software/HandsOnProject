@@ -143,32 +143,22 @@ Se deben cosiderar los siguientes entregables:
 ### 4.2 Documentación (en Markdown en el mismo repo):
 Para asegurar una documentación completa y útil en el repositorio de GitHub, es esencial incluir los siguientes elementos:
 
-1. **Resumen del Proyecto**
-Una descripción concisa que abarque los objetivos, alcance y propósito del proyecto.
-1. **Descripción del Trabajo Realizado**
-Un detalle de las actividades llevadas a cabo, destacando las funcionalidades implementadas y los logros alcanzados.
-1. **Tecnologías de Aplicación y su Relación con las Pruebas**
-Listado de las tecnologías y herramientas utilizadas en el desarrollo, explicando cómo cada una contribuye al proceso de pruebas y aseguramiento de calidad.
-1. **Evidencia del Trabajo Realizado**
-Incluir capturas de pantalla, fragmentos de código, resultados de pruebas y cualquier otro material que demuestre el progreso y los resultados obtenidos.
-1. **Estrategia de Pruebas**
-Descripción de la metodología de pruebas adoptada, tipos de pruebas realizadas (unitarias, de integración, etc.), pruebas de Frontend, Backend, herramientas empleadas y cobertura de pruebas.
-1. **Supuestos y dependencias**
-2. **Listado de condiciones asumidas durante el Desarrollo**
-Cualquier suposición hecha que haya influido en las decisiones de diseño o implementación.
-2. **Identificación de factores externos que pueden influir en el proyecto**
-Dependencias de terceros, limitaciones tecnológicas o cualquier otro factor externo relevante.
+1. **Resumen del Proyecto:** Una descripción concisa que abarque los objetivos, alcance y propósito del proyecto.
+1. **Descripción del Trabajo Realizado:** Un detalle de las actividades llevadas a cabo, destacando las funcionalidades implementadas y los logros alcanzados.
+1. **Tecnologías de aplicación y su relación con las pruebas:** Listado de las tecnologías y herramientas utilizadas en el desarrollo, explicando cómo cada una contribuye al proceso de pruebas y aseguramiento de calidad.
+1. **Evidencia del Trabajo Realizado:** Incluir capturas de pantalla, fragmentos de código, resultados de pruebas y cualquier otro material que demuestre el progreso y los resultados obtenidos.
+1. **Estrategia de Pruebas:** Descripción de la metodología de pruebas adoptada, tipos de pruebas realizadas (unitarias, de integración, etc.), pruebas de Frontend, Backend, herramientas empleadas y cobertura de pruebas.
+1. **Supuestos y dependencias:**
+2. **Listado de condiciones asumidas durante el Desarrollo:** Cualquier suposición hecha que haya influido en las decisiones de diseño o implementación.
+2. **Identificación de factores externos que pueden influir en el proyecto:** Dependencias de terceros, limitaciones tecnológicas o cualquier otro factor externo relevante.
 
 Para estructurar y presentar esta documentación de manera efectiva, se recomienda:
 
-- **Archivo README.md**
-Este archivo, ubicado en la raíz del repositorio, debe proporcionar una visión general del proyecto, incluyendo el resumen, instrucciones de instalación, uso básico y enlaces a documentación más detallada.​
+- **Archivo README.md:** Este archivo, ubicado en la raíz del repositorio, debe proporcionar una visión general del proyecto, incluyendo el resumen, instrucciones de instalación, uso básico y enlaces a documentación más detallada.​
 
-- **Wiki del proyecto*
-Utilizar la wiki de GitHub para documentar en profundidad aspectos específicos del proyecto, como la estrategia de pruebas, supuestos, dependencias y otros detalles técnicos. Las wikis permiten una organización estructurada y son ideales para documentación extensa.​
+- **Wiki del proyecto:** Utilizar la wiki de GitHub para documentar en profundidad aspectos específicos del proyecto, como la estrategia de pruebas, supuestos, dependencias y otros detalles técnicos. Las wikis permiten una organización estructurada y son ideales para documentación extensa.​
 
-- **Carpeta de documentación**
-Crear un directorio específico dentro del repositorio, por ejemplo, docs, para almacenar documentos adicionales, imágenes, diagramas y cualquier otro material relevante.
+- **Carpeta de documentación:** Crear un directorio específico dentro del repositorio, por ejemplo, docs, para almacenar documentos adicionales, imágenes, diagramas y cualquier otro material relevante.
 
 ### 4.3 El video
 Video debe incluir:
