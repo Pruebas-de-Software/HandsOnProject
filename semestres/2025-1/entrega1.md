@@ -4,9 +4,9 @@
 
 La entrega 1 corresponde a la **primera presentación asociada al proyecto de la asignatura**. En esta etapa se busca construir la base de un ambiente CI/CD con:
 
-- Un problema claro.
-- Herramientas de apoyo.
-- Una metodología de trabajo definida.
+1. Un problema claro.
+1. Herramientas de apoyo.
+1. Una metodología de trabajo definida.
 
 ---
 
@@ -14,9 +14,9 @@ La entrega 1 corresponde a la **primera presentación asociada al proyecto de la
 
 Los problemas son entregados como lo haría un cliente: **pueden estar incompletos o desordenados**. Cada equipo debe escoger **un (1) problema** de la siguiente lista:
 
-- Aplicación Web: Recetas VitaCocina
-- Aplicación Web: Remates Rincón del Olvido
-- Aplicación Web: Moda Virtual Neon Threads
+- Tema nuevo 1
+- Tema nuevo 2
+- Tema nuevo 3
 
 > ⚠️ Máximo **3 grupos por tema**.
 
@@ -33,14 +33,14 @@ Cada aplicación deberá permitir:
 1. Editar un elemento existente
 1. Eliminar un elemento
 
-#### Ejemplo: VitaCocina
+#### Ejemplo: VitaCocina 
 
-- Listar recetas y consejos
-- Buscar recetas (criterios definidos por el equipo)
-- Visualizar receta en detalle (con imagen)
-- Agregar receta y consejo
-- Editar receta y consejo
-- Eliminar receta
+1. Listar recetas y consejos
+1. Buscar recetas (criterios definidos por el equipo)
+1. Visualizar receta en detalle (con imagen)
+1. Agregar receta y consejo
+1. Editar receta y consejo
+1. Eliminar receta
 
 > Si alguno de los casos de uso no aplica a su proyecto, se debe **reemplazar por uno más adecuado**.
 
@@ -49,19 +49,31 @@ Cada aplicación deberá permitir:
 ## 🛠 2. Herramientas, Soluciones y Frameworks
 
 ### 2.1 Herramientas de Testing Automatizado (seleccionar una):
+1. **Puppeteer**: es una biblioteca de Node.js que proporciona una API de alto nivel para controlar Chrome/Chromium mediante el Protocolo DevTools. Puppeteer se ejecuta en modo sin cabeza por defecto, pero puede configurarse para ejecutarse en modo completo ("headful") Chrome/Chromium.&#8203;:contentReference[oaicite:0]{index=0}
 
-- Puppeteer
-- Jest
-- Mocha (Chai)
-- Jasmine
-- Enzyme
-- Cypress
-- Robot Framework
-- Katalon
-- TestComplete *(15 días de prueba)*
-- Watir
-- Testsigma
-- unittest (Python)
+2. **Jest**: :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
+
+3. **Mocha (Chai)**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+
+4. **Jasmine**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+
+5. **Enzyme**: es una utilidad de pruebas de JavaScript para React que facilita la prueba de la salida de tus Componentes React. También puedes manipular, recorrer y, de alguna manera, simular el tiempo de ejecución dada la salida. La API de Enzyme está diseñada para ser intuitiva y flexible, imitando la API de jQuery para manipulación y recorrido del DOM.&#8203;:contentReference[oaicite:7]{index=7}
+
+6. **Cypress**: es una solución de automatización de pruebas de JavaScript utilizada para la automatización web. Permite a los equipos crear scripts de automatización de pruebas web. Esta solución tiene como objetivo permitir a los desarrolladores frontend e ingenieros de automatización de pruebas escribir pruebas web en el lenguaje web por defecto que es JavaScript para la automatización de pruebas web.&#8203;:contentReference[oaicite:8]{index=8}
+
+7. **Robot Framework**: es un framework de automatización genérico de código abierto. Puede ser utilizado para la automatización de pruebas y la automatización de procesos robóticos (RPA). Robot Framework es apoyado por Robot Framework Foundation. Muchas empresas líderes en la industria utilizan la herramienta en su desarrollo de software.&#8203;:contentReference[oaicite:9]{index=9}
+
+8. **Katalon**: es una plataforma moderna y completa de gestión de calidad que ofrece experiencias digitales de clase mundial con una plataforma aumentada por IA que te permite planificar, crear y ejecutar pruebas automatizadas.&#8203;:contentReference[oaicite:10]{index=10}
+
+9. **TestComplete**: es una herramienta de pruebas de UI automatizadas que cubre desde la nube de dispositivos hasta aplicaciones empaquetadas. Asegura la calidad de tu aplicación sin sacrificar velocidad o agilidad con una herramienta de automatización de pruebas GUI fácil de usar. Nuestro motor de reconocimiento de objetos impulsado por IA y la flexibilidad de script o sin script es inigualable, permitiéndote probar cada aplicación de escritorio, web y móvil con facilidad. (Solo 15 días de prueba)&#8203;:contentReference[oaicite:11]{index=11}
+
+10. **Watir**: es una biblioteca Ruby de código abierto para automatizar pruebas. Watir interactúa con un navegador de la misma manera que lo hacen las personas: haciendo clic en enlaces, completando formularios y validando texto.&#8203;:contentReference[oaicite:12]{index=12}
+
+11. **Testsigma**: es una herramienta de pruebas automatizadas de UI web intuitiva, rica en características y asequible. Testsigma utiliza IA para crear pruebas automatizadas estables y confiables más rápido que nunca y para acelerar las ejecuciones y el mantenimiento de tus pruebas automatizadas. No se requieren habilidades de codificación.&#8203;:contentReference[oaicite:13]{index=13}
+
+12. **unittest**: El framework de pruebas unitarias fue inspirado originalmente por JUnit y tiene un sabor similar a los principales frameworks de pruebas unitarias en otros lenguajes. Soporta la automatización de pruebas, el intercambio de código de configuración y desmontaje para pruebas, la agregación de pruebas en colecciones y la independencia de las pruebas del framework de informes.&#8203;:contentReference[oaicite:14]{index=14}
+
+
 
 > La elección debe considerar compatibilidad con las tecnologías del equipo.
 
