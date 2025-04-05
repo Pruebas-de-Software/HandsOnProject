@@ -55,9 +55,9 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ### 📅 Primer semestre 2025 (NUEVO)
 
 **Temas a ser desarrollados:**
-- VitaCocina: Recetas saludables y consejos de cocina.
-- Neon Threads: Moda virtual en el metaverso ciberpunk.
-- El Rincón del Olvido: Sitio de remates postapocalíptico.
+- Tema nuevo 1.
+- Tema nuevo 2.
+- Tema nuevo 3.
 
 ---
 
