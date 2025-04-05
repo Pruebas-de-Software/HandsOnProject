@@ -67,8 +67,8 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 **Temas desarrollados:**
 - [VitaCocina: Recetas saludables y consejos de cocina.](./semestres/2024-2/vitacocina.md)
-- [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neonthreads.md)
-- [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincondelolvido.md)
+- [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/nneon-threads.md)
+- [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
 **Repositorios de proyectos de estudiantes:**
 - 🔗 [equipo-01_vitacocina](./semestres/2024-2/equipo-01_vitacocina/)
