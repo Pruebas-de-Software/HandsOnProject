@@ -19,29 +19,51 @@ Durante el curso se trabaja con tecnologías y herramientas reales como:
 
 **HandsOnProject** es una experiencia práctica y progresiva en la que los estudiantes desarrollan una aplicación web desde cero, OpenSource, enfrentando escenarios similares a los de la industria. El proyecto se estructura en tres entregas consecutivas:
 
-### 🔹 Parte 1: Construcción inicial
+Este proyecto busca simular un entorno de desarrollo profesional, donde se integran pruebas desde el primer momento, y se automatizan procesos de calidad y despliegue como parte central del ciclo de vida del software.
+
+### 🔹 Entrega 1: Construcción inicial
+
 - Desarrollo de un CRUD funcional para una aplicación web definida por el equipo.
 - Especificación de requerimientos y casos de uso.
 - Implementación de pruebas automatizadas iniciales.
 
-### 🔹 Parte 2: CI/CD con Jenkins
+📄 [Ver detalles de la Entrega 1](./plantilla-entregables/entrega-1_requerimientos.md)
+
+---
+
+### 🔹 Entrega 2: CI/CD con Jenkins
+
 - Instalación y configuración de Jenkins.
 - Creación de un pipeline de integración y despliegue continuo.
 - Desarrollo de dos nuevos requerimientos funcionales y automatización de su despliegue.
 
-### 🔹 Parte 3: Pruebas de interfaz con Selenium
+📄 [Ver detalles de la Entrega 2](./plantilla-entregables/entrega-2_ci_cd.md)
+
+---
+
+### 🔹 Entrega 3: Pruebas de interfaz con Selenium
+
 - Desarrollo de pruebas de interfaz usando Selenium.
 - Integración de pruebas al pipeline CI/CD.
 - Ejecución continua y notificaciones automáticas de resultados.
 
-Los temas desarrollados por los equipos incluyen casos como:
+📄 [Ver detalles de la Entrega 3](./plantilla-entregables/entrega-3_selenium.md)
 
-- **VitaCocina**: Plataforma de recetas saludables.
-- **Neon Threads**: Tienda de moda virtual en un mundo ciberpunk.
-- **El Rincón del Olvido**: Sitio de remates en línea en un universo distópico.
+---
 
-Este proyecto busca simular un entorno de desarrollo profesional, donde se integran pruebas desde el primer momento, y se automatizan procesos de calidad y despliegue como parte central del ciclo de vida del software.
+## 🧾 Versiones anteriores
 
+### 📅 Segundo semestre 2024
+
+**Temas desarrollados:**
+- VitaCocina: Recetas saludables y consejos de cocina.
+- Neon Threads: Moda virtual en el metaverso ciberpunk.
+- El Rincón del Olvido: Sitio de remates postapocalíptico.
+
+**Repositorios de proyectos de estudiantes:**
+- 🔗 [equipo-01_vitacocina](./semestres/2024-2/equipo-01_vitacocina/)
+- 🔗 [equipo-02_neon-threads](./semestres/2024-2/equipo-02_neon-threads/)
+- 🔗 [equipo-03_rincon-del-olvido](./semestres/2024-2/equipo-03_rincon-del-olvido/)
 
 
 
