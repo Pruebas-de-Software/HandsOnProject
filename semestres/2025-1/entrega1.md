@@ -79,7 +79,7 @@ Para realizar las pruebas debe apoyarse en alguno de las herramientas que se lis
 
 > La elección debe considerar compatibilidad con las tecnologías del equipo.
 
-**Antes de inscribir la herramienta, verificar posibles problemas de compatibilidad.**
+**Debes elegir bien, porque la elección que hagas debe permitir cumplir con el objetivo de solicitado para la aplicación y además la elección puede tener impacto en tu aplicación, es decir algunas de las herramientas listadas son específicas para ciertas tecnologías, por lo tanto si quieres usarla deberás usar determinados lenguajes de programación. Todo lo anterior tiene un impacto en el tiempo de desarrollo de esta presentación.**
 
 ### 2.2 Integraciones
 
@@ -105,25 +105,28 @@ Se sugiere usar [Azure for Students](https://azure.microsoft.com/es-es/free/stud
 
 ### 3.1 Metodología de Trabajo
 
-- Equipos de **3 estudiantes** (equipos de 4 se asignarán al azar).
+- Equipos de 4, presentados en aula de asignatura.
 - Asignar **roles internos** (incluyendo un líder de equipo).
 - Crear organización y repositorio en **GitHub**.
 - Usar **GitFlow** para el flujo de trabajo.
 - Aplicar **Kanban** con proyecto de tipo "Desarrollo de software" en JIRA.
 - Crear ítems en el tablero, priorizarlos y estimarlos (horas o story points).
+- Tablero siempre debe estar actualizado.
 
 > Herramientas recomendadas: GitHub + Slack + JIRA.
 
 ### 3.2 Instrucciones de Presentación 1
 
-- Inscribir en el foro:
+- Inscribir en el foro (Preoyecto en Moodle):
   - Tema elegido
   - Herramienta de testing elegida
 
 > ⚠️ Máximo 2 grupos por herramienta de testing.
 
+- Si un equipo quiere utilizar alguna herramienta distinta puede hacerlo, pero debe informar y cumplir con el objetivo de probar la aplicación.
 - Declarar supuestos por escrito.
 - El diseño gráfico queda a criterio del equipo.
+- Preguntas en "foro proyecto en Moodle"
 
 ### 3.3 Fechas Relevantes
 
