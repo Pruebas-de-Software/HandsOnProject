@@ -1,4 +1,4 @@
-# 📦 Entrega 1 – INF331: Proyecto de Asignatura
+# 📦 Entrega 1 
 
 ## 🎯 Resumen General
 
