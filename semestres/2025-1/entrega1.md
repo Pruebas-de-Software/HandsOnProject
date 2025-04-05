@@ -117,7 +117,7 @@ Se sugiere usar [Azure for Students](https://azure.microsoft.com/es-es/free/stud
 
 ### 3.2 Instrucciones de Presentación 1
 
-- Inscribir en el foro (Preoyecto en Moodle):
+- Inscribir en el foro proyecto (aula Moodle):
   - Tema elegido
   - Herramienta de testing elegida
 
@@ -132,23 +132,33 @@ Se sugiere usar [Azure for Students](https://azure.microsoft.com/es-es/free/stud
 
 - Fechas en aula Moodle
 
-### 3.4 Entregables
+## 4 Entregables
+- Se deben cosiderar los siguientes entregables:
 
-- Repositorio con código fuente en GitHub
+ 1. Repositorio con código fuente en GitHub
+ 2. Documentación del proyecto
+ 3. Cápsula de video explicativa
+ 4. Presentación en clases (si eres seleccionado)
+
+### 4.1 Repositorio con código fuente
 - README de instalación (completo)
-- **Cápsula de video explicativa** alojada en el repositorio
+- Documentación de aplicación
+- Licencia
+- .gitignore, correctamente configurado
+- Estructura de carpeta y archivos
+- Cápsula de video explicativa
 
-#### El video debe incluir:
+### 4.3 El video
+- Video debe incluir:
 
-- Alcances de la herramienta
-- Descripción del trabajo realizado
-- Proyecto y dependencias
-- Estrategia de pruebas utilizadas
-- Procedimiento de ejecución de pruebas
-- Resultados y problemas encontrados
+1. Alcances de la herramienta
+1. Descripción del trabajo realizado
+1. Proyecto y dependencias
+1. Estrategia de pruebas utilizadas
+1. Procedimiento de ejecución de pruebas
+1. Resultados y problemas encontrados
 
 #### Documentación (en Markdown en el mismo repo):
-
 - Mismos puntos del video
 - Infraestructura de la aplicación y su relación con las pruebas
 
@@ -161,9 +171,9 @@ Se sugiere usar [Azure for Students](https://azure.microsoft.com/es-es/free/stud
 
 ---
 
-## 👥 4. Equipos
+## 👥 5. Equipos
 
-*Se asignan y publican según inscripciones. Cada equipo elige su tema y herramienta en los canales oficiales.*
+*SEquipos asignados en aula Moodle: https://aula.usm.cl/course/view.php?id=47173*
 
 ---
 
