@@ -133,7 +133,7 @@ Se sugiere usar [Azure for Students](https://azure.microsoft.com/es-es/free/stud
 - Fechas en aula Moodle
 
 ## 4 Entregables
-- Se deben cosiderar los siguientes entregables:
+Se deben cosiderar los siguientes entregables:
 
  1. Repositorio con código fuente en GitHub
  2. Documentación del proyecto
@@ -148,8 +148,12 @@ Se sugiere usar [Azure for Students](https://azure.microsoft.com/es-es/free/stud
 - Estructura de carpeta y archivos
 - Cápsula de video explicativa
 
+### 4.2 Documentación (en Markdown en el mismo repo):
+- Mismos puntos del video
+- Infraestructura de la aplicación y su relación con las pruebas
+
 ### 4.3 El video
-- Video debe incluir:
+Video debe incluir:
 
 1. Alcances de la herramienta
 1. Descripción del trabajo realizado
@@ -158,16 +162,12 @@ Se sugiere usar [Azure for Students](https://azure.microsoft.com/es-es/free/stud
 1. Procedimiento de ejecución de pruebas
 1. Resultados y problemas encontrados
 
-#### Documentación (en Markdown en el mismo repo):
-- Mismos puntos del video
-- Infraestructura de la aplicación y su relación con las pruebas
+### 4.4 Presentación en Clase
 
-### 3.5 Presentación en Clase
-
-- Se realiza el día de entrega.
-- Orden de presentación al azar.
-- **Máximo 25 minutos por equipo**.
-- Todo el equipo obtiene la misma nota.
+1. Se realiza el día de entrega.
+1. Orden de presentación al azar.
+1. **Máximo 25 minutos por equipo**.
+1. Todo el equipo obtiene la misma nota.
 
 ---
 
