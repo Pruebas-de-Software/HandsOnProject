@@ -6,12 +6,12 @@ Este repositorio contiene el proyecto práctico de la asignatura **INF331 - Prue
 
 **INF331 - Pruebas de Software** es una asignatura orientada al desarrollo de habilidades prácticas en el ámbito de la calidad de software. A través de experiencias reales, los estudiantes aprenden a implementar pruebas automatizadas, metodologías de desarrollo, integración continua (CI) y despliegue continuo (CD), utilizando herramientas ampliamente utilizadas en la industria.
 
-Durante el curso se trabaja con tecnologías como:
+Durante el curso se trabaja con:
 - GitHub y GitFlow
 - JIRA (gestión ágil)
-- Jenkins (CI/CD)
+- Jenkins / Github Actions (CI/CD)
 - Selenium (pruebas de interfaz)
-- Azure / Hosting en la nube
+- Microsoft Azure o AWS u otra / Plataforma Nube
 - Slack (coordinación de equipo)
 
 ## 🛠️ Descripción general del proyecto
