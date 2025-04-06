@@ -52,38 +52,36 @@ Es un acceso como servicio de API First, agrega conectividad, observabilidad y s
 
 ### 3.3 Otras Herramientas
 
-:contentReference[oaicite:27]{index=27}&#8203;:contentReference[oaicite:28]{index=28}
+- También se puede utilizar otras herramientas de CI/CD, como por ejemplo [Azure DevOps](https://azure.microsoft.com/en-us/products/devops) o [Github actions](https://github.com/features/actions).
 
 ### 3.4 Integraciones
+Se debe realizar integración entre:
 
-:contentReference[oaicite:29]{index=29}&#8203;:contentReference[oaicite:30]{index=30}
-
-- **GitHub y Jenkins**: :contentReference[oaicite:31]{index=31}&#8203;:contentReference[oaicite:32]{index=32}
-- **Jenkins y Slack**: :contentReference[oaicite:33]{index=33}&#8203;:contentReference[oaicite:34]{index=34}
+- **GitHub y Jenkins**: Github y Jenkins (Ver uso de WebHook en Github y Ngrok en caso de tener Jenkins Local).
+- **Jenkins y Slack**.
 
 ---
 
 ## 🧪 4. Metodología de Trabajo
 
 ### 4.1 Metodología
-
-:contentReference[oaicite:35]{index=35}&#8203;:contentReference[oaicite:36]{index=36}
-
-- **Equipos**: :contentReference[oaicite:37]{index=37}&#8203;:contentReference[oaicite:38]{index=38}
-- **Gestión de Versiones**: :contentReference[oaicite:39]{index=39}&#8203;:contentReference[oaicite:40]{index=40}
-- **Gestión de Proyectos**: :contentReference[oaicite:41]{index=41}&#8203;:contentReference[oaicite:42]{index=42}
-- **Tareas**:
-  - :contentReference[oaicite:43]{index=43}&#8203;:contentReference[oaicite:44]{index=44}
-  - :contentReference[oaicite:45]{index=45}&#8203;:contentReference[oaicite:46]{index=46}
-  - :contentReference[oaicite:47]{index=47}&#8203;:contentReference[oaicite:48]{index=48}
+Uso de misma metodología ya utilizda en entrega 1:
+- Mismos equipos
+- Usar GitFlow para administrar el flujo de trabajo
+- Metodologóa Kanban
+  - En Jira configurar proyecto "desarrollo de software" > "Kanban"
+  - Crear incidencias del proyecto en el tablero
+  - Priorizar
+  - Agregar un campo de estiación en horas o Story points de cada historia o tarea
+  - Manejar tareas y mantener tablero actualizado
 
 ### 4.2 Instrucciones de Presentación
 
-:contentReference[oaicite:49]{index=49}&#8203;:contentReference[oaicite:50]{index=50}
+> ⚠️ Esta experiencia solo considera entregable, no presentación.
 
 ### 4.3 Fecha de Entrega
 
-:contentReference[oaicite:51]{index=51}&#8203;:contentReference[oaicite:52]{index=52}
+- Fechas en aula Moodle
 
 ### 4.4 Entregables
 
