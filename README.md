@@ -33,7 +33,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 ---
 
-### 🔹 Entrega 1: Construcción inicial
+### 🔹 Entrega 1: Construcción inicial aplicación y pruebas automatizadas
 
 - Desarrollo de un CRUD funcional para una aplicación web definida por el equipo.
 - Especificación de requerimientos y casos de uso.
