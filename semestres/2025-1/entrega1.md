@@ -185,5 +185,5 @@ Video debe incluir:
 
 ---
 
-> ✅ Para preguntas o aclaraciones, usar el foro de la sección correspondiente.
+> ✅ Para preguntas o aclaraciones, usar el foro de la sección correspondiente en aula Moodle.
 
