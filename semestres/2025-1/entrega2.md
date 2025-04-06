@@ -99,3 +99,5 @@ Uso de misma metodología ya utilizda en entrega 1:
 
 ---
 
+> ✅ Para preguntas o aclaraciones, usar el foro de la sección correspondiente en aula Moodle.
+
