@@ -72,3 +72,6 @@ En esta oportunidad, crearemos un conjunto de pruebas en **Selenium** y lo integ
   - Problemas encontrados y soluciones.
 - **Documento completo como entregable** que responda a los mismos puntos anteriores, el cual puede ser entregado en GitHub.
 
+---
+
+> ✅ Para preguntas o aclaraciones, usar el foro de la sección correspondiente en aula Moodle.
