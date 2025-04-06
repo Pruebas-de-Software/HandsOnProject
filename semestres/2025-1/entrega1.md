@@ -1,4 +1,4 @@
-# 📦 Entrega 1 
+# 📦 Entrega 1 - : Construcción inicial aplicación y pruebas automatizadas
 
 ## 🎯 Resumen General
 
