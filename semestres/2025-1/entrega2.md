@@ -8,10 +8,10 @@ En esta segunda entrega, el objetivo es incorporar una herramienta que facilite 
 
 ## 🧩 1. Problema a Resolver
 
-:contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+Debemos llevar nuestro proyecto desarrollado en la entrega n°1 a un sistema de Integraión Continua / Despliegue Continuo (CI/CD). Debemos considerar dos elementos clave:
 
-1. **Implementación del sistema CI/CD**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-2. **Mejoras en la aplicación**: :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+1. **Implementación del sistema CI/CD**.
+2. **Mejoras en la aplicación**: Requerimientos pendientes de la entrega anterior y compromisos contraido en entrega 1.
 
 ---
 
@@ -19,27 +19,26 @@ En esta segunda entrega, el objetivo es incorporar una herramienta que facilite 
 
 ### 2.1 Implementación del Sistema CI/CD
 
-- **Instalación de Jenkins**: :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-- **Configuración de Jenkins**: :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-- **Integración con herramientas existentes**: :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
+- Instalación de Jenkins
+- Configuración de Jenkins
+- Integración con herramientas existentes
 
 ### 2.2 Mejoras en la Aplicación
 
-- **Desarrollo de dos nuevos requerimientos funcionales**: :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
+- Desarrollo de dos nuevos requerimientos funcionales 
 
 ### 2.3 Procedimientos
 
-- **Ambiente de Jenkins**: :contentReference[oaicite:17]{index=17}&#8203;:contentReference[oaicite:18]{index=18}
-- **Integración con Slack y GitHub**: :contentReference[oaicite:19]{index=19}&#8203;:contentReference[oaicite:20]{index=20}
-- **Automatización con Pipelines**: :contentReference[oaicite:21]{index=21}&#8203;:contentReference[oaicite:22]{index=22}
+- **Ambiente de Jenkins**: Jenkins puede ser instalado en ambiente local, pero idealmente en la Nube.
+- **Integración con Slack y GitHub**: Una vez Jenkins Instalado y configurado, integrar a herramientas Slack y Github.
+- **Automatización con Pipelines**: Generar Pipeline de CI/CD, programar Jenkins para que ejecute trabajos automáticamente cada vez que se realicen cambios en el repositorio de código fuente (Cambios asociados a los 2 nuevos requerimientos). Esta es una parte clave de CI/CD.
 
 ---
 
 ## 🔧 3. Herramientas y Soluciones
 
 ### 3.1 Jenkins
-
-:contentReference[oaicite:23]{index=23}&#8203;:contentReference[oaicite:24]{index=24}
+Es un servidor de automatización de código abierto, proporciona cientos de complementos para respaldar la creación, implementación y automatización de cualquier proyecto-
 
 - **Recursos Adicionales**:
   - [Curso de Jenkins](https://www.jenkins.io/doc/tutorials/)
@@ -47,8 +46,7 @@ En esta segunda entrega, el objetivo es incorporar una herramienta que facilite 
   - [Instalación de Jenkins en Máquina Virtual](https://www.jenkins.io/doc/book/installing/)
 
 ### 3.2 Ngrok
-
-:contentReference[oaicite:25]{index=25}&#8203;:contentReference[oaicite:26]{index=26}
+Es un acceso como servicio de API First, agrega conectividad, observabilidad y seguridad a aplicaciones en una sola línea. Ofrece acceso instantáneo a sus aplicaciones en cualquier nube, red privada o dispositivo con autenticación, equilibrio de carga y otros controles críticos.
 
 - [Enlace a Ngrok](https://ngrok.com/)
 
