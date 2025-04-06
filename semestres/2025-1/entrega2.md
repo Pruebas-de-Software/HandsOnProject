@@ -1,8 +1,8 @@
 # 📦 Entrega 2 – Integración Continua y Despliegue Continuo (CI/CD)
 
-## 🎯 Objetivo General
+## 🎯 Descripción General
 
-En esta segunda entrega, el objetivo es incorporar una herramienta que facilite el proceso de Integración Continua y Despliegue Continuo (CI/CD) para la aplicación desarrollada en la Entrega 1.&#8203;:contentReference[oaicite:2]{index=2}
+En esta segunda entrega, el objetivo es incorporar una herramienta que facilite el proceso de Integración Continua y Despliegue Continuo (CI/CD) para la aplicación desarrollada en la Entrega 1.
 
 ---
 
