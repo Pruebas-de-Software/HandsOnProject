@@ -87,5 +87,8 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - **[Equipo 8: Remates Rincón del Olvido](https://github.com/Equipo8-PruebadeSoftwareUSM/Proyecto-Sitio-de-remates-en-linea)**  
 - **[Equipo 9: Moda Virtual Neon Threads](https://github.com/INF331-Equipo9/Proyecto-ModaVirtualNeonThreads)**  
 
+---
+Licencia
+Este proyecto está bajo la MIT License - ver el archivo LICENSE para más detalles.
 
 
