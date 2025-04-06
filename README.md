@@ -24,7 +24,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ### 📅 Temas Primer semestre 2025 (NUEVO)
 
 **Temas a ser desarrollados:**
-- Tema nuevo 1.
+- [Conectados: Servicios a un clic](./semestres/2025-1/conectados.md).
 - Tema nuevo 2.
 - Tema nuevo 3.
 
