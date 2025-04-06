@@ -87,12 +87,12 @@ Uso de misma metodología ya utilizda en entrega 1:
 
 1. Enlace a código fuente en GitHub, actualización de código en repositorio
 2. Cápsula de video autoexplicativo del trabajo realizado, debe contener al menos:
-  1. Alcances de la herramienta
-  2. Descripción del trabajo realizado
-     1. Proyecto
-     2. Especificar dependencias entre la herramienta y la aplicación
-  3. Uso de Jenkins
-  4. Problemas encontrados y soluciones
+    1. Alcances de la herramienta
+    2. Descripción del trabajo realizado
+        1. Proyecto
+        2. Especificar dependencias entre la herramienta y la aplicación
+    3. Uso de Jenkins
+    4. Problemas encontrados y soluciones
 3. Actualizar documentación: Incluir información de la integraión Jenkins y actualización de aplicación
 
 > **Nota**: Es requisito de la tarea explicar la infraestructura que soporta la aplicación web, y su relación con las pruebas si es pertinente.
