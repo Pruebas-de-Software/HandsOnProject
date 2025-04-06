@@ -85,18 +85,17 @@ Uso de misma metodología ya utilizda en entrega 1:
 
 ### 4.4 Entregables
 
-- **Código Fuente**: :contentReference[oaicite:53]{index=53}&#8203;:contentReference[oaicite:54]{index=54}
-- **Cápsula de Video**: :contentReference[oaicite:55]{index=55}&#8203;:contentReference[oaicite:56]{index=56}
-  - :contentReference[oaicite:57]{index=57}&#8203;:contentReference[oaicite:58]{index=58}
-  - :contentReference[oaicite:59]{index=59}&#8203;:contentReference[oaicite:60]{index=60}
-  - :contentReference[oaicite:61]{index=61}&#8203;:contentReference[oaicite:62]{index=62}
-  - :contentReference[oaicite:63]{index=63}&#8203;:contentReference[oaicite:64]{index=64}
-  - :contentReference[oaicite:65]{index=65}&#8203;:contentReference[oaicite:66]{index=66}
-- **Documentación**: :contentReference[oaicite:67]{index=67}&#8203;:contentReference[oaicite:68]{index=68}
+1. Enlace a código fuente en GitHub, actualización de código en repositorio
+1. Cápsula de video autoexplicativo del trabajo realizado, debe contener al menos:
+2. Alcances de la herramienta
+2. Descripción del trabajo realizado
+3. Proyecto
+3. Especificar dependencias entre la herramienta y la aplicación
+2. Uso de Jenkins
+2. Problemas encontrados y soluciones
+1. Actualizar documentación: Incluir información de la integraión Jenkins y actualización de aplicación
 
 > **Nota**: :contentReference[oaicite:69]{index=69}&#8203;:contentReference[oaicite:70]{index=70}
 
 ---
-
-:contentReference[oaicite:71]{index=71}&#8203;:contentReference[oaicite:72]{index=72}
 
