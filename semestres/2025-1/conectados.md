@@ -44,13 +44,13 @@ Convertirnos en la plataforma de confianza número uno en servicios a domicilio 
 
 - **Registro de usuarios y profesionales:** Cada uno con su perfil según lo que necesita o ofrece.
 - **Publicación de servicios:** Los prestadores podrán subir fotos, precios, descripciones, categorías, zona de atención, etc.
-- **Buscador y filtros:** Por tipo de servicio, ubicación, disponibilidad, precio y calificaciones.
+- **Buscador y filtros:** Por tipo de servicio, etc..
 - **Agenda de disponibilidad:** Calendario para que los prestadores puedan mostrar cuándo están libres y disponibles para el trabajo.
 - **Chat interno:** Para que usuarios y prestadores se coordinen directamente, podría ser datos de contacto al inicio, por ejemplo whatsapp.
 - **Sistema de valoraciones y reseñas:** Para saber cómo le fue a otras personas con el servicio.
 - **Notificaciones:** Para nuevos mensajes, citas próximas o cambios en la agenda.
 - **Panel personal:** Donde los prestadores ven sus reservas, agenda y reseñas.
 - **Panel de admin:** Para gestionar el sistema, supervisar publicaciones y revisar denuncias.
-- **Diseño responsive:**
+- **Diseño responsive**
 
 ---
