@@ -25,7 +25,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 **Temas a ser desarrollados:**
 - [Conectados: Servicios a un clic](./semestres/2025-1/conectados.md).
-- Tema nuevo 2.
+- [RunTrack: plataforma para runners](./semestres/2025-1/runtrack.md).
 - Tema nuevo 3.
 
 ### 🔹 Tarea Especificación de Requerimientos de Software**
