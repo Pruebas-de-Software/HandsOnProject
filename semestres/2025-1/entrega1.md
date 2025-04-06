@@ -181,7 +181,7 @@ Video debe incluir:
 
 ## 👥 5. Equipos
 
-*SEquipos asignados en aula Moodle: https://aula.usm.cl/course/view.php?id=47173*
+*Equipos asignados en aula Moodle: https://aula.usm.cl/course/view.php?id=47173*
 
 ---
 
