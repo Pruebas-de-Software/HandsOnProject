@@ -1,5 +1,7 @@
 # 🏃‍♂️ Caso Aplicación Web: RunTrack – Plataforma para Runners
 
+![runtrack](./recursos/runtrack.png)
+
 ## 🧩 El Problema
 
 En la actualidad, muchas personas apasionadas por el running tienen dificultades para descubrir y participar en carreras locales de manera sencilla, organizada, pagar usa inscripción, luego valorizar la carrera y generar contenido social, lo que dificulta realizar inscripciones fácilmente o compartir experiencias post-carrera.
