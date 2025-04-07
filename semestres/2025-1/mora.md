@@ -1,6 +1,6 @@
-# 🎭 Caso: “Teatro Mora”
+# 🎭 Teatro Mora - Eventos teatrales
 
----
+![mora](./recursos/mora.png)
 
 ## 🧩 El Problema
 
