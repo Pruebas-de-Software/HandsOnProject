@@ -26,7 +26,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 **Temas a ser desarrollados:**
 - [Conectados: Servicios a un clic](./semestres/2025-1/conectados.md).
 - [RunTrack: plataforma para runners](./semestres/2025-1/runtrack.md).
-- Tema nuevo 3.
+- [LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehouse](./semestres/2025-1/logisticaglobal.md).
 
 ### 🔹 Tarea Especificación de Requerimientos de Software**
 - Especificación de Requerimientos de Software
