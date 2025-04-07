@@ -52,6 +52,8 @@ Para realizar las pruebas debe apoyarse en alguno de las herramientas que se lis
 
 ### 2.1 Herramientas de Testing Automatizado (seleccionar una):
 
+- Máximo 2 grupos por herramienta de testing.
+  
 1. **Puppeteer** is a Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol. Puppeteer runs in headless mode by default, but can be configured to run in full ("headful") Chrome/Chromium.
 1. **Jest** is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! 
 1. **Mocha (Chai)** is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
