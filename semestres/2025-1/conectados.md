@@ -1,7 +1,7 @@
 # 🌐 "Conectados" – Servicios a un Clic
 
 ![Conectados](./recursos/conectados.png)
-(Para andar de acuerdo a los tiempos, al estilo Ghimbli)
+(Para andar de acuerdo a los tiempos, al estilo estudio Ghibli)
 
 ## 🧩 ¿Cuál es el problema?
 
