@@ -63,20 +63,10 @@ Ser la solución definitiva para teatros medianos, optimizando la venta de bolet
 - 👥 Registro de usuarios con perfil (login/password) obligatorio para comprar boletos y participar en foros.
 - 🎫 Interfaz para María para crear eventos (nombre, fecha, hora, descripción) y asignar actores desde una lista de perfiles gestionados.
 - 🎭 Gestión de perfiles de actores por María (nombre, biografía, foto), visibles en los detalles de cada evento.
-- 📄 Página de detalles por evento con:
-  - Información del evento,
-  - Botón “Unirse a la cola virtual” (activo 1 hora antes de la venta),
-  - Foro interactivo.
-- ⏱️ Cola virtual simulada en tiempo real:
-  - Usuarios se unen,
-  - Reciben enlace único con número de turno,
-  - Ven contador de espera,
-  - Son notificados al llegar su turno para comprar.
+- 📄 Página de detalles por evento
+- ⏱️ Cola virtual simulada en tiempo real
 - 🪑 Selección de asientos y compra de boletos dentro del turno asignado, con límite de tiempo para completar la transacción.
-- 💬 Foro interactivo por evento:
-  - Usuarios registrados hacen preguntas,
-  - Actores o María responden,
-  - Mensajes públicos visibles para todos.
+- 💬 Foro interactivo por evento.
 - 🛠️ Interfaz administrativa para María para editar eventos, actores y moderar foros (eliminar mensajes si es necesario).
 - 🔐 Seguridad básica de datos (protección de perfiles y transacciones).
 - 📱 Diseño responsive para uso en computadoras y dispositivos móviles.
