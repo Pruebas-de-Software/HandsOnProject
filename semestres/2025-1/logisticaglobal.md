@@ -1,4 +1,4 @@
-# 🤖 Caso: Gestión de Incidentes Robóticos en Warehouse
+# 🤖 LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehouse
 
 ![logisticaglobal](./recursos/logisticaglobal.png)
 
