@@ -1,6 +1,6 @@
 # 🤖 Caso: Gestión de Incidentes Robóticos en Warehouse
 
----
+![logisticaglobal](./recursos/logisticaglobal.png)
 
 ## 🧩 El Problema
 
