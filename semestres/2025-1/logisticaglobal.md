@@ -82,3 +82,4 @@ Ser la solución líder en la gestión digital de incidentes robóticos para emp
 - 📱 Diseño responsive.
 
 ---
+Preparado por Bastián Salomón
