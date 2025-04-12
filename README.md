@@ -30,7 +30,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - [Teatro Mora: Eventos Teatrales](./semestres/2025-1/mora.md).
 
 ### 🔹 Tarea Especificación de Requerimientos de Software**
-- [Especificación de Requerimientos de Software](./semestres/2025-1/srs.md).
+📝 [Especificación de Requerimientos de Software](./semestres/2025-1/srs.md).
 
 ---
 
