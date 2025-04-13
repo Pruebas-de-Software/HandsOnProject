@@ -63,7 +63,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 ---
 
-## 🧾 Versiones anteriores 
+# 🧾 Versiones anteriores 
 
 ### 📅 Segundo semestre 2024
 
@@ -87,6 +87,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - **[Equipo 8: Remates Rincón del Olvido](https://github.com/Equipo8-PruebadeSoftwareUSM/Proyecto-Sitio-de-remates-en-linea)**  
 - **[Equipo 9: Moda Virtual Neon Threads](https://github.com/INF331-Equipo9/Proyecto-ModaVirtualNeonThreads)**  
 
+___
 ### 📅 Primer semestre 2024
 
 **Temas desarrollados:**
@@ -94,6 +95,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
+___
 ### 📅 Segundo semestre 2023
 
 **Temas desarrollados:**
@@ -101,6 +103,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
+___
 ### 📅 Primer semestre 2023
 
 **Temas desarrollados:**
@@ -114,8 +117,10 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 **Lecciones aprendidas**
 - **[Retrospectiva proyecto](./semestres/2023-1/retro.md)**
 
+___
 ### 📅 Segundo semestre 2022
 
+___
 ### 📅 Primer semestre 2022
 
 **Lecciones aprendidas**
