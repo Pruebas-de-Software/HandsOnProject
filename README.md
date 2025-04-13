@@ -103,6 +103,8 @@ ___
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
+**Lecciones aprendidas**
+- **Retrospectiva proyecto**
 ___
 ### 📅 Primer semestre 2023
 
@@ -120,6 +122,8 @@ ___
 ___
 ### 📅 Segundo semestre 2022
 
+**Lecciones aprendidas**
+- **Retrospectiva proyecto**
 ___
 ### 📅 Primer semestre 2022
 
