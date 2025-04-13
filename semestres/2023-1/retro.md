@@ -16,7 +16,7 @@ Puedes descargar el PDF del tablero completo haciendo clic en el siguiente enlac
 
 A continuación, puedes ver la grabación completa de la retrospectiva:
 
-[![Ver en YouTube](./2023-1/recursos/miniaturaYoutube.png)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Ver en YouTube](./2023-1/recursos/miniaturaYoutube.png)](https://www.youtube.com/watch?v=KUHVfEyQ-8Q)
 
 ---
 
