@@ -94,6 +94,10 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ### 📅 Primer semestre 2023
 
 **Temas desarrollados:**
+- [Directorio Médico](./semestres/2023-1/direcorio.md)
+- [Tareas por hacer](./semestres/2023-1/tareas.md)
+- [Registro ejercicios](./semestres/2023-1/registro-ejercicios.md)
+- [Biblioteca](./semestres/2023-1/biblioteca.md)
 
 **Repositorios de proyectos de estudiantes:**
 
