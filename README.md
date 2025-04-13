@@ -89,7 +89,17 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 ### 📅 Primer semestre 2024
 
+**Temas desarrollados:**
+- [Directorio Médico](./semestres/2023-1/direcorio.md)
+- [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
+- [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
+
 ### 📅 Segundo semestre 2023
+
+**Temas desarrollados:**
+- [Directorio Médico](./semestres/2023-1/direcorio.md)
+- [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
+- [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
 ### 📅 Primer semestre 2023
 
