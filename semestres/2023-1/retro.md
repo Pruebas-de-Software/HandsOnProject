@@ -8,7 +8,7 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 
 Puedes descargar el PDF del tablero completo haciendo clic en el siguiente enlace:
 
-👉 [Descargar PDF del tablero]([./recursos/RetroS1-2023.pdf)
+👉 [Descargar PDF del tablero](./recursos/RetroS1-2023.pdf)
 
 ---
 
