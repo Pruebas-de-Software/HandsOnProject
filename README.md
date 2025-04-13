@@ -95,12 +95,17 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 **Temas desarrollados:**
 
+**Repositorios de proyectos de estudiantes:**
+
 **Lecciones aprendidas**
 - **[Retrospectiva proyecto](./semestres/2023-1/retro.md)**
 
 ### 📅 Segundo semestre 2022
 
 ### 📅 Primer semestre 2022
+
+**Lecciones aprendidas**
+- **Retrospectiva proyecto**
 
 ---
 ### Licencia
