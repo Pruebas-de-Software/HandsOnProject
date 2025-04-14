@@ -20,7 +20,7 @@ A continuación, puedes ver la grabación completa de la retrospectiva:
 
 ---
 
-## 🖼 Imagen del Tablero
+## 🖼 Tablero Retro
 
 Vista general del tablero utilizado durante la retrospectiva:
 
