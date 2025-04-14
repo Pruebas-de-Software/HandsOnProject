@@ -104,7 +104,7 @@ ___
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
 **Lecciones aprendidas**
-- **Retrospectiva proyecto**
+- **[Retrospectiva proyecto](./semestres/2023-2/retro.md)**
 ___
 ### 📅 Primer semestre 2023
 
