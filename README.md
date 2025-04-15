@@ -109,10 +109,10 @@ ___
 ### 📅 Primer semestre 2023
 
 **Temas desarrollados:**
-- [Directorio Médico](./semestres/2023-1/directorio.md)
-- [Tareas por hacer](./semestres/2023-1/tareas.md)
-- [Registro ejercicios](./semestres/2023-1/registro-ejercicios.md)
-- [Biblioteca](./semestres/2023-1/biblioteca.md)
+- [Salud y Bienestar: Directorio Médico](./semestres/2023-1/directorio.md)
+- [TaskNow: Web de Tareas por Hacer](./semestres/2023-1/tareas.md)
+- [Fit&Strong: Registro de Ejercicios](./semestres/2023-1/registro-ejercicios.md)
+- [Biblioteca – Universidad de Salamandra](./semestres/2023-1/biblioteca.md)
 
 **Repositorios de proyectos de estudiantes:**
 
