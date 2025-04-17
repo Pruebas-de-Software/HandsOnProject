@@ -91,7 +91,7 @@ ___
 ### 📅 Primer semestre 2024
 
 **Temas desarrollados:**
-- [Directorio Médico](./semestres/2023-1/directorio.md)
+- [Salud y Bienestar: Directorio Médico](./semestres/2023-1/directorio.md)
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
@@ -99,7 +99,7 @@ ___
 ### 📅 Segundo semestre 2023
 
 **Temas desarrollados:**
-- [Directorio Médico](./semestres/2023-1/directorio.md)
+- [Salud y Bienestar: Directorio Médico](./semestres/2023-1/directorio.md)
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
