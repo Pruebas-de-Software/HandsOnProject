@@ -52,6 +52,9 @@ Convertirse en un **referente clandestino** en el comercio de reliquias tecnoló
 - **Carga rápida:** Optimizar el rendimiento para conexiones limitadas o de bajo consumo.
 - **Diseño discreto:** Estética minimalista para evitar detección y facilitar el uso en situaciones de riesgo.
 
+## Autor
+
+- [@MaxGGx Iñaki Oyarzún M.](https://github.com/MaxGGx)
 ---
 
 
