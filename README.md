@@ -146,8 +146,8 @@ ___
 **Repositorios de proyectos de estudiantes:**
 
 - **[Trabajo individual: Javier Torres: Formulario de contacto](https://github.com/J122016/J122016-Tarea-2-INF331-UTFSM).**
-  - [Presentación Jasmine](./semestres/2022-1/recursos/G1-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-1/recursos/G1-Informe1.pdf)
-  - [Presentación CI/CD + Selenium](./semestres/2022-1/recursos/G1-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-1/recursos/G1-Informe2.pdf) 
+  - [Presentación Jasmine](https://youtu.be/yRyrX27EZN4) / [Informe experiencia](./semestres/2022-1/recursos/G1-Informe1.pdf)
+  - [Presentación CI/CD + Selenium](https://youtu.be/9sRmEiS1S5o) / [Informe experiencia](./semestres/2022-1/recursos/G1-Informe2.pdf) 
 
 **Lecciones aprendidas**
 - **Retrospectiva proyecto**
