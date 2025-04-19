@@ -145,9 +145,9 @@ ___
 
 **Repositorios de proyectos de estudiantes:**
 
-- **[Javier Torres: Recetas saludables](https://github.com/xavierutox/Recipe-website-with-react-and-jest).**
-  - [Presentación Jasmine](./semestres/2022-2/recursos/G1-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-Informe1.pdf)
-  - [Presentación CI/CD + Selenium](./semestres/2022-2/recursos/G1-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-Informe2.pdf) 
+- **[Trabajo individual: Javier Torres: Recetas saludables](https://github.com/xavierutox/Recipe-website-with-react-and-jest).**
+  - [Presentación Jasmine](./semestres/2022-1/recursos/G1-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-1/recursos/G1-Informe1.pdf)
+  - [Presentación CI/CD + Selenium](./semestres/2022-1/recursos/G1-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-1/recursos/G1-Informe2.pdf) 
 
 **Lecciones aprendidas**
 - **Retrospectiva proyecto**
