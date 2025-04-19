@@ -71,4 +71,7 @@ Ser la solución definitiva para teatros medianos, optimizando la venta de bolet
 - 🔐 Seguridad básica de datos (protección de perfiles y transacciones).
 - 📱 Diseño responsive para uso en computadoras y dispositivos móviles.
 
+## Autor
+
+- [@bastiansv Bastián Salomon](https://github.com/bastiansv)
 ---
