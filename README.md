@@ -127,13 +127,13 @@ ___
 
 **Repositorios de proyectos de estudiantes:**
 
-- **[Equipo 1: Recetas saludables](https://github.com/Equipo1-Pruebas-de-Software/remates-rincon-del-olvido).**
-  - Presentación 1 / Informe 1
-  - Presentación 2 / Informe 2 
+- **[Equipo 1: Recetas saludables](https://github.com/xavierutox/Recipe-website-with-react-and-jest).**
+  - [Presentación Jest 1](./semestres/2022-2/G1-Presentacion1.pdf) / [Informe 1](./semestres/2022-2/G1-informe1.pdf)
+  - [Presentación CI/CD 2](./semestres/2022-2/G1-Presentacion2.pdf) / [Informe 2](./semestres/2022-2/G1-informe2.pdf) 
 
 - **[Equipo 4: Recetas saludables](https://github.com/MaxGGx/SoftwareTesting-Integration-Process)**
-  - Presentación 1 / Informe 1
-  - Presentación 2 / Informe 2 
+  - [Presentación Robot 1](./semestres/2022-2/G4-Presentacion1.pdf) / [Informe 1](./semestres/2022-2/G4-informe1.pdf)
+  - [Presentación CI/CD 2](./semestres/2022-2/G4-Presentacion2.pdf) / [Informe 2](./semestres/2022-2/G4-informe2.pdf) 
 
 **Lecciones aprendidas**
 - **Retrospectiva proyecto**
