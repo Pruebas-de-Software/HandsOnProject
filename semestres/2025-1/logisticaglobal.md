@@ -81,5 +81,7 @@ Ser la solución líder en la gestión digital de incidentes robóticos para emp
 - 📋 Panel administrativo para gestionar usuarios y monitorear el sistema.
 - 📱 Diseño responsive.
 
+## Autor
+
+- [@bastiansv Bastián Salomon](https://github.com/bastiansv)
 ---
-Preparado por Bastián Salomón
