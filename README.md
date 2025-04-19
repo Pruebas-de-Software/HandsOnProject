@@ -128,12 +128,12 @@ ___
 **Repositorios de proyectos de estudiantes:**
 
 - **[Equipo 1: Recetas saludables](https://github.com/xavierutox/Recipe-website-with-react-and-jest).**
-  - [Presentación Jest](./semestres/2022-2/recursos/G1-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-informe1.pdf)
-  - [Presentación CI/CD + Selenium](./semestres/2022-2/recursos/G1-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-informe2.pdf) 
+  - [Presentación Jest](./semestres/2022-2/recursos/G1-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-Informe1.pdf)
+  - [Presentación CI/CD + Selenium](./semestres/2022-2/recursos/G1-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-Informe2.pdf) 
 
 - **[Equipo 4: Recetas saludables](https://github.com/MaxGGx/SoftwareTesting-Integration-Process)**
-  - [Presentación Robot](./semestres/2022-2/G4-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-2/G4-informe1.pdf)
-  - [Presentación CI/CD + Selenium](./semestres/2022-2/G4-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/G4-informe2.pdf) 
+  - [Presentación Robot](./semestres/2022-2/recursos/G4-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G4-Informe1.pdf)
+  - [Presentación CI/CD + Selenium](./semestres/2022-2/recursos/G4-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G4-Informe2.pdf) 
 
 **Lecciones aprendidas**
 - **Retrospectiva proyecto**
