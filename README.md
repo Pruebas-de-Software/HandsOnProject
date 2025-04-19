@@ -140,6 +140,15 @@ ___
 ___
 ### 📅 Primer semestre 2022
 
+**Temas a ser desarrollados:**
+- [VitaCocina: Recetas saludables y consejos de cocina.](./semestres/2024-2/vitacocina.md) (versión simplificada)
+
+**Repositorios de proyectos de estudiantes:**
+
+- **[Javier Torres: Recetas saludables](https://github.com/xavierutox/Recipe-website-with-react-and-jest).**
+  - [Presentación Jasmine](./semestres/2022-2/recursos/G1-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-Informe1.pdf)
+  - [Presentación CI/CD + Selenium](./semestres/2022-2/recursos/G1-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-Informe2.pdf) 
+
 **Lecciones aprendidas**
 - **Retrospectiva proyecto**
 
