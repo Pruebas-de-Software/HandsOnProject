@@ -122,6 +122,19 @@ ___
 ___
 ### 📅 Segundo semestre 2022
 
+**Temas a ser desarrollados:**
+- [VitaCocina: Recetas saludables y consejos de cocina.](./semestres/2024-2/vitacocina.md) (versión simplificada)
+
+**Repositorios de proyectos de estudiantes:**
+
+- **[Equipo 1: Recetas saludables](https://github.com/Equipo1-Pruebas-de-Software/remates-rincon-del-olvido).**
+  - Presentación 1 / Informe 1
+  - Presentación 2 / Informe 2 
+
+- **[Equipo 4: Recetas saludables](https://github.com/MaxGGx/SoftwareTesting-Integration-Process)**
+  - Presentación 1 / Informe 1
+  - Presentación 2 / Informe 2 
+
 **Lecciones aprendidas**
 - **Retrospectiva proyecto**
 ___
