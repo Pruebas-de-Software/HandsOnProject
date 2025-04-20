@@ -150,7 +150,7 @@ ___
   - [Presentación CI/CD + Selenium](https://youtu.be/9sRmEiS1S5o) / [Informe experiencia](./semestres/2022-1/recursos/G1-Informe2.pdf) 
 
 **Lecciones aprendidas**
-- **Retrospectiva proyecto**
+- **[Retrospectiva proyecto](./semestres/2022-1/retro.md)**
 
 ---
 ### Licencia
