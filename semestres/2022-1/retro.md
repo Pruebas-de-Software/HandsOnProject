@@ -1,8 +1,9 @@
-# 📝 Retrospectiva de Sprint Semestre 1 2021
+# 📝 Retrospectiva de Sprint Semestre 1 2022
 
 En esta retrospectiva, el equipo analizó los principales aprendizajes y oportunidades de mejora.
 
 ---
+![Foto Retro](./recursos/RetroS1-2022-2.jpg)
 
 ## ✅ Mantener
 
