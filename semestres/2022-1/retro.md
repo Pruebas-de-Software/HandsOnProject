@@ -85,3 +85,5 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 - Diego Aguilera
 - Javier Torres
 - Raúl Álvarez
+
+---
