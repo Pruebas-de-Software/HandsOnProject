@@ -116,6 +116,10 @@ ___
 
 **Repositorios de proyectos de estudiantes:**
 
+- **Fusión Equipo 8 y 5 : Biblioteca:**
+  - [Presentación Jest](https://www.youtube.com/watch?v=XwZ0Rsa4Lsk) / [Informe experiencia](./semestres/2023-1/recursos/G85-Informe1.pdf) / [Repositorio](https://github.com/validacion-y-verificacion/presentacion)
+  - [Presentación CI/CD + Selenium](https://www.youtube.com/watch?v=psBfnqfpTMw) / [Informe experiencia](./semestres/2023-1/recursos/G85-Informe2.pdf) / [Repositorio](https://github.com/presentacion-2/presentacion-2)
+
 **Lecciones aprendidas**
 - **[Retrospectiva proyecto](./semestres/2023-1/retro.md)**
 
