@@ -116,7 +116,13 @@ ___
 
 **Repositorios de proyectos de estudiantes:**
 
-- **Fusión Equipo 8 y 5 : Biblioteca:**
+- **Equipo 10: Medfinder: Web de directorio médico**
+  - [Presentación Robot Framework](#) / [Informe experiencia](./semestres/2023-1/recursos/G10-Informe1.pdf) / [Repositorio](https://github.com/Brunalga/medfinder)
+      (Este grupo se separó)
+      - Equipo 10.1 [Presentación CI/CD + Selenium](https://www.youtube.com/watch?v=bxFnpli9R0Q) / [Informe experiencia](./semestres/2023-1/recursos/G10.1-Informe2.pdf) / [Repositorio](https://github.com/windu2/medfinder-ci-cd/)
+      - Equipo 10.2 [Presentación CI/CD + Selenium](https://usmcl-my.sharepoint.com/personal/cristian_bruna_sansano_usm_cl/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcristian%5Fbruna%5Fsansano%5Fusm%5Fcl%2FDocuments%2FRamos%2F2023%2D1%2FPruebas%20de%20Software%2FPresentacion%202%2FPresentacion%202%20Grupo%209%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E47676df1%2D5e8e%2D43c1%2Dab4a%2D11531ff24369) / [Informe experiencia](./semestres/2023-1/recursos/G10.2-Informe2.pdf) / [Repositorio](https://github.com/PyComm/MedFinder-jenkins)
+
+- **Fusión Equipo 8 y 5: Biblioteca**
   - [Presentación Jest](https://www.youtube.com/watch?v=XwZ0Rsa4Lsk) / [Informe experiencia](./semestres/2023-1/recursos/G85-Informe1.pdf) / [Repositorio](https://github.com/validacion-y-verificacion/presentacion)
   - [Presentación CI/CD + Selenium](https://www.youtube.com/watch?v=psBfnqfpTMw) / [Informe experiencia](./semestres/2023-1/recursos/G85-Informe2.pdf) / [Repositorio](https://github.com/presentacion-2/presentacion-2)
 
