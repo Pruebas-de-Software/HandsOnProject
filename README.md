@@ -109,6 +109,10 @@ ___
   - [Presentación Robot Framework](https://www.youtube.com/watch?v=xwm8K5Wm9MQ) / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe1.pdf)
   - [Presentación CI/CD](https://www.youtube.com/watch?v=grC-bNLi4As)  / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe2.pdf)
   - [Presentación Selenium/CD](./#)  / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe3.pdf)
+ 
+- **[Equipo 4: El Rincón del Olvido](https://github.com/Pruebas-intensas)**
+  - [Presentación Mocha/Karma](https://youtu.be/6ZlYeoBmBRU) / [Informe experiencia](./semestres/2023-2/recursos/G4-Informe1.pdf)
+  - [Presentación Selenium/CD](./#)  / [Informe experiencia](./semestres/2023-2/recursos/G4-Informe3.pdf)
 
 **Lecciones aprendidas**
 - **[Retrospectiva proyecto](./semestres/2023-2/retro.md)**
