@@ -103,6 +103,13 @@ ___
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
+**Repositorios de proyectos de estudiantes:**
+
+- **[Equipo 2: Salud y Bienestar: Directorio Médico](https://github.com/Equipo2PDW/ProyectoDirectorioMedico)**
+  - [Presentación Robot Framework](https://www.youtube.com/watch?v=xwm8K5Wm9MQ) / [Informe experiencia](./semestres/2023-1/recursos/G2-Informe1.pdf)
+  - [Presentación CI/CD](https://www.youtube.com/watch?v=grC-bNLi4As)  / [Informe experiencia](./semestres/2023-1/recursos/G2-Informe2.pdf)
+  - [Presentación Selenium/CD](./#)  / [Informe experiencia](./semestres/2023-1/recursos/G2-Informe3.pdf)
+
 **Lecciones aprendidas**
 - **[Retrospectiva proyecto](./semestres/2023-2/retro.md)**
 ___
@@ -117,7 +124,7 @@ ___
 **Repositorios de proyectos de estudiantes:**
 
 - **Equipo 10: Medfinder: Web de directorio médico**
-  - [Presentación Robot Framework](#) / [Informe experiencia](./semestres/2023-1/recursos/G10-Informe1.pdf) / [Repositorio](https://github.com/Brunalga/medfinder)
+  - [Presentación Robot Framework](./#) / [Informe experiencia](./semestres/2023-1/recursos/G10-Informe1.pdf) / [Repositorio](https://github.com/Brunalga/medfinder)
       (Este grupo se separó)
       - Equipo 10.1 [Presentación CI/CD + Selenium](https://www.youtube.com/watch?v=bxFnpli9R0Q) / [Informe experiencia](./semestres/2023-1/recursos/G10.1-Informe2.pdf) / [Repositorio](https://github.com/windu2/medfinder-ci-cd/)
       - Equipo 10.2 [Presentación CI/CD + Selenium](https://usmcl-my.sharepoint.com/personal/cristian_bruna_sansano_usm_cl/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcristian%5Fbruna%5Fsansano%5Fusm%5Fcl%2FDocuments%2FRamos%2F2023%2D1%2FPruebas%20de%20Software%2FPresentacion%202%2FPresentacion%202%20Grupo%209%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E47676df1%2D5e8e%2D43c1%2Dab4a%2D11531ff24369) / [Informe experiencia](./semestres/2023-1/recursos/G10.2-Informe2.pdf) / [Repositorio](https://github.com/PyComm/MedFinder-jenkins)
