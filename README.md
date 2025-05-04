@@ -97,10 +97,17 @@ ___
 
 **Repositorios de proyectos de estudiantes:**
 
-- **[Equipo 2: Salud y Bienestar: Directorio Médico](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw)**
+- **[Equipo 1: Salud y Bienestar: Directorio Médico](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw)**
   - [Presentación Robot Framework](https://youtu.be/T3Xp2whfJv0) / [Informe experiencia](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw/wiki/Entrega-1)
   - [Presentación CI/CD](https://youtu.be/vSeGkw8lUzY)  / [Informe experiencia](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw/wiki/Entrega-2)
   - [Presentación Selenium](https://youtu.be/_n-AOdtBwVA)  / [Informe experiencia](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw/wiki/Entrega-3)
+
+ - **[Equipo 2: Neon Threads](https://github.com/Proyecto-Pruebas-de-Software-Equipo-2/Proyecto-Pruebas-de-Software-2024-1)**
+  - [Presentación Cypress](https://youtu.be/ZGgTyxmcrAk) / [Informe experiencia](https://github.com/Proyecto-Pruebas-de-Software-Equipo-2/Proyecto-Pruebas-de-Software-2024-1/wiki)
+  - [Presentación CI/CD](https://youtu.be/LQ1QVylhjQU)  / [Informe experiencia](https://github.com/Proyecto-Pruebas-de-Software-Equipo-2/Proyecto-Pruebas-de-Software-2024-1/wiki/Entrega-2)
+  - [Presentación Selenium](https://youtu.be/wJahJJKEsTs)  / [Informe experiencia](https://github.com/Proyecto-Pruebas-de-Software-Equipo-2/Proyecto-Pruebas-de-Software-2024-1/wiki/Entrega-3)
+
+  
 ___
 ### 📅 Segundo semestre 2023
 
