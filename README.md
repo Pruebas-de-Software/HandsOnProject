@@ -95,6 +95,12 @@ ___
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
+**Repositorios de proyectos de estudiantes:**
+
+- **[Equipo 2: Salud y Bienestar: Directorio Médico](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw)**
+  - [Presentación Robot Framework](https://youtu.be/T3Xp2whfJv0) / [Informe experiencia](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw/wiki/Entrega-1)
+  - [Presentación CI/CD](https://youtu.be/vSeGkw8lUzY)  / [Informe experiencia](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw/wiki/Entrega-2)
+  - [Presentación Selenium](https://youtu.be/_n-AOdtBwVA)  / [Informe experiencia](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw/wiki/Entrega-3)
 ___
 ### 📅 Segundo semestre 2023
 
@@ -108,11 +114,11 @@ ___
 - **[Equipo 2: Salud y Bienestar: Directorio Médico](https://github.com/Equipo2PDW/ProyectoDirectorioMedico)**
   - [Presentación Robot Framework](https://www.youtube.com/watch?v=xwm8K5Wm9MQ) / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe1.pdf)
   - [Presentación CI/CD](https://www.youtube.com/watch?v=grC-bNLi4As)  / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe2.pdf)
-  - [Presentación Selenium/CD](./#)  / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe3.pdf)
+  - [Presentación Selenium](./#)  / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe3.pdf)
  
 - **[Equipo 4: El Rincón del Olvido](https://github.com/Pruebas-intensas)**
   - [Presentación Mocha/Karma](https://youtu.be/6ZlYeoBmBRU) / [Informe experiencia](./semestres/2023-2/recursos/G4-Informe1.pdf)
-  - [Presentación Selenium/CD](./#)  / [Informe experiencia](./semestres/2023-2/recursos/G4-Informe3.pdf)
+  - [Presentación Selenium](./#)  / [Informe experiencia](./semestres/2023-2/recursos/G4-Informe3.pdf)
 
 **Lecciones aprendidas**
 - **[Retrospectiva proyecto](./semestres/2023-2/retro.md)**
