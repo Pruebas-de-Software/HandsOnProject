@@ -106,9 +106,9 @@ ___
 **Repositorios de proyectos de estudiantes:**
 
 - **[Equipo 2: Salud y Bienestar: Directorio Médico](https://github.com/Equipo2PDW/ProyectoDirectorioMedico)**
-  - [Presentación Robot Framework](https://www.youtube.com/watch?v=xwm8K5Wm9MQ) / [Informe experiencia](./semestres/2023-1/recursos/G2-Informe1.pdf)
-  - [Presentación CI/CD](https://www.youtube.com/watch?v=grC-bNLi4As)  / [Informe experiencia](./semestres/2023-1/recursos/G2-Informe2.pdf)
-  - [Presentación Selenium/CD](./#)  / [Informe experiencia](./semestres/2023-1/recursos/G2-Informe3.pdf)
+  - [Presentación Robot Framework](https://www.youtube.com/watch?v=xwm8K5Wm9MQ) / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe1.pdf)
+  - [Presentación CI/CD](https://www.youtube.com/watch?v=grC-bNLi4As)  / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe2.pdf)
+  - [Presentación Selenium/CD](./#)  / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe3.pdf)
 
 **Lecciones aprendidas**
 - **[Retrospectiva proyecto](./semestres/2023-2/retro.md)**
