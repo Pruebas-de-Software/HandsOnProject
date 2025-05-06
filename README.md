@@ -166,7 +166,7 @@ ___
   - [Presentación CI/CD + Selenium](./semestres/2022-2/recursos/G1-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-Informe2.pdf) 
 
 - **[Equipo 4: Recetas saludables](https://github.com/MaxGGx/SoftwareTesting-Integration-Process)**
-  - [Presentación Robot](./semestres/2022-2/recursos/G4-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G4-Informe1.pdf)
+  - [Presentación Robot Framework](./semestres/2022-2/recursos/G4-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G4-Informe1.pdf)
   - [Presentación CI/CD + Selenium](./semestres/2022-2/recursos/G4-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G4-Informe2.pdf) 
 
 **Lecciones aprendidas**
