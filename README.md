@@ -63,41 +63,41 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 ---
 
-## **🚀Repositorios de proyectos de estudiantes: Semestre 1 2025🚀**
+# **🚀Repositorios de proyectos de estudiantes: Semestre 1 2025🚀**
 
-- **[Equipo 1: Conectados: Servicios a un clic]()**
+- **[Equipo 1: Conectados, Servicios a un clic]()**
   - Herramienta de testing: Jest
   - Tecnologíaso: React(Front-end) + Spring Boot(Back-end) + Mysql + AWS
     
-- **[Equipo 2: Teatro Mora: Eventos Teatrales](https://github.com/QAlityDevs/mora-virtual)**
+- **[Equipo 2: Teatro Mora, Eventos Teatrales](https://github.com/QAlityDevs/mora-virtual)**
   - Herramienta de testing: Jest
   - Tecnologías a usar en el proyecto: NextJS + Supabase (Postgresql) + Vercel
   
-- **[Equipo 3: LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehous](https://github.com/Equipo-3-Pruebas-de-Software/LogisticaGlobal)**
+- **[Equipo 3: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehous](https://github.com/Equipo-3-Pruebas-de-Software/LogisticaGlobal)**
   - Herramientas de Testing: Cypress
   - Tecnologías: React + Nodejs + Express + Mysql + AWS  
 
-- **[Equipo 4: Teatro Mora: Eventos Teatrales]()**
+- **[Equipo 4: Teatro Mora, Eventos Teatrales]()**
   - Herramienta de testing: Mocha + Chai
   - Tecnologías: React + NodeJS + PostgreSQL +AWS
   
-- **[Equipo 5: Conectados: Servicios a un clic](https://github.com/Grupo-5-Conectados/Conectados)**
+- **[Equipo 5: Conectados, Servicios a un clic](https://github.com/Grupo-5-Conectados/Conectados)**
   - Herramienta de testing: Playwright
   - Tecnologías: React (Front-end) + NodeJS con Express (Back-end) + MySQL + Microsoft Azure + Socket.io + Railway 
 
-- **[Equipo 6: LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehous](https://github.com/Marambio-MyA/LogisticaGlobal)**
+- **[Equipo 6: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehous](https://github.com/Marambio-MyA/LogisticaGlobal)**
   - Herramienta de testing: Puppeteer
   - Tecnologías: React(Front-end) + NodeJS(Back-end) + PostgreSQL + Railway
 
-- **[Equipo 7: Conectados: Servicios a un clic](https://github.com/E7-I/conectados)**
+- **[Equipo 7: Conectados, Servicios a un clic](https://github.com/E7-I/conectados)**
   - Herramienta de testing: Cypress
   - Tecnologías: Nodejs, Express, React, Mongo, Azure
   
-- **[Equipo 8: LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehous](https://github.com/rBaku/Proyecto-LogisticaGlobal.com)**
+- **[Equipo 8: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehous](https://github.com/rBaku/Proyecto-LogisticaGlobal.com)**
   - Herramienta de testing: Mocha (Chai)
   - Tecnologías: React.js(Front-end) + Node.js y Express.js(Back-end) + PostgreSQL + microsoft azure
   
-- **[Equipo 9:RunTrack: plataforma para runners]()**
+- **[Equipo 9:RunTrack, plataforma para runners](https://github.com/inf-331-grupo-9/proyecto)**
   - Herramienta de testing: Playwright + Jasmine
   - Tecnología: NextJS (FE) + NodeJS (BE) + MongoDB + Azure
 
