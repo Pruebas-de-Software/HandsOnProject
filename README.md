@@ -63,7 +63,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 ---
 
-# **🚀Repositorios de proyectos de estudiantes: Semestre 1 2025🚀**
+# **🚀Repositorios de proyectos: Semestre 1 2025🚀**
 
 - **[Equipo 1: Conectados, Servicios a un clic](https://github.com/ConectadosTeam/Conectados.git)**
   - Herramienta de testing: Jest
@@ -97,7 +97,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Mocha (Chai)
   - Tecnologías: React.js(Front-end) + Node.js y Express.js(Back-end) + PostgreSQL + microsoft azure
   
-- **[Equipo 9:RunTrack, plataforma para runners](https://github.com/inf-331-grupo-9/proyecto)**
+- **[Equipo 9: RunTrack, plataforma para runners](https://github.com/inf-331-grupo-9/proyecto)**
   - Herramienta de testing: Playwright + Jasmine
   - Tecnología: NextJS (FE) + NodeJS (BE) + MongoDB + Azure
 
