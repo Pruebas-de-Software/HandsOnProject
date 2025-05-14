@@ -65,21 +65,13 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ### **Repositorios de proyectos de estudiantes:**
 
 - **Equipo 1**
-  
 - **Equipo 2**
-  
-- **[Equipo 3: LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehous] (https://github.com/Equipo-3-Pruebas-de-Software/LogisticaGlobal)**
-
+- **[Equipo 3: LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehous](https://github.com/Equipo-3-Pruebas-de-Software/LogisticaGlobal)**
 - **Equipo 4**
-
-- **[Equipo 5: Conectados: Servicios a un clic] (https://github.com/Grupo-5-Conectados/Conectados)**
-
+- **[Equipo 5: Conectados: Servicios a un clic](https://github.com/Grupo-5-Conectados/Conectados)**
 - **Equipo 6**
-
-- **[Equipo 7: Conectados: Servicios a un clic] (https://github.com/E7-I/conectados)**
-
+- **[Equipo 7: Conectados: Servicios a un clic](https://github.com/E7-I/conectados)**
 - **Equipo 8**
- 
 - **Equipo 9**
 
 ---
