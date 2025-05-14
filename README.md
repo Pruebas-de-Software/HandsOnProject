@@ -65,7 +65,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 # **🚀Repositorios de proyectos de estudiantes: Semestre 1 2025🚀**
 
-- **[Equipo 1: Conectados, Servicios a un clic]()**
+- **[Equipo 1: Conectados, Servicios a un clic](https://github.com/ConectadosTeam/Conectados.git)**
   - Herramienta de testing: Jest
   - Tecnologíaso: React(Front-end) + Spring Boot(Back-end) + Mysql + AWS
     
