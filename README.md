@@ -77,7 +77,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramientas de Testing: Cypress
   - Tecnologías: React + Nodejs + Express + Mysql + AWS  
 
-- **[Equipo 4: Teatro Mora, Eventos Teatrales]()**
+- **[Equipo 4: Teatro Mora, Eventos Teatrales](https://github.com/Proyecto-pruebas-de-software/app-teatro-mora)**
   - Herramienta de testing: Mocha + Chai
   - Tecnologías: React + NodeJS + PostgreSQL +AWS
   
