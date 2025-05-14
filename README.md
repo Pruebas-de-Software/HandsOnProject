@@ -69,7 +69,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Jest
   - Tecnologíaso: React(Front-end) + Spring Boot(Back-end) + Mysql + AWS
     
-- **[Equipo 2: Teatro Mora: Eventos Teatrales]()**
+- **[Equipo 2: Teatro Mora: Eventos Teatrales](https://github.com/QAlityDevs/mora-virtual)**
   - Herramienta de testing: Jest
   - Tecnologías a usar en el proyecto: NextJS + Supabase (Postgresql) + Vercel
   
