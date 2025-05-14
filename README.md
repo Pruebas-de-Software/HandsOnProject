@@ -62,17 +62,32 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 📄 [Ver detalles de la Entrega 3](./semestres/2025-1/entrega3.md)
 
 
-### **Repositorios de proyectos de estudiantes:**
+### **Repositorios de proyectos de estudiantes: Semestre 1 2025**
 
 - **Equipo 1**
 - **Equipo 2**
+- 
 - **[Equipo 3: LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehous](https://github.com/Equipo-3-Pruebas-de-Software/LogisticaGlobal)**
+  - Herramientas de Testing: Cypress
+  - Tecnologías: React + Nodejs + Express + Mysql + AWS  
+
 - **Equipo 4**
+- 
 - **[Equipo 5: Conectados: Servicios a un clic](https://github.com/Grupo-5-Conectados/Conectados)**
+  - Herramienta de testing: Playwright
+  - Tecnologías: React (Front-end) + NodeJS con Express (Back-end) + MySQL + Microsoft Azure + Socket.io + Railway 
+
 - **Equipo 6**
 - **[Equipo 7: Conectados: Servicios a un clic](https://github.com/E7-I/conectados)**
-- **Equipo 8**
+  - Herramienta de testing: Cypress
+  - Tecnologias: Nodejs, Express, React, Mongo, Azure
+  
+- **[Equipo 8: LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehous](https://github.com/rBaku/Proyecto-LogisticaGlobal.com)**
+  - Herramienta de testing: Mocha (Chai)
+  - Tecnologías: React.js(Front-end) + Node.js y Express.js(Back-end) + PostgreSQL + microsoft azure
+  
 - **Equipo 9**
+
 
 ---
 
