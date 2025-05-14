@@ -4,7 +4,7 @@ Este repositorio contiene el proyecto práctico de la asignatura **INF331 - Test
 
 ## 📚 Descripción general del curso
 
-**INF331 - Testing de Software** es una asignatura enfocada en entregar herramientas prácticas para asegurar la calidad del software. A través de ejercicios aplicados, los estudiantes adquieren experiencia en testing automatizado, integración continua (CI), despliegue continuo (CD) y buenas prácticas de desarrollo moderno.
+**INF331 - Testing de Software** es una asignatura enfocada en entregar herramientas prácticas para asegurar la calidad del software. A través de ejercicios aplicados, los estudiantes adquieren experiencia en testing automatizado, testing ágil, integración continua (CI), despliegue continuo (CD) y buenas prácticas de desarrollo moderno.
 
 Durante el curso se trabaja con tecnologías y herramientas reales como:
 - GitHub (Repositorio)
