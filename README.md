@@ -85,7 +85,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Playwright
   - Tecnologías: React (Front-end) + NodeJS con Express (Back-end) + MySQL + Microsoft Azure + Socket.io + Railway 
 
-- **[Equipo 6: LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehous]()**
+- **[Equipo 6: LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehous](https://github.com/Marambio-MyA/LogisticaGlobal)**
   - Herramienta de testing: Puppeteer
   - Tecnologías: React(Front-end) + NodeJS(Back-end) + PostgreSQL + Railway
 
