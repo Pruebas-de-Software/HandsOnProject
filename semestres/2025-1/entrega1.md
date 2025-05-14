@@ -142,7 +142,7 @@ Se deben cosiderar los siguientes entregables:
 1. Cápsula de video explicativa
 1. Información de Contacto y Contribución
 
-### 4.2 Documentación (en Markdown en el mismo repo):
+### 4.2 Documentación (en Wiki del repositorio):
 Para asegurar una documentación completa y útil en el repositorio de GitHub, es esencial incluir los siguientes elementos:
 
 1. **Resumen del Proyecto:** Una descripción concisa que abarque los objetivos, alcance y propósito del proyecto.
@@ -156,7 +156,7 @@ Para asegurar una documentación completa y útil en el repositorio de GitHub, e
 
 Para estructurar y presentar esta documentación de manera efectiva, se recomienda:
 
-- **Archivo README.md:** Este archivo, ubicado en la raíz del repositorio, debe proporcionar una visión general del proyecto, incluyendo el resumen, instrucciones de instalación, uso básico y enlaces a documentación más detallada.​
+- **Archivo README.md:** Este archivo, ubicado en la raíz del repositorio, debe proporcionar una visión general del proyecto, incluyendo el resumen, instrucciones de instalación, uso básico y enlaces a documentación más detallada, **integrantes del equipo**, enlaces a los videos.
 
 - **Wiki del proyecto:** Utilizar la wiki de GitHub para documentar en profundidad aspectos específicos del proyecto, como la estrategia de pruebas, supuestos, dependencias y otros detalles técnicos. Las wikis permiten una organización estructurada y son ideales para documentación extensa.​
 
