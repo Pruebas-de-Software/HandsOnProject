@@ -79,7 +79,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 - **[Equipo 4: Teatro Mora, Eventos Teatrales](https://github.com/Proyecto-pruebas-de-software/app-teatro-mora)**
   - Herramienta de testing: Mocha + Chai
-  - Tecnologías: React + NodeJS + PostgreSQL +AWS
+  - Tecnologías: React + NodeJS + PostgreSQL + AWS
   
 - **[Equipo 5: Conectados, Servicios a un clic](https://github.com/Grupo-5-Conectados/Conectados)**
   - Herramienta de testing: Playwright
@@ -91,15 +91,15 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 - **[Equipo 7: Conectados, Servicios a un clic](https://github.com/E7-I/conectados)**
   - Herramienta de testing: Cypress
-  - Tecnologías: Nodejs, Express, React, Mongo, Azure
+  - Tecnologías: Nodejs, Express, React, Mongo, Microsoft Azure
   
 - **[Equipo 8: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehous](https://github.com/rBaku/Proyecto-LogisticaGlobal.com)**
   - Herramienta de testing: Mocha (Chai)
-  - Tecnologías: React.js(Front-end) + Node.js y Express.js(Back-end) + PostgreSQL + microsoft azure
+  - Tecnologías: React.js(Front-end) + Node.js y Express.js(Back-end) + PostgreSQL + Microsoft Azure
   
 - **[Equipo 9: RunTrack, plataforma para runners](https://github.com/inf-331-grupo-9/proyecto)**
   - Herramienta de testing: Playwright + Jasmine
-  - Tecnología: NextJS (FE) + NodeJS (BE) + MongoDB + Azure
+  - Tecnología: NextJS (FE) + NodeJS (BE) + MongoDB + Microsoft Azure
 
 ---
 
