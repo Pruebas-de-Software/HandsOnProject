@@ -91,7 +91,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 - **[Equipo 7: Conectados, Servicios a un clic](https://github.com/E7-I/conectados)**
   - Herramienta de testing: Cypress
-  - Tecnologías: Nodejs, Express, React, Mongo, Microsoft Azure
+  - Tecnologías: Nodejs + Express + React + Mongo + Microsoft Azure
   
 - **[Equipo 8: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehous](https://github.com/rBaku/Proyecto-LogisticaGlobal.com)**
   - Herramienta de testing: Mocha (Chai)
