@@ -73,7 +73,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Jest
   - Tecnologías a usar en el proyecto: NextJS + Supabase (Postgresql) + Vercel
   
-- **[Equipo 3: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehous](https://github.com/Equipo-3-Pruebas-de-Software/LogisticaGlobal)**
+- **[Equipo 3: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehouse](https://github.com/Equipo-3-Pruebas-de-Software/LogisticaGlobal)**
   - Herramientas de Testing: Cypress
   - Tecnologías: React + Nodejs + Express + Mysql + AWS  
 
@@ -85,7 +85,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Playwright
   - Tecnologías: React (Front-end) + NodeJS con Express (Back-end) + MySQL + Microsoft Azure + Socket.io + Railway 
 
-- **[Equipo 6: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehous](https://github.com/Marambio-MyA/LogisticaGlobal)**
+- **[Equipo 6: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehouse](https://github.com/Marambio-MyA/LogisticaGlobal)**
   - Herramienta de testing: Puppeteer
   - Tecnologías: React(Front-end) + NodeJS(Back-end) + PostgreSQL + Railway
 
@@ -93,7 +93,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Cypress
   - Tecnologías: Nodejs + Express + React + Mongo + Microsoft Azure
   
-- **[Equipo 8: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehous](https://github.com/rBaku/Proyecto-LogisticaGlobal.com)**
+- **[Equipo 8: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehouse](https://github.com/rBaku/Proyecto-LogisticaGlobal.com)**
   - Herramienta de testing: Mocha (Chai)
   - Tecnologías: React.js(Front-end) + Node.js y Express.js(Back-end) + PostgreSQL + Microsoft Azure
   
