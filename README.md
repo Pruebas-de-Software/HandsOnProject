@@ -41,7 +41,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 📄 [Ver detalles de la Entrega 1](./semestres/2025-1/entrega1.md)
 
-🔄 [retrospectiva entrega 1]()
+🔄 [Retrospectiva entrega 1]()
 
 ---
 
