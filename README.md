@@ -41,8 +41,6 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 📄 [Ver detalles de la Entrega 1](./semestres/2025-1/entrega1.md)
 
-🔄 [Retrospectiva entrega 1]()
-
 ---
 
 ### 🔹 Entrega 2: CI/CD con Jenkins
@@ -102,6 +100,9 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - **[Equipo 9: RunTrack, plataforma para runners](https://github.com/inf-331-grupo-9/proyecto)**
   - Herramienta de testing: Playwright + Jasmine
   - Tecnología: NextJS (FE) + NodeJS (BE) + MongoDB + Microsoft Azure
+ 
+**Lecciones aprendidas**
+**🔄 [Retrospectiva entrega 1](./semestres/2025-1/retro.md)**
 
 ---
 
