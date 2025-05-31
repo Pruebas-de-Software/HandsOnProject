@@ -101,8 +101,9 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Playwright + Jasmine
   - Tecnología: NextJS (FE) + NodeJS (BE) + MongoDB + Microsoft Azure
  
+
 **Lecciones aprendidas**
-**🔄 [Retrospectiva entrega 1](./semestres/2025-1/retro.md)**
+- **🔄 [Retrospectiva entrega 1](./semestres/2025-1/retro.md)**
 
 ---
 
