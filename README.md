@@ -172,7 +172,7 @@ ___
   - [Presentación Selenium](./#)  / [Informe experiencia](./semestres/2023-2/recursos/G4-Informe3.pdf)
 
 **Lecciones aprendidas**
-- **[Retrospectiva proyecto](./semestres/2023-2/retro.md)**
+- **🔄 [Retrospectiva proyecto](./semestres/2023-2/retro.md)**
 ___
 ### 📅 Primer semestre 2023
 
@@ -195,7 +195,7 @@ ___
   - [Presentación CI/CD + Selenium](https://www.youtube.com/watch?v=psBfnqfpTMw) / [Informe experiencia](./semestres/2023-1/recursos/G85-Informe2.pdf) / [Repositorio](https://github.com/presentacion-2/presentacion-2)
 
 **Lecciones aprendidas**
-- **[Retrospectiva proyecto](./semestres/2023-1/retro.md)**
+- **🔄 [Retrospectiva proyecto](./semestres/2023-1/retro.md)**
 
 ___
 ### 📅 Segundo semestre 2022
@@ -214,7 +214,7 @@ ___
   - [Presentación CI/CD + Selenium](./semestres/2022-2/recursos/G4-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G4-Informe2.pdf) 
 
 **Lecciones aprendidas**
-- **Retrospectiva proyecto**
+- **🔄 Retrospectiva proyecto**
 ___
 ### 📅 Primer semestre 2022
 
@@ -229,7 +229,7 @@ ___
   - [Presentación CI/CD + Selenium](https://youtu.be/9sRmEiS1S5o) / [Informe experiencia](./semestres/2022-1/recursos/G1-Informe2.pdf) 
 
 **Lecciones aprendidas**
-- **[Retrospectiva proyecto](./semestres/2022-1/retro.md)**
+- **🔄 [Retrospectiva proyecto](./semestres/2022-1/retro.md)**
 
 ---
 ### Licencia
