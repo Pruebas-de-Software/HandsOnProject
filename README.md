@@ -214,7 +214,7 @@ ___
   - [Presentación CI/CD + Selenium](./semestres/2022-2/recursos/G4-Presentacion2.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G4-Informe2.pdf) 
 
 **Lecciones aprendidas**
-- **🔄 Retrospectiva proyecto**
+- **🔄 [Retrospectiva proyecto]()**
 ___
 ### 📅 Primer semestre 2022
 
