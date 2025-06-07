@@ -21,6 +21,8 @@ Durante el curso se trabaja con tecnologías y herramientas reales como:
 
 Este proyecto busca simular un entorno de desarrollo profesional, donde se integran pruebas desde el primer momento, y se automatizan procesos de calidad y despliegue como parte central del ciclo de vida del software.
 
+📝[DeepWiki](https://deepwiki.com/Pruebas-de-Software/HandsOnProject)
+
 ### 📅 Temas primer semestre 2025 (NUEVO)
 
 **Temas a ser desarrollados:**
