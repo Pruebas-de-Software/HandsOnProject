@@ -1,4 +1,4 @@
-# 📝 Retrospectiva de entrega 1 Semestre 1 2025
+# 📝 Retrospectiva Entrega 1 – HandsOnProject – S1 2025
 
 En esta retrospectiva, el equipo analizó los principales aprendizajes y oportunidades de mejora, realizada posterior a la entrega 1
 
@@ -37,7 +37,7 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 
 ---
 
-## ❌  ¿Qué estuvo mal
+## ❌  ¿Qué estuvo mal?
 📅 **Reuniones insuficientes y coordinación de tiempos**
 - Tuvimos pocas reuniones periódicas
 - Pocas reuniones, debido a distintos tiempos
@@ -121,7 +121,7 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 - Poner mejores nombres a las ramas de Git y hacer pull/push más seguido  
 
 💪 **Motivación y mejora del aporte**
-- Estoy dispuesto a trabajar de forma efectiva en aquello que me emociono del proyecto.  
+- Estoy dispuesto a trabajar de forma efectiva en aquello que me emociono del proyecto
 - Aportar de mejor manera (Planificar mejor los tiempos)  
 
 ---
@@ -130,14 +130,14 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 - 27/05/2025
 
 **Estudiantes**
-- Valentina Lepin
-- Valentina Castillo
-- Sofía Bastías
-- David Carrasco
-- Giovanni Mealla
-- Bastián Gaete
-- Javier Hormaechea
-- Cristobal Perez
+- Valentina Lepin 
+- Valentina Castillo  
+- Sofía Bastías  
+- David Carrasco  
+- Giovanni Mealla  
+- Bastián Gaete  
+- Javier Hormaechea  
+- Cristobal Perez  
 
 - Myckoll Winchester
 
