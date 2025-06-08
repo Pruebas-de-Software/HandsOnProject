@@ -104,10 +104,41 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 ---
 
 ## 🚀 Acciones y responsables
+💬 **Comunicación y coordinación**
+- Hablar más por el grupo  
+- Empezar a hablar por WhatsApp antes (aunque tenga que hacerlo yo)  
+
+⏱️ **Compromiso de tiempo y constancia**
+- Me comprometo a dedicar más tiempo al proyecto, todos los jueves por lo menos 3 horas  
+- Retomar el trabajo y estar pendiente de las fechas  
+- Trabajar un poco todos los días en lugar de mucho un día  
+- Hacer avances constantes  
+- mejorar el uso/ manejo del tiempo  
+
+📄 **Documentación y buenas prácticas**
+- Documentar un endpoint apenas termine  
+- Actualizar documentación cada semana  
+- Poner mejores nombres a las ramas de Git y hacer pull/push más seguido  
+
+💪 **Motivación y mejora del aporte**
+- Estoy dispuesto a trabajar de forma efectiva en aquello que me emociono del proyecto.  
+- Aportar de mejor manera (Planificar mejor los tiempos)  
 
 ---
+### Fecha
+- 27/05/2025
 
 ### Estudiantes
+- Valentina Lepin
+- Valentina Castillo
+- Sofía Bastías
+- David Carrasco
+- Giovanni Mealla
+- Bastián Gaete
+- Javier Hormaechea
+- Cristobal Perez
+
+- Myckoll Winchester
 
 ---
 
