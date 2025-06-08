@@ -125,10 +125,11 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 - Aportar de mejor manera (Planificar mejor los tiempos)  
 
 ---
-### Fecha
+
+**Fecha**
 - 27/05/2025
 
-### Estudiantes
+**Estudiantes**
 - Valentina Lepin
 - Valentina Castillo
 - Sofía Bastías
