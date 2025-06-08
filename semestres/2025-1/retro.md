@@ -37,7 +37,40 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 
 ---
 
-## ⚠️ ¿Qué estuvo mal**
+## ❌  ¿Qué estuvo mal
+📅 **Reuniones insuficientes y coordinación de tiempos**
+- Tuvimos pocas reuniones periódicas
+- Pocas reuniones, debido a distintos tiempos
+- Pocas reuniones difícil organizarnos y poco tiempo
+
+🗣️ **Problemas de comunicación**
+- Me preocupa la poca comunicación previo a la entrega
+- Poca comunicación hasta el deadline
+- Comunicación desordenada Back/Front
+- Nos falta comunicación por fuera de las reuniones
+- Estoy pendiente de los mensajes, pero no siempre respondo
+
+🧾 **Organización y documentación**
+- Poca organización
+- Estuvo mal que no documentáramos a medida que hacíamos las cosas
+- Que avanzara a última hora el tema de la entrega (video-doc)
+
+😟 **Preocupación por la calidad del proyecto**
+- No entregar un buen proyecto es una preocupación
+- Luego de la entrega 1 desaparecimos
+- Preocupa completar los requisitos en cada entrega
+
+👤 **Rol y participación individual**
+- Me preocupa no haber aportado mucho al código del SW
+- Personalmente no entregue suficiente valor a la entrega y al proyecto en sí
+- Me gustaría que los roles fueran más marcados en mi equipo
+- Mala división del trabajo
+- Falta orden para asignar tareas
+- Que no revisamos los resultados de cada uno
+- La mayoría de la acción y la responsabilidad cayó en un solo estudiante
+
+🕒 **Productividad**
+- Mucha procrastinación
 
 ---
 
