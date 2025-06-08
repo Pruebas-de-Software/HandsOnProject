@@ -74,7 +74,32 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 
 ---
 
-## 🚀 Ideas de Mejora
+## 💡 Ideas de Mejora
+⏱️ **Organización del tiempo y planificación**
+- Integración antes de la fecha límite
+- Planificar anticipadamente
+- Cumplir con la Carta Gantt
+- Reunión para definir trabajo hasta la entrega
+
+📆 **Reuniones y coordinación del equipo**
+- Tener reuniones semanales con fecha y hora acordadas
+- Tener reuniones periódicas más cortas
+
+💬 **Comunicación y claridad**
+- Avisar cuando alguien escribe en Slack
+- Comunicación en el grupo para aclarar las tareas
+
+🛠️ **Uso de herramientas y buenas prácticas técnicas**
+- Utilizar mejor el Jira ( revisarlo continuamente)
+- Mejorar el versionamiento de las ramas en GIT
+- Definir un estándar para nombrar variables y funciones
+
+🤝 **Trabajo colaborativo y distribución de roles**
+- Trabajar en pareja o acompañados para desarrollar más rápido
+- Intentar ser menos flexibles nuestros roles y dividir mejor el trabajo y responsabilidades
+
+🌐 **Exploración técnica**
+- No se ha explorado nuestra capacidad para realizar un Frontend
 
 ---
 
