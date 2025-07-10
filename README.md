@@ -71,7 +71,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Jest
   - Tecnologíaso: React(Front-end) + Spring Boot(Back-end) + Mysql + AWS
     
-- **[Equipo 2: Teatro Mora, Eventos Teatrales](https://github.com/QAlityDevs/mora-virtual)**
+- **[Equipo 2: Teatro Mora, Eventos Teatrales](https://github.com/QAlityDevs/mora-virtual)⭐**
   - Herramienta de testing: Jest
   - Tecnologías a usar en el proyecto: NextJS + Supabase (Postgresql) + Vercel
   
@@ -91,7 +91,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Puppeteer
   - Tecnologías: React(Front-end) + NodeJS(Back-end) + PostgreSQL + Railway
 
-- **[Equipo 7: Conectados, Servicios a un clic](https://github.com/E7-I/conectados)**
+- **[Equipo 7: Conectados, Servicios a un clic](https://github.com/E7-I/conectados)⭐**
   - Herramienta de testing: Cypress
   - Tecnologías: Nodejs + Express + React + Mongo + Microsoft Azure
   
