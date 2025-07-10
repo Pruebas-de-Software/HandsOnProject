@@ -67,7 +67,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 # **🚀Repositorios de proyectos: Primer semestre 2025🚀**
 
-- **[Equipo 1: Conectados, Servicios a un clic](https://github.com/ConectadosTeam/Conectados.git)🌟**
+- **[Equipo 1: Conectados, Servicios a un clic](https://github.com/ConectadosTeam/Conectados.git)⭐⭐⭐⭐⭐**
   - Herramienta de testing: Jest
   - Tecnologíaso: React(Front-end) + Spring Boot(Back-end) + Mysql + AWS
     
@@ -75,7 +75,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Herramienta de testing: Jest
   - Tecnologías a usar en el proyecto: NextJS + Supabase (Postgresql) + Vercel
   
-- **[Equipo 3: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehouse](https://github.com/Equipo-3-Pruebas-de-Software/LogisticaGlobal)🌟**
+- **[Equipo 3: LogisticaGlobal.com, Gestión de Incidentes Robóticos en Warehouse](https://github.com/Equipo-3-Pruebas-de-Software/LogisticaGlobal)⭐⭐⭐⭐⭐**
   - Herramientas de Testing: Cypress
   - Tecnologías: React + Nodejs + Express + Mysql + AWS  
 
