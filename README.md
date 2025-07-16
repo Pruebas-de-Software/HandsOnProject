@@ -46,7 +46,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 **Instrucciones proyecto**
 
-- **[Instrucciones entrega S1 2025](./semestres/2025-1/entregas.md)**
+- **[Instrucciones ejecución proyecto / S1 2025](./semestres/2025-1/entregas.md)**
 
 **Repositorios de proyectos: Primer semestre 2025🚀🚀🚀**
 
