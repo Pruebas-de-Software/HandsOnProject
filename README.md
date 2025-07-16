@@ -48,7 +48,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 - **[Instrucciones ejecución proyecto / S1 2025](./semestres/2025-1/entregas.md)**
 
-**Repositorios de proyectos: Primer semestre 2025🚀🚀🚀**
+**Repositorios de proyectos 🚀🚀🚀**
 
 - **[Equipo 1: Conectados, Servicios a un clic](https://github.com/ConectadosTeam/Conectados.git)⭐**
   - Herramienta de testing: Jest
