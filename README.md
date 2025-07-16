@@ -25,15 +25,15 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 ---
 
-### 📅 Temas Segundo semestre 2025 (próximamente)
+## 📅 Temas Segundo semestre 2025 (próximamente)
 
 ---
 
-# 🧾 Versiones anteriores 
+## 🧾 Versiones anteriores 
 
 ### 📅 Primer semestre 2025
 
-**Temas a ser desarrollados:**
+**Temas a ser desarrollados**
 - [Conectados: Servicios a un clic](./semestres/2025-1/conectados.md).
 - [RunTrack: plataforma para runners](./semestres/2025-1/runtrack.md).
 - [LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehouse](./semestres/2025-1/logisticaglobal.md).
@@ -88,15 +88,15 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ---
 ### 📅 Segundo semestre 2024
 
-**Temas desarrollados:**
+**Temas a ser desarrollados**
 - [VitaCocina: Recetas saludables y consejos de cocina.](./semestres/2024-2/vitacocina.md)
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
-**Especificación de requerimientos de Software:**
+**Especificación de requerimientos de Software**
 - [Especificación de requerimientos de software (SRS)](./semestres/2024-2/tarea2.md)
 
-**Repositorios de proyectos de estudiantes:**
+**Repositorios de proyectos de estudiantes**
 
 - **[Equipo 1: Remates Rincón del Olvido](https://github.com/Equipo1-Pruebas-de-Software/remates-rincon-del-olvido).**  
 - **[Equipo 2: Moda Virtual Neon Threads](https://github.com/Equipo-2-Pruebas-de-Software/Moda-Virtual-Neon-Threads)**  
@@ -111,12 +111,12 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ___
 ### 📅 Primer semestre 2024
 
-**Temas desarrollados:**
+**Temas a ser desarrollados**
 - [Salud y Bienestar: Directorio Médico](./semestres/2023-1/directorio.md)
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
-**Repositorios de proyectos de estudiantes:**
+**Repositorios de proyectos de estudiantes**
 
 - **[Equipo 1: Salud y Bienestar: Directorio Médico](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw)**
   - [Presentación Robot Framework](https://youtu.be/T3Xp2whfJv0) / [Informe experiencia](https://github.com/proyecto-pruebas-sw/proyecto-pruebas-sw/wiki/Entrega-1)
@@ -132,12 +132,12 @@ ___
 ___
 ### 📅 Segundo semestre 2023
 
-**Temas desarrollados:**
+**Temas a ser desarrollados**
 - [Salud y Bienestar: Directorio Médico](./semestres/2023-1/directorio.md)
 - [Neon Threads: Moda virtual en el metaverso ciberpunk.](./semestres/2024-2/neon-threads.md)
 - [El Rincón del Olvido: Sitio de remates postapocalíptico.](./semestres/2024-2/rincon-del-olvido.md)
 
-**Repositorios de proyectos de estudiantes:**
+**Repositorios de proyectos de estudiantes**
 
 - **[Equipo 2: Salud y Bienestar: Directorio Médico](https://github.com/Equipo2PDW/ProyectoDirectorioMedico)**
   - [Presentación Robot Framework](https://www.youtube.com/watch?v=xwm8K5Wm9MQ) / [Informe experiencia](./semestres/2023-2/recursos/G2-Informe1.pdf)
@@ -153,13 +153,13 @@ ___
 ___
 ### 📅 Primer semestre 2023
 
-**Temas desarrollados:**
+**Temas a ser desarrollados**
 - [Salud y Bienestar: Directorio Médico](./semestres/2023-1/directorio.md)
 - [TaskNow: Web de Tareas por Hacer](./semestres/2023-1/tareas.md)
 - [Fit&Strong: Registro de Ejercicios](./semestres/2023-1/registro-ejercicios.md)
 - [Biblioteca – Universidad de Salamandra](./semestres/2023-1/biblioteca.md)
 
-**Repositorios de proyectos de estudiantes:**
+**Repositorios de proyectos de estudiantes**
 
 - **Equipo 10: Medfinder: Web de directorio médico**
   - [Presentación Robot Framework](./#) / [Informe experiencia](./semestres/2023-1/recursos/G10-Informe1.pdf) / [Repositorio](https://github.com/Brunalga/medfinder)
@@ -177,10 +177,10 @@ ___
 ___
 ### 📅 Segundo semestre 2022
 
-**Temas a ser desarrollados:**
+**Temas a ser desarrollados**
 - [VitaCocina: Recetas saludables y consejos de cocina.](./semestres/2024-2/vitacocina.md) (versión simplificada)
 
-**Repositorios de proyectos de estudiantes:**
+**Repositorios de proyectos de estudiantes**
 
 - **[Equipo 1: Recetas saludables](https://github.com/xavierutox/Recipe-website-with-react-and-jest).**
   - [Presentación Jest](./semestres/2022-2/recursos/G1-Presentacion1.pdf) / [Informe experiencia](./semestres/2022-2/recursos/G1-Informe1.pdf)
@@ -195,10 +195,10 @@ ___
 ___
 ### 📅 Primer semestre 2022
 
-**Temas a ser desarrollados:**
+**Temas a ser desarrollados**
 - [MyForm: Formulario de Contacto](./semestres/2024-2/vitacocina.md) (versión simplificada)
 
-**Repositorios de proyectos de estudiantes:**
+**Repositorios de proyectos de estudiantes**
 
 - **[Trabajo individual: Javier Torres: Formulario de contacto](https://github.com/J122016/J122016-Tarea-2-INF331-UTFSM).**
   
@@ -210,6 +210,7 @@ ___
 
 ---
 Pruebas de Software - UTFSM - 2025
+
 ### Licencia
 Este proyecto está bajo la [MIT License](./LICENSE)
 
