@@ -3,7 +3,7 @@
 En esta retrospectiva, el equipo analizó los principales aprendizajes y oportunidades de mejora, realizada posterior a la entrega 1
 
 ---
-
+![Foto Retro](./recursos/retro%20s12025.PNG)
 
 ## ✅ ¿Qué estuvo bien?
 🧑‍🤝‍🧑 **Trabajo en equipo y colaboración**
