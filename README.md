@@ -23,7 +23,15 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 📝[DeepWiki](https://deepwiki.com/Pruebas-de-Software/HandsOnProject)
 
-### 📅 Temas primer semestre 2025 (NUEVO)
+---
+
+### 📅 Temas Segundo semestre 2025 (próximamente)
+
+---
+
+# 🧾 Versiones anteriores 
+
+### 📅 Primer semestre 2025
 
 **Temas a ser desarrollados:**
 - [Conectados: Servicios a un clic](./semestres/2025-1/conectados.md).
@@ -31,41 +39,10 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - [LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehouse](./semestres/2025-1/logisticaglobal.md).
 - [Teatro Mora: Eventos Teatrales](./semestres/2025-1/mora.md).
 
-### 🔹 Tarea Especificación de Requerimientos de Software**
-📝 [Especificación de Requerimientos de Software](./semestres/2025-1/srs.md).
+## Instrucciones proyecto
+- **[Instrucciones entrega S1 2025](./semestres/2025-1/entregas.md)**
 
----
-
-### 🔹 Entrega 1: Construcción inicial aplicación y pruebas automatizadas
-
-- Primera versión de aplicación. Desarrollo de un CRUD funcional para una aplicación web definida por el equipo.
-- Implementación de pruebas automatizadas iniciales.
-
-📄 [Ver detalles de la Entrega 1](./semestres/2025-1/entrega1.md)
-
----
-
-### 🔹 Entrega 2: CI/CD con Jenkins
-
-- Instalación y configuración de Jenkins.
-- Creación de un pipeline de integración y despliegue continuo.
-- Desarrollo de dos nuevos requerimientos funcionales y automatización de su despliegue.
-
-📄 [Ver detalles de la Entrega 2](./semestres/2025-1/entrega2.md)
-
----
-
-### 🔹 Entrega 3: Pruebas de interfaz con Selenium
-
-- Desarrollo de pruebas de interfaz usando Selenium.
-- Integración de pruebas al pipeline CI/CD.
-- Ejecución continua y notificaciones automáticas de resultados.
-
-📄 [Ver detalles de la Entrega 3](./semestres/2025-1/entrega3.md)
-
----
-
-# **🚀Repositorios de proyectos: Primer semestre 2025🚀**
+#### **🚀Repositorios de proyectos: Primer semestre 2025🚀**
 
 - **[Equipo 1: Conectados, Servicios a un clic](https://github.com/ConectadosTeam/Conectados.git)⭐**
   - Herramienta de testing: Jest
@@ -102,15 +79,11 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - **[Equipo 9: RunTrack, plataforma para runners](https://github.com/inf-331-grupo-9/proyecto)**
   - Herramienta de testing: Playwright + Jasmine
   - Tecnología: NextJS (FE) + NodeJS (BE) + MongoDB + Microsoft Azure
- 
 
-**Recomendaciones y lecciones aprendidas**
+**Lecciones aprendidas y recomendaciones**
 - **🔄 [Retrospectiva entrega 1](./semestres/2025-1/retro.md)**
 - **🔄 [Recomendaciones para presentación 3](https://www.youtube.com/watch?v=0_hhrg7w8Kc)**
 
----
-
-# 🧾 Versiones anteriores 
 
 ### 📅 Segundo semestre 2024
 
