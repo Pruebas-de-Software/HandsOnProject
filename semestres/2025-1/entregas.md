@@ -10,7 +10,7 @@
 - Primera versión de aplicación. Desarrollo de un CRUD funcional para una aplicación web definida por el equipo.
 - Implementación de pruebas automatizadas iniciales.
 
-📄 [Ver detalles de la Entrega 1](./semestres/2025-1/entrega1.md)
+📄 [Ver detalles de la Entrega 1](./entrega1.md)
 
 ---
 
@@ -20,7 +20,7 @@
 - Creación de un pipeline de integración y despliegue continuo.
 - Desarrollo de dos nuevos requerimientos funcionales y automatización de su despliegue.
 
-📄 [Ver detalles de la Entrega 2](./semestres/2025-1/entrega2.md)
+📄 [Ver detalles de la Entrega 2](./entrega2.md)
 
 ---
 
@@ -30,6 +30,6 @@
 - Integración de pruebas al pipeline CI/CD.
 - Ejecución continua y notificaciones automáticas de resultados.
 
-📄 [Ver detalles de la Entrega 3](./semestres/2025-1/entrega3.md)
+📄 [Ver detalles de la Entrega 3](./entrega3.md)
 
 ---
