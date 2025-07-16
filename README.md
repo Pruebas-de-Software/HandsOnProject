@@ -104,8 +104,9 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
   - Tecnología: NextJS (FE) + NodeJS (BE) + MongoDB + Microsoft Azure
  
 
-**Lecciones aprendidas**
+**Recomendaciones y lecciones aprendidas**
 - **🔄 [Retrospectiva entrega 1](./semestres/2025-1/retro.md)**
+- **🔄 [Recomendaciones para presentación 3](https://www.youtube.com/watch?v=0_hhrg7w8Kc)**
 
 ---
 
