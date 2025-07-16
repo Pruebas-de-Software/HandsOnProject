@@ -39,7 +39,8 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - [LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehouse](./semestres/2025-1/logisticaglobal.md).
 - [Teatro Mora: Eventos Teatrales](./semestres/2025-1/mora.md).
 
-## Instrucciones proyecto
+#### Instrucciones proyecto
+
 - **[Instrucciones entrega S1 2025](./semestres/2025-1/entregas.md)**
 
 #### **🚀Repositorios de proyectos: Primer semestre 2025🚀**
@@ -84,7 +85,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - **🔄 [Retrospectiva entrega 1](./semestres/2025-1/retro.md)**
 - **🔄 [Recomendaciones para presentación 3](https://www.youtube.com/watch?v=0_hhrg7w8Kc)**
 
-
+---
 ### 📅 Segundo semestre 2024
 
 **Temas desarrollados:**
@@ -208,6 +209,7 @@ ___
 - **🔄 [Retrospectiva proyecto](./semestres/2022-1/retro.md)**
 
 ---
+Pruebas de Software - UTFSM - 2025
 ### Licencia
 Este proyecto está bajo la [MIT License](./LICENSE)
 
