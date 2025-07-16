@@ -26,6 +26,11 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ---
 
 ## 📅 Temas Segundo semestre 2025 (próximamente)
+[**Temas a ser desarrollados**]:#
+
+[**Instrucciones proyecto**]:#
+  
+[**Repos**]:#
 
 ---
 
@@ -39,11 +44,11 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - [LogisticaGlobal.com: Gestión de Incidentes Robóticos en Warehouse](./semestres/2025-1/logisticaglobal.md).
 - [Teatro Mora: Eventos Teatrales](./semestres/2025-1/mora.md).
 
-#### Instrucciones proyecto
+**Instrucciones proyecto**
 
 - **[Instrucciones entrega S1 2025](./semestres/2025-1/entregas.md)**
 
-#### Repositorios de proyectos: Primer semestre 2025🚀🚀🚀
+**Repositorios de proyectos: Primer semestre 2025🚀🚀🚀**
 
 - **[Equipo 1: Conectados, Servicios a un clic](https://github.com/ConectadosTeam/Conectados.git)⭐**
   - Herramienta de testing: Jest
