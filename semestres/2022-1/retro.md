@@ -80,7 +80,7 @@ En esta retrospectiva, el equipo analizó los principales aprendizajes y oportun
 ### Estudiantes
 - Bruno Prieto
 - Cristóbal Bernal
-- Siéad Eriksson
+- Sinéad Eriksson
 - Camilo Villar
 - Diego Aguilera
 - Javier Torres
