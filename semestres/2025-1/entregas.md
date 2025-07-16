@@ -1,7 +1,7 @@
 # Instrucciones entregas proyecto S1 2025
 
 ### 🔹 Tarea Especificación de Requerimientos de Software**
-📝 [Especificación de Requerimientos de Software](./semestres/2025-1/srs.md).
+📝 [Especificación de Requerimientos de Software](./srs.md).
 
 ---
 
