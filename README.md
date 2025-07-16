@@ -12,7 +12,7 @@ Durante el curso se trabaja con tecnologías y herramientas reales como:
   Slack (coordinación de equipo)
 - Jenkins / Github Actions (CI/CD)
 - Microsoft Azure o AWS u otra (Plataforma Nube)
-- Selenium (Pruebas de interfaz)
+- Selenium (End2End)
 - Herramientas de testing especializadas
 
 ## 🛠️ Descripción general del proyecto
