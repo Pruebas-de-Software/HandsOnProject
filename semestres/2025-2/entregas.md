@@ -1,9 +1,4 @@
-# Instrucciones entregas proyecto S1 2025
-
-### 🔹 Tarea Especificación de Requerimientos de Software**
-📝 [Especificación de Requerimientos de Software](./srs.md).
-
----
+# Instrucciones entregas proyecto S2 2025
 
 ### 🔹 Entrega 1: Construcción inicial aplicación y pruebas automatizadas
 
