@@ -26,11 +26,19 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ---
 
 ## 📅 Temas Segundo semestre 2025 (próximamente)
-[**Temas a ser desarrollados**]:#
 
-[**Instrucciones proyecto**]:#
-  
-[**Repos**]:#
+**Temas a ser desarrollados**
+- [Tema1](./semestres/2025-2/tema1.md).
+- [Tema2](./semestres/2025-2/tema2.md).
+- [Tema3](./semestres/2025-3/tema3.md).
+- [Tema4](./semestres/2025-4/tema4.md).
+
+**Instrucciones proyecto**
+
+- **[Instrucciones ejecución proyecto / S2 2025](./semestres/2025-2/entregas.md)**
+
+**Repositorios de proyectos 🚀🚀🚀**
+- Equipos
 
 ---
 
@@ -48,7 +56,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 - **[Instrucciones ejecución proyecto / S1 2025](./semestres/2025-1/entregas.md)**
 
-**Repositorios de proyectos 🚀🚀🚀**
+**Repositorios de proyectos**
 
 - **[Equipo 1: Conectados, Servicios a un clic](https://github.com/ConectadosTeam/Conectados.git)⭐**
   - Herramienta de testing: Jest
