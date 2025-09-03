@@ -85,6 +85,8 @@ Acá algunas alternativas de pago:
 
 **Debes elegir bien, porque la elección que hagas debe permitir cumplir con el objetivo de solicitado para la aplicación y además la elección puede tener impacto en tu aplicación, es decir algunas de las herramientas listadas son específicas para ciertas tecnologías, por lo tanto si quieres usarla deberás usar determinados lenguajes de programación. Todo lo anterior tiene un impacto en el tiempo de desarrollo de esta presentación.**
 
+**Otra herramienta de pruebas es posible, pero debes inscribirlo en aula**
+
 ### 2.2 Integraciones
 
 - Configurar proyecto en **JIRA**.
