@@ -54,16 +54,16 @@ Para realizar las pruebas debe apoyarse en alguno de las herramientas que se lis
 
 - Máximo 2 grupos por herramienta de testing.
   
-1. **Jest** is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! 
-1. **Mocha (Chai)** is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
-1. **Jasmine** is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
-1. **Enzyme** is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output. Enzyme's API is meant to be intuitive and flexible by mimicking jQuery's API for DOM manipulation and traversal
-1. **Cypress** is a JavaScript testing automation solution used for web automation. It enables teams to create web test automation scripts. This solution aims to enable frontend developers and test automation engineers to write web tests in the de-facto web language that is JavaScript for web test automation.
-1. **React Testing Library** Testing moderno para React, basado en accesibilidad.
-1. **Vue Test Utils** Librería oficial para Vue.js.
-1. **Angular Testing Utilities (Karma + Jasmine)** Stack oficial de testing Angular.
-1- **TestCafe**  También usado en UI, pero puede funcionar en flujo unitario para JS apps.
-1. **RSpec (Ruby, estilo BDD)**
+1. **[Jest](https://jestjs.io/)** is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! 
+1. **[Mocha (Chai)]()** is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
+1. **[Jasmine]()** is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
+1. **[Enzyme]()** is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output. Enzyme's API is meant to be intuitive and flexible by mimicking jQuery's API for DOM manipulation and traversal
+1. **[Cypress]()** is a JavaScript testing automation solution used for web automation. It enables teams to create web test automation scripts. This solution aims to enable frontend developers and test automation engineers to write web tests in the de-facto web language that is JavaScript for web test automation.
+1. **[React Testing Library]()** Testing moderno para React, basado en accesibilidad.
+1. **[Vue Test Utils]()** Librería oficial para Vue.js.
+1. **[Angular Testing Utilities (Karma + Jasmine)]()** Stack oficial de testing Angular.
+1- **[TestCafe]()**  También usado en UI, pero puede funcionar en flujo unitario para JS apps.
+1. **[RSpec (Ruby, estilo BDD)]()**
 
 En algunos casos se podrá complementar con:
 1. **Unittest** Framework estándar de la librería estándar de Python.
