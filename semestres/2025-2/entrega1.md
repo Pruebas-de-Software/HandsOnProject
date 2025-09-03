@@ -96,6 +96,20 @@ Acá algunas alternativas de pago:
 
 Se sugiere usar: GCP, Azure o AWS
 
+#### Créditos Nube:
+
+- **Azure**
+  - [100USD en crédito de Azure, sin tarjeta de crédito](https://aws-experience.com/latam/smb/exclusive-offers/aws-credits) 
+
+- **AWS**
+  - [AWS Educate](https://aws.amazon.com/es/education/awseducate/)
+  - [$300 en créditos de AWS](https://aws-experience.com/latam/smb/exclusive-offers/aws-credits)
+  - [$200 free Tier](https://aws.amazon.com/es/free)
+
+- **GCP**
+  - [Google Cloud para alumnos](https://cloud.google.com/edu/students)
+  - [Obtén y canjea créditos educativos](https://cloud.google.com/billing/docs/how-to/edu-grants)
+
 > 🔍 Una VM básica consume aprox. 30-40 USD al mes si está 100% activa.
 
 > ℹ️ Recomendación: Configurar GitHub Copilot (gratis para estudiantes).
