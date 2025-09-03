@@ -30,8 +30,8 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 **Temas a ser desarrollados**
 - [Tema1](./semestres/2025-2/tema1.md).
 - [Tema2](./semestres/2025-2/tema2.md).
-- [Tema3](./semestres/2025-3/tema3.md).
-- [Tema4](./semestres/2025-4/tema4.md).
+- [Tema3](./semestres/2025-2/tema3.md).
+- [Tema4](./semestres/2025-2/tema4.md).
 
 **Instrucciones proyecto**
 
