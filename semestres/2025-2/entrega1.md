@@ -54,18 +54,20 @@ Para realizar las pruebas debe apoyarse en alguno de las herramientas que se lis
 
 - Máximo 2 grupos por herramienta de testing.
   
-1. **Puppeteer** is a Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol. Puppeteer runs in headless mode by default, but can be configured to run in full ("headful") Chrome/Chromium.
 1. **Jest** is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! 
 1. **Mocha (Chai)** is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 1. **Jasmine** is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
 1. **Enzyme** is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output. Enzyme's API is meant to be intuitive and flexible by mimicking jQuery's API for DOM manipulation and traversal
 1. **Cypress** is a JavaScript testing automation solution used for web automation. It enables teams to create web test automation scripts. This solution aims to enable frontend developers and test automation engineers to write web tests in the de-facto web language that is JavaScript for web test automation.
-1. **Robot Framework** is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA). Robot Framework is supported by Robot Framework Foundation. Many industry-leading companies use the tool in their software development.
-1. **Katalon** is a modern, comprehensivenquality management platform Deliver world-class digital experiences with an AI-augmented platform that lets you plan, author and execute automated tests.
-1. **TestComplete** is a automated UI testing that covers you from device cloud to packaged apps. Ensure the quality of your application without sacrificing speed or agility with an easy-to-use, GUI test automation tool. Our AI-powered object recognition engine and script or scriptless flexibility is unmatched, letting you test every desktop, web, and mobile application with ease. (Solo 15 días de prueba)
-1. **Watir** is an open source Ruby library for automating tests. Watir interacts with a browser the same way people do: clicking links, filling out forms and validating text.
-1. **Testsigma** is a Intuitive, Feature-rich, Affordable Automated Web UI Testing Tool. Testsigma uses AI to create stable and reliable automated tests faster than ever and to speed-up the executions and maintenance of your automated tests. No coding skills required.
-1. **Unit testing framework**, The unittest unit testing framework was originally inspired by JUnit and has a similar flavor as major unit testing frameworks in other languages. It supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework.
+1. **React Testing Library** Testing moderno para React, basado en accesibilidad.
+1. **Vue Test Utils** Librería oficial para Vue.js.
+1. **Angular Testing Utilities (Karma + Jasmine)** Stack oficial de testing Angular.
+1- **TestCafe**  También usado en UI, pero puede funcionar en flujo unitario para JS apps.
+1. **RSpec (Ruby, estilo BDD)**
+
+En algunos casos se podrá complementar con:
+1. **Unittest** Framework estándar de la librería estándar de Python.
+1. **PyTest** Más simple y potente que unittest, muy usado en proyectos modernos.
 
 > La elección debe considerar compatibilidad con las tecnologías del equipo.
 
