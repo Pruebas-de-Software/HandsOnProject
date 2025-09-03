@@ -69,9 +69,9 @@ En algunos casos se podrá complementar con:
 1. **Unittest** Framework estándar de la librería estándar de Python.
 1. **PyTest** Más simple y potente que unittest, muy usado en proyectos modernos.
 
-También te puede interesar conocer en este punto soluciones End2End, son similares a Selenium que veremos en la entrega 3:
+También te puede interesar conocer en este punto soluciones End2End o basadas en Web browser, son similares a Selenium que veremos en la entrega 3:
 
-1. **[Playwraight](https://playwright.dev/)**
+1. **[Playwraight](https://playwright.dev/)** enables reliable end-to-end testing for modern web apps.
 1. **[Puppeteer](https://pptr.dev/)** is a Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol. Puppeteer runs in headless mode by default, but can be configured to run in full ("headful") Chrome/Chromium.
 1. **[Robot Framework](https://robotframework.org/)** is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA). Robot Framework is supported by Robot Framework Foundation. Many industry-leading companies use the tool in their software development.
 1. **[Watir](http://watir.com/)** is an open source Ruby library for automating tests. Watir interacts with a browser the same way people do: clicking links, filling out forms and validating text.
