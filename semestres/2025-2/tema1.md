@@ -1,4 +1,4 @@
-📑 Caso: LicitAgil – Gestión de Licitaciones
+#📑 Caso: LicitAgil – Gestión de Licitaciones
 
 ## ❌ El Problema
 Una organización gubernamental con múltiples departamentos gestiona licitaciones internas para adquirir bienes y servicios.  
