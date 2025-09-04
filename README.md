@@ -29,7 +29,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 **Temas a ser desarrollados**
 - [LicitAgil: Gestión de Licitaciones](./semestres/2025-2/tema1.md).
-- [Spech2Text X, solución definitiva para transcripción de audios](./semestres/2025-2/tema2.md).
+- [Spech2Text X: Solución definitiva para transcripción de audios](./semestres/2025-2/tema2.md).
 - [Tema3](./semestres/2025-2/tema3.md).
   
 **Instrucciones proyecto**
