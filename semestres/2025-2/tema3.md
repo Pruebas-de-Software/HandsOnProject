@@ -12,14 +12,14 @@
 **FarmLink Deals** es un **marketplace liviano** donde las tiendas publican “lotes de rescate” y los consumidores **reservan y retiran** en horarios definidos.
 
 - Publicación rápida de lotes con **vencimiento**, **precio de rescate** y **fotos**.  
-- **Reserva express** con ventana de retiro y **código QR/PIN** para confirmar entrega.  
+- **Reserva express** con ventana de retiro.
 - **Alertas** de “última hora” y **recomendaciones (IA opcional)** según preferencias.  
 - **KPIs** para tiendas (kg rescatados, % merma evitada) y para clientes (ahorro).
 
 ---
 
 ## 🎯 Misión
-Reducir la merma en comercios locales y **democratizar el acceso a alimentos más baratos**, con una experiencia simple, medible y colaborativa.
+Reducir la merma en comercios locales y democratizar el acceso a alimentos más baratos, con una experiencia simple, medible y colaborativa.
 
 ## 🌟 Visión
 Ser la **app de referencia** para rescatar alimentos en la última milla, conectando tiendas de barrio con comunidades cercanas.
