@@ -37,7 +37,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 - **[Instrucciones ejecución proyecto / S2 2025](./semestres/2025-2/entregas.md)**
 
 **Repositorios de proyectos 🚀🚀🚀**
-- Equipos
+> 🚧 Pronto
 
 ---
 
