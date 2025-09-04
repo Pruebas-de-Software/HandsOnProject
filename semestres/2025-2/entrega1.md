@@ -20,7 +20,7 @@ Los problemas son entregados como lo haría un cliente: **pueden estar incomplet
 
 > ⚠️ Máximo **3 grupos por tema**.
 
-Aunque los requerimientos son amplios, en esta etapa se debe enfocar en implementar un **CRUD** (Create, Read, Update, Delete) de las funcionalidades principales. Queremos tener un mínimo producto viable MVP... "Los más osados dicen que en un fin de semana está listo una aplicación de estas características..
+Aunque los requerimientos son amplios, en esta etapa se debe enfocar en implementar un **CRUD** (Create, Read, Update, Delete) de las funcionalidades principales. Queremos tener un mínimo producto viable MVP... "Los más osados dicen que en un fin de semana está lista una aplicación de estas características..
 
 ### 1.1 ¿Qué debo desarrollar?
 
