@@ -131,6 +131,7 @@ Se sugiere usar: GCP, Azure o AWS
 - Crear organización y repositorio en **GitHub**.
 - Usar **GitFlow** para el flujo de trabajo.
 - Aplicar **Kanban** con proyecto de tipo "Desarrollo de software" en JIRA.
+- Genera cuidadosamente cada hisoria de usuario en el tablero e incluye los criterios de aceptación.
 - Crear ítems en el tablero, priorizarlos y estimarlos (horas o story points).
 - Tablero siempre debe estar actualizado.
 
