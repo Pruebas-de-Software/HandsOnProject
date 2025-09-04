@@ -14,9 +14,10 @@ La entrega 1 corresponde a la **primera presentación asociada al proyecto de la
 
 Los problemas son entregados como lo haría un cliente: **pueden estar incompletos o desordenados**. Cada equipo debe escoger **un (1) problema** de la siguiente lista:
 
-- Tema nuevo 1
-- Tema nuevo 2
-- Tema nuevo 3
+- [LicitAgil: Gestión de Licitaciones](./tema1.md).
+- [Spech2Text X: Solución definitiva para transcripción de audios](./tema2.md).
+- [Rescate Fresco: Marketplace de productos “próximos a vencer” o imperfectos](./tema3.md).
+  
 
 > ⚠️ Máximo **3 grupos por tema**.
 
