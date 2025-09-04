@@ -1,6 +1,6 @@
-# 🥕 Rescate Fresco: Marketplace de productos “próximos a vencer” o imperfectos
+# 🥕 Rescate Fresco: Marketplace de productos próximos a vencer o imperfectos
 
-![Rescate Fresco](./recursos/rescatefresco.png)
+![Rescate Fresco](./recursos/rescatefresco2.png)
 
 ## ❌ El Problema
 - Mucho producto queda **cerca de su fecha de vencimiento** o con **defectos estéticos** y termina como merma.  
