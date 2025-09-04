@@ -1,4 +1,4 @@
-# 📑 Caso: LicitAgil – Gestión de Licitaciones
+# 📑 LicitAgil – Gestión de Licitaciones fácil
 
 ![LicitAgil](./recursos/licitagil.png)
 
