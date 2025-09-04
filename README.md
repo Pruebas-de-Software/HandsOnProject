@@ -25,7 +25,7 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 ---
 
-## 📅 Temas Segundo semestre 2025 (próximamente)
+## 📅 🚀Temas Segundo semestre 2025 (NUEVO)🚀
 
 **Temas a ser desarrollados**
 - [LicitAgil: Gestión de Licitaciones](./semestres/2025-2/tema1.md).
