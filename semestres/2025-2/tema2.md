@@ -1,5 +1,7 @@
 # 🎙️ Speech2Text X – Solución definitiva para transcripción de audios
 
+![Speech2Text X](./recursos/speech2textx.png)
+
 ## ❌ El Problema
 Hoy en día existen múltiples soluciones para transcribir audios, pero la mayoría presentan problemas:
 
@@ -80,3 +82,7 @@ Convertirse en la **plataforma universal de transcripciones colaborativas**, don
 ### 🔒 Seguridad
 - HTTPS, contraseñas cifradas, permisos en enlaces compartidos.  
 - Borrado seguro de transcripciones.
+
+> Ayuda: Usar Whisper
+  
+  ---
