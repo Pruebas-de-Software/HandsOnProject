@@ -1,5 +1,7 @@
 # 🥕 Rescate Fresco: Marketplace de productos “próximos a vencer” o imperfectos
 
+![Rescate Fresco](./recursos/rescatefresco.png)
+
 ## ❌ El Problema
 - Mucho producto queda **cerca de su fecha de vencimiento** o con **defectos estéticos** y termina como merma.  
 - Tiendas pequeñas no tienen un **canal digital simple** para publicar remates rápidos.  
