@@ -28,11 +28,10 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 ## 📅 Temas Segundo semestre 2025 (próximamente)
 
 **Temas a ser desarrollados**
-- [Tema1](./semestres/2025-2/tema1.md).
-- [Tema2](./semestres/2025-2/tema2.md).
+- [LicitAgil: Gestión de Licitaciones](./semestres/2025-2/tema1.md).
+- [Spech2Text X, solución definitiva para transcripción de audios](./semestres/2025-2/tema2.md).
 - [Tema3](./semestres/2025-2/tema3.md).
-- [Tema4](./semestres/2025-2/tema4.md).
-
+  
 **Instrucciones proyecto**
 
 - **[Instrucciones ejecución proyecto / S2 2025](./semestres/2025-2/entregas.md)**
