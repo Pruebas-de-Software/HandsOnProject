@@ -1,5 +1,7 @@
 # 📑 Caso: LicitAgil – Gestión de Licitaciones
 
+![LicitAgil](./recursos/licitagil.png)
+
 ## ❌ El Problema
 Una organización gubernamental con múltiples departamentos gestiona licitaciones internas para adquirir bienes y servicios.  
 Actualmente cada departamento redacta la licitación por su cuenta y la envía por correo, lo que genera duplicidad, poca trazabilidad y demoras en la revisión.  
