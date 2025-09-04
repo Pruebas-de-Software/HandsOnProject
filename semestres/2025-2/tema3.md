@@ -1,4 +1,4 @@
-# 🥕 FarmLink Deals – Marketplace de productos “próximos a vencer” o imperfectos
+# 🥕 Rescate Fresco: Marketplace de productos “próximos a vencer” o imperfectos
 
 ## ❌ El Problema
 - Mucho producto queda **cerca de su fecha de vencimiento** o con **defectos estéticos** y termina como merma.  
