@@ -109,6 +109,9 @@ Se sugiere usar: GCP, Azure o AWS
 - **GCP**
   - [Google Cloud para alumnos](https://cloud.google.com/edu/students)
   - [Obtén y canjea créditos educativos](https://cloud.google.com/billing/docs/how-to/edu-grants)
+ 
+- **IA con Gemini**
+  - [L#300 La era Gemini para desarrolladores y empresas](https://cloud.google.com/ai/gemini)
 
 > 🔍 Una VM básica consume aprox. 30-40 USD al mes si está 100% activa.
 
