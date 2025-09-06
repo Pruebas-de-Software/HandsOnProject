@@ -28,9 +28,11 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 ---
 
-## 📅 Maerial de apoyo
+## 📅 Material de apoyo
 
-Información de utilidad para el desarrollo del proyecto
+Información de utilidad para el desarrollo del proyecto.
+
+📁[Material de apoyo](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/materialapoyo.md)
 
 ---
 
