@@ -28,6 +28,12 @@ Este proyecto busca simular un entorno de desarrollo profesional, donde se integ
 
 ---
 
+## 📅 Maerial de apoyo
+
+Información de utilidad para el desarrollo del proyecto
+
+---
+
 ## 📅 🚀Temas Segundo semestre 2025 (NUEVO)🚀
 
 **Temas a ser desarrollados**
