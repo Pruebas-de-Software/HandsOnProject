@@ -72,7 +72,8 @@ Ser la **app de referencia** para rescatar alimentos en la última milla, conect
 - **PayPal** (Sandbox).  
 - **Transbank Webpay** (Chile – ambiente de certificación).  
 - **Flow.cl** (sandbox).  
-- **Khipu** (sandbox).  
+- **Khipu** (sandbox).
+- **MACH**
 - **Fintoc** *(si optan por open finance/validación de cuenta o inicio de transferencias, revisar disponibilidad de sandbox/documentación)*.
 
 > Nota: **elige uno** y documenta credenciales de prueba y pasos (sin exponer secretos).
