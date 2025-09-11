@@ -166,10 +166,10 @@ Se deben cosiderar los siguientes entregables:
 
 ### 4.1 Repositorio con código fuente
 1. README de instalación (completo, de acuerdo a definiciones presentadas en aula)
-   2. Dejar visible enlaces a:
-      3. Video entrega 1
-      3. Ingregrantes equipo
-      3. Enlace a Wiki
+    1. Dejar visible enlaces a: 
+        1. Video entrega 1 
+        1. Ingregrantes equipo 
+        1. Enlace a Wiki 
 1. Release notes (por cada release)
 1. Documentación de aplicación
 1. Licencia
