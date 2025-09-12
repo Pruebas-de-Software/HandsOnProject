@@ -86,10 +86,6 @@
 ---
 # :wave: Fundamentos de GitHub 
 
-## 🤓 Descripción general del curso y resultados de aprendizaje 
-
-El objetivo de este curso es darte una breve introducción a GitHub. También te proporcionaremos materiales para seguir aprendiendo y algunas ideas para que comiences en nuestra plataforma. 🚀
-
 ## :octocat: Git y GitHub
 
 Git es un **Sistema de Control de Versiones distribuido (VCS)**, lo que significa que es una herramienta útil para rastrear fácilmente los cambios en tu código, colaborar y compartir. Con Git puedes seguir los cambios que haces en tu proyecto, de modo que siempre tengas un registro de en qué trabajaste y puedas volver con facilidad a una versión anterior si lo necesitas. También facilita el trabajo con otras personas: varios grupos pueden colaborar en el mismo proyecto y fusionar sus cambios en una fuente final.
