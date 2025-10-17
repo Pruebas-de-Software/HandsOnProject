@@ -87,7 +87,7 @@ Información de utilidad para el desarrollo del proyecto.
 
 **Instrucciones proyecto**
 
-- **[Instrucciones ejecución proyecto / S1 2025](./semestres/2025-1/entregas.md)**
+- **[Instrucciones ejecución proyecto / Semestre 1 2025](./semestres/2025-1/entregas.md)**
 
 **Repositorios de proyectos**
 
