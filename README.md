@@ -48,7 +48,30 @@ Información de utilidad para el desarrollo del proyecto.
 - **[Instrucciones ejecución proyecto / S2 2025](./semestres/2025-2/entregas.md)**
 
 **Repositorios de proyectos 🚀🚀🚀**
-> 🚧 Pronto
+- **Equipo 1, LicitAgil – Gestión de Licitaciones fácil**
+  - Herramienta de testing: Cypress
+  - Tecnologías a usar en el proyecto: React(Front-end) + NodeJS(Back-end) + PostgreSQL + AWS
+
+
+- **Equipo 2, Rescate Fresco: Marketplace de productos próximos a vencer o imperfectos**
+   - Herramienta de testing: Cypress + JMeter + Sonarqube
+   - Tecnologías a usar en el proyecto: React(Front-end) + NodeJS(Back-end) + PostgreSQL + AWS
+
+- **Equipo 3, Rescate Fresco**
+   - Herramienta de Testing: Vitest + React Testing Library.
+   - Tecnologías a usar en el proyecto: React (Front-end) + NodeJS (Back-end) + MongoDB + Microsoft Azure.
+
+- **Equipo 4, Speech2Text X: Trancripciones de audios**
+  - Herramienta de testing: Jest
+  - Tecnologías a usar en el proyecto: React (Front-end) + Node.js (Back-end) + PostgreSQL + AWS
+
+- **Equipo 5, Speech2Text X: Trancripciones de audios**
+  - Herramienta de testing: Pytest
+  - Tecnologíás a usar en el proyecto: Typescript (Front-end) + Python (Back-end) + PotgreSQL + AWS
+
+- **Equipo 6, LicitAgil – Gestión de Licitaciones fácil**
+  - Herramientas de tesing: React Testing Library (Accesibilidad) + Cypress (end to end)
+  - Tecnologías: React (Front-end) + Python (back-end) + MongoDB + AWS
 
 ---
 
