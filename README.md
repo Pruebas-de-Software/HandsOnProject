@@ -45,7 +45,7 @@ Información de utilidad para el desarrollo del proyecto.
   
 **Instrucciones proyecto**
 
-- **[Instrucciones ejecución proyecto / S2 2025](./semestres/2025-2/entregas.md)**
+- **[Instrucciones ejecución proyecto / Semestre 2 2025 (Nuevo)](./semestres/2025-2/entregas.md)**
 
 **Repositorios de proyectos 🚀🚀🚀**
 - **Equipo 1: LicitAgil, Gestión de Licitaciones fácil**
