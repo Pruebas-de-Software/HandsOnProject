@@ -52,7 +52,7 @@ Información de utilidad para el desarrollo del proyecto.
   - Herramienta de testing: Cypress
   - Tecnologías a usar en el proyecto: React(Front-end) + NodeJS(Back-end) + PostgreSQL + AWS
 
-- **Equipo 2: Rescate Fresco, Marketplace de productos próximos a vencer o imperfectos**
+- **[Equipo 2: Rescate Fresco, Marketplace de productos próximos a vencer o imperfectos](https://github.com/rescate-fresco/rescate-fresco-app)**
    - Herramienta de testing: Cypress + JMeter + Sonarqube
    - Tecnologías a usar en el proyecto: React(Front-end) + NodeJS(Back-end) + PostgreSQL + AWS
 
