@@ -64,7 +64,7 @@ Información de utilidad para el desarrollo del proyecto.
   - Herramienta de testing: Jest
   - Tecnologías a usar en el proyecto: React (Front-end) + Node.js (Back-end) + PostgreSQL + AWS
 
-- **Equipo 5: Speech2Text X, Solución definitiva para transcripción de audios**
+- **[Equipo 5: Speech2Text X, Solución definitiva para transcripción de audios](https://github.com/Speech2Text-X/Proyecto)**
   - Herramienta de testing: Pytest
   - Tecnologíás a usar en el proyecto: Typescript (Front-end) + Python (Back-end) + PotgreSQL + AWS
 
