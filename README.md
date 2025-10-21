@@ -68,7 +68,7 @@ Información de utilidad para el desarrollo del proyecto.
   - Herramienta de testing: Pytest
   - Tecnologíás a usar en el proyecto: Typescript (Front-end) + Python (Back-end) + PotgreSQL + AWS
 
-- **Equipo 6: LicitAgil, Gestión de Licitaciones fácil**
+- **[Equipo 6: LicitAgil, Gestión de Licitaciones fácil](https://github.com/Waracho/project_licit)**
   - Herramientas de tesing: React Testing Library (Accesibilidad) + Cypress (end to end)
   - Tecnologías: React (Front-end) + Python (back-end) + MongoDB + AWS
 
