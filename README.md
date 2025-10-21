@@ -56,7 +56,7 @@ Información de utilidad para el desarrollo del proyecto.
    - Herramienta de testing: Cypress + JMeter + Sonarqube
    - Tecnologías a usar en el proyecto: React(Front-end) + NodeJS(Back-end) + PostgreSQL + AWS
 
-- **Equipo 3: Rescate Fresco, Marketplace de productos próximos a vencer o imperfectos**
+- **[Equipo 3: Rescate Fresco, Marketplace de productos próximos a vencer o imperfectos](https://github.com/pruebas-de-software-proyecto/rescate-fresco)**
    - Herramienta de Testing: Vitest + React Testing Library.
    - Tecnologías a usar en el proyecto: React (Front-end) + NodeJS (Back-end) + MongoDB + Microsoft Azure.
 
