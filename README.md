@@ -9,10 +9,10 @@ Este repositorio contiene el proyecto práctico de la asignatura **INF331 - Test
 Durante el curso se trabaja con tecnologías y herramientas reales como:
 - GitHub (Repositorio)
 - JIRA (gestión ágil)
-  Slack (coordinación de equipo)
-- Jenkins / Github Actions (CI/CD)
-- Microsoft Azure o AWS u otra (Plataforma Nube)
-- Herramientas de testing especializadas
+  Slack/Discord (coordinación de equipo)
+- Jenkins/Azure DevOps / Github Actions (CI/CD)
+- Microsoft Azure/AWS/Vercel u otra (Plataforma Nube)
+- Herramientas de testing especializadas, para soporte de: 
   - Testing unitario
   - Testing integración
   - End2End
