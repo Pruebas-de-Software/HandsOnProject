@@ -11,7 +11,7 @@ Durante el curso se trabaja con tecnologías y herramientas reales como:
 - JIRA/Trello u otra  (gestión ágil)
 - Slack/Discord (coordinación de equipo)
 - Jenkins/Azure DevOps/Github Actions (CI/CD)
-- Microsoft Azure/AWS u otra (Plataforma Nube)
+- Microsoft Azure/AWS/GCP u otra (Plataforma Nube)
 - Herramientas de testing especializadas, para soporte de: 
   - Testing unitario
   - Testing integración
