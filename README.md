@@ -72,6 +72,8 @@ Información de utilidad para el desarrollo del proyecto.
   - Herramientas de tesing: React Testing Library (Accesibilidad) + Cypress (end to end)
   - Tecnologías: React (Front-end) + Python (back-end) + MongoDB + AWS
 
+**Lecciones aprendidas y recomendaciones**
+- **🔄 [Retrospectiva entrega 2](./semestres/2025-2/retro.md)**
 ---
 
 ## 🧾 Versiones anteriores 
