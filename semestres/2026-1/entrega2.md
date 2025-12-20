@@ -71,12 +71,7 @@ Se debe realizar integración entre:
 Uso de misma metodología ya utilizda en entrega 1:
 - Mismos equipos
 - Usar GitFlow para administrar el flujo de trabajo
-- Metodologóa Kanban
-  - En Jira configurar proyecto "desarrollo de software" > "Kanban"
-  - Crear incidencias del proyecto en el tablero
-  - Priorizar
-  - Agregar un campo de estiación en horas o Story points de cada historia o tarea
-  - Manejar tareas y mantener tablero actualizado
+- Contimnuar con el uso de metodología Kanban
 
 ### 4.2 Instrucciones de Presentación
 
