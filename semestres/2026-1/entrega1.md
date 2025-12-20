@@ -185,6 +185,7 @@ Recomendación de estructura:
 - Declarar supuestos por escrito.
 - El diseño gráfico queda a criterio del equipo.
 - Preguntas en "foro proyecto en Moodle".
+- Configurar organización del proyecto
 
 ### 6.1 Fechas relevantes
 
@@ -339,3 +340,6 @@ Estas sí se evalúan por hito. La clave es que la página **Entrega 1** tenga H
   - Supuestos y dependencias específicas de E1 (si aplica)
 
   ---
+## Anexo D — Configurar organización del proyecto
+
+En GitHub tenemos:
