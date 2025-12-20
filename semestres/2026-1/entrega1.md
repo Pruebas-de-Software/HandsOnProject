@@ -196,58 +196,69 @@ Recomendación de estructura:
 
 ## Anexo A — Herramientas de Testing Automatizado (seleccionar una)
 
-Máximo **2 grupos por herramienta de testing**.
-
-- Jest
-- Mocha (Chai)
-- Jasmine
-- Enzyme
-- Cypress
-- React Testing Library
-- Vue Test Utils
-- Angular Testing Utilities (Karma + Jasmine)
-- TestCafe
-- RSpec (Ruby, estilo BDD)
+- Máximo 2 grupos por herramienta de testing.
+  
+1. **[Jest](https://jestjs.io/)** is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! 
+1. **[Mocha (Chai)](https://mochajs.org/)** is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
+1. **[Jasmine](https://jasmine.github.io/)** is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
+1. **[Enzyme](https://enzymejs.github.io/enzyme/)** is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output. Enzyme's API is meant to be intuitive and flexible by mimicking jQuery's API for DOM manipulation and traversal
+1. **[Cypress](https://www.cypress.io/)** is a JavaScript testing automation solution used for web automation. It enables teams to create web test automation scripts. This solution aims to enable frontend developers and test automation engineers to write web tests in the de-facto web language that is JavaScript for web test automation.
+1. **[React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)** Testing moderno para React, basado en accesibilidad.
+1. **[Vue Test Utils](https://test-utils.vuejs.org/)** Librería oficial para Vue.js.
+1. **[Angular Testing Utilities (Karma + Jasmine)](https://angular.dev/guide/testing/utility-apis)** Stack oficial de testing Angular.
+1- **[TestCafe](https://testing-library.com/docs/testcafe-testing-library/intro/)**  También usado en UI, pero puede funcionar en flujo unitario para JS apps.
+1. **[RSpec (Ruby, estilo BDD)](https://rspec.info/)** Behaviour Driven Development for Ruby. Making TDD Productive and Fun.
 
 En algunos casos se podrá complementar con:
+1. **Unittest** Framework estándar de la librería estándar de Python.
+1. **PyTest** Más simple y potente que unittest, muy usado en proyectos modernos.
 
-- Unittest (Python)
-- PyTest
+También te puede interesar conocer en este punto soluciones End2End o basadas en Web browser, son similares a Selenium que veremos en la entrega 3:
 
-También te puede interesar conocer soluciones End2End / browser (similares a Selenium que veremos en entrega 3):
+1. **[Playwraight](https://playwright.dev/)** enables reliable end-to-end testing for modern web apps.
+1. **[Puppeteer](https://pptr.dev/)** is a Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol. Puppeteer runs in headless mode by default, but can be configured to run in full ("headful") Chrome/Chromium.
+1. **[Robot Framework](https://robotframework.org/)** is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA). Robot Framework is supported by Robot Framework Foundation. Many industry-leading companies use the tool in their software development.
+1. **[Watir](http://watir.com/)** is an open source Ruby library for automating tests. Watir interacts with a browser the same way people do: clicking links, filling out forms and validating text.
 
-- Playwraight
-- Puppeteer
-- Robot Framework
-- Watir
+Acá algunas alternativas de pago:
 
-Alternativas de pago:
+1. **Katalon** is a modern, comprehensivenquality management platform Deliver world-class digital experiences with an AI-augmented platform that lets you plan, author and execute automated tests.
+1. **TestComplete** is a automated UI testing that covers you from device cloud to packaged apps. Ensure the quality of your application without sacrificing speed or agility with an easy-to-use, GUI test automation tool. Our AI-powered object recognition engine and script or scriptless flexibility is unmatched, letting you test every desktop, web, and mobile application with ease. (Solo 15 días de prueba)
 
-- Katalon
-- TestComplete (Solo 15 días de prueba)
+> La elección debe considerar compatibilidad con las tecnologías del equipo.
+
+**Debes elegir bien, porque la elección que hagas debe permitir cumplir con el objetivo de solicitado para la aplicación y además la elección puede tener impacto en tu aplicación, es decir algunas de las herramientas listadas son específicas para ciertas tecnologías, por lo tanto si quieres usarla deberás usar determinados lenguajes de programación. Todo lo anterior tiene un impacto en el tiempo de desarrollo de esta presentación.**
+
+**Otra herramienta de pruebas es posible, pero debes inscribirlo en aula**
 
 ---
 
 ## Anexo B — Créditos y links de Nube
 
-### Azure
+Se sugiere usar: GCP, Azure o AWS
 
-- 100USD en crédito de Azure, sin tarjeta de crédito
+### Créditos Nube:
 
-### AWS
+- **Azure**
+  - [100USD en crédito de Azure, sin tarjeta de crédito](https://aws-experience.com/latam/smb/exclusive-offers/aws-credits) 
 
-- AWS Educate
-- $300 en créditos de AWS
-- $200 free Tier
+- **AWS**
+  - [AWS Educate](https://aws.amazon.com/es/education/awseducate/)
+  - [$300 en créditos de AWS](https://aws-experience.com/latam/smb/exclusive-offers/aws-credits)
+  - [$200 free Tier](https://aws.amazon.com/es/free)
 
-### GCP
+- **GCP**
+  - [Google Cloud para alumnos](https://cloud.google.com/edu/students)
+  - [Obtén y canjea créditos educativos](https://cloud.google.com/billing/docs/how-to/edu-grants)
+ 
+- **IA con Gemini**
+  - [L#300 La era Gemini para desarrolladores y empresas](https://cloud.google.com/ai/gemini)
 
-- Google Cloud para alumnos
-- Obtén y canjea créditos educativos
+> 🔍 Una VM básica consume aprox. 30-40 USD al mes si está 100% activa.
 
-### IA con Gemini
+> ℹ️ Recomendación: Configurar GitHub Copilot (gratis para estudiantes).
 
-- L#300 La era Gemini para desarrolladores y empresas
+> ⚠️ Apagar los servicios en la nube cuando no se estén utilizando.
 
 ---
 
