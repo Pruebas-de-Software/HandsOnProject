@@ -82,7 +82,7 @@ Si alguno de los casos de uso no aplica a su proyecto, se debe **reemplazar por 
 - Asignar roles internos (incluyendo un líder de equipo).
 - Crear organización y repositorio en GitHub.
 
-\*Equipos asignados en aula Moodle.
+⚠️ Equipos asignados en aula Moodle.
 
 ### 3.2 Flujo de desarrollo y gestión
 
