@@ -8,7 +8,18 @@ En esta segunda entrega, el objetivo es incorporar una herramienta que facilite 
 
 ## 🧩 1. Problema a Resolver
 
-Debemos llevar nuestro proyecto desarrollado en la entrega n°1 a un sistema de Integraión Continua / Despliegue Continuo (CI/CD). Debemos considerar dos elementos clave:
+Debemos llevar nuestro proyecto desarrollado en la entrega n°1 a un sistema de Integraión Continua / Despliegue Continuo (CI/CD). 
+
+Debemos lograr, concretamente:
+- **Automatizar el flujo CI/CD**: que Jenkins ejecute un pipeline cada vez que hay cambios en el repo (push/PR) usando webhooks.
+- **Integrar el trabajo con GitHub**: que el estado del build/tests quede asociado al commit/PR (verde/rojo), y no dependa de “en mi máquina funciona”.
+- **Ejecutar tareas estándar siempre igual**: típicamente build + tests (y si aplica, empaquetado/deploy), sin pasos manuales.
+- **Detectar errores temprano**: que falle rápido si algo rompe (compilación, dependencias, tests), antes de seguir avanzando.
+- **Dar trazabilidad**: historial de ejecuciones, logs, artefactos/resultados; evidencia clara para la entrega.
+- **Notificar al equipo**: con Slack, avisar cuándo el pipeline falla o pasa, para reaccionar rápido.
+- **Profesionalizar la infraestructura**: demostrar que el proyecto tiene una base “de industria” para seguir escalando en Entrega 3.
+
+Además, debemos considerar dos elementos clave:
 
 1. **Implementación del sistema CI/CD**.
 2. **Mejoras en la aplicación**:
@@ -94,8 +105,6 @@ Uso de misma metodología ya utilizda en entrega 1:
 3. Actualizar documentación: Incluir información de la integraión Jenkins y actualización de aplicación. **Ver anexo A**
 
 > **Nota**: Es requisito de la tarea explicar la infraestructura que soporta la aplicación web, y su relación con las pruebas si es pertinente.
-
----
 
 > ✅ Para preguntas o aclaraciones, usar el foro de la sección correspondiente en aula Moodle.
 
