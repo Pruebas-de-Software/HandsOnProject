@@ -81,7 +81,7 @@ Uso de misma metodología ya utilizda en entrega 1:
 
 - Fechas en aula Moodle
 
-### 4.4 Entregables
+## 📦 5) Entregables
 
 1. Enlace a código fuente en GitHub, actualización de código en repositorio
 2. Cápsula de video autoexplicativo del trabajo realizado, debe contener al menos:
@@ -91,7 +91,7 @@ Uso de misma metodología ya utilizda en entrega 1:
         2. Especificar dependencias entre la herramienta y la aplicación
     3. Uso de Jenkins
     4. Problemas encontrados y soluciones
-3. Actualizar documentación: Incluir información de la integraión Jenkins y actualización de aplicación
+3. Actualizar documentación: Incluir información de la integraión Jenkins y actualización de aplicación. **Ver anexo A**
 
 > **Nota**: Es requisito de la tarea explicar la infraestructura que soporta la aplicación web, y su relación con las pruebas si es pertinente.
 
@@ -102,6 +102,46 @@ Uso de misma metodología ya utilizda en entrega 1:
 ---
 # 📎 ANEXOS
 
-##
+## Anexo A, Qué debe contener la documentación de la Entrega 2
+
+Contenido recomendado:
+
+1.	Objetivo de la Entrega 2
+   -	Qué se busca lograr con CI/CD en este proyecto.
+
+2.	Qué se implementó
+  - Lista breve: Jenkins instalado/configurado + integraciones + pipeline + 2 requerimientos.
+
+3.	Arquitectura / Infraestructura (obligatoria)
+  -	Dónde corre la app.
+  - Dónde corre Jenkins (local o nube).
+  -	Cómo se conectan (GitHub WebHook, Ngrok si aplica, Slack).
+  
+4.	Pipeline CI/CD
+  - Qué gatilla el pipeline (push/PR/branch).
+  -	Qué etapas tiene (ej: build, tests, deploy si aplica).
+  -	Evidencias: logs, screenshots, badge, etc.
+
+5.	Integraciones
+  -	GitHub ↔ Jenkins (cómo lo lograron).
+  -	Jenkins ↔ Slack (qué notifica y cuándo).
+
+6.	Cómo ejecutar 
+  -	Cómo levantar Jenkins (o link).
+  -	Cómo correr pipeline manual (si se puede).
+  -	Cómo probar que el webhook funciona (pasos simples).
+
+7.	Mejoras en la aplicación
+  -	Nuevos requerimientos (qué son, dónde están).
+
+8.	Pruebas y relación con CI
+   -	Qué pruebas se ejecutan en CI.
+   -	Resultado esperado (verde/rojo).
+
+9.	Problemas encontrados y soluciones
+   - “Qué falló” + “Cómo lo arreglamos”.
+
+10.	Evidencia
+   - Capturas/logs relevantes.
 
 --- 
