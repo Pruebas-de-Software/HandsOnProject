@@ -53,8 +53,7 @@ En el foro proyecto (Aula) debes inscribir:
 
 
 1) Funcionalidades prioritarias de la aplicación
-2) Además incluir:
-
+2) Además incluir (CRUD):
 - Listar elementos
 - Buscar un elemento específico
 - Visualizar el detalle de un elemento
@@ -79,9 +78,11 @@ Si alguno de los casos de uso no aplica a su proyecto, se debe **reemplazar por 
 
 ### 3.1 Reglas de equipo
 
-- Equipos de 3 personas (inscribir en aula.usm.cl).
+- Equipos de 3 personas
 - Asignar roles internos (incluyendo un líder de equipo).
 - Crear organización y repositorio en GitHub.
+
+\*Equipos asignados en aula Moodle.
 
 ### 3.2 Flujo de desarrollo y gestión
 
@@ -99,6 +100,7 @@ Herramientas recomendadas: **GitHub + Slack + JIRA**.
 - Integrar GitHub + Slack + JIRA (pueden usar configuraciones previas).
 
 ⚠️ Si lo prefieres puedes usar Discord en lugar de Slack
+
 ---
 
 ## ☁️ 4) Plataforma en la nube (sugerida)
@@ -111,48 +113,35 @@ Se sugiere usar: **GCP, Azure o AWS**.
 
 ⚠️ Apagar los servicios en la nube cuando no se estén utilizando.
 
-(Créditos y links: ver **Anexo B**)
+⚠️ Ver **Anexo B**
 
 ---
 
-## 📌 5) Instrucciones de la Presentación 1
-
-- Declarar supuestos por escrito.
-- El diseño gráfico queda a criterio del equipo.
-- Preguntas en "foro proyecto en Moodle".
-
-### 5.1 Fechas relevantes
-
-- Fechas en aula Moodle.
-
----
-
-## 📦 6) Entregables (lo que se entrega sí o sí)
+## 📦 5) Entregables
 
 Se deben cosiderar los siguientes entregables:
 
-- Repositorio con código fuente en GitHub
-- Documentación del proyecto
-- Cápsula de video explicativa
-- Presentación en clases (si eres seleccionado)
+1) Repositorio con código fuente en GitHub
+2) Documentación del proyecto
+3) Cápsula de video explicativa
+4) Presentación en clases (si equipo es seleccionado)
 
-### 6.1 Repositorio con código fuente
+### 5.1 Repositorio con código fuente
 
 - README de instalación (completo, de acuerdo a definiciones presentadas en aula)
   - Dejar visible enlaces a:
-    - Video entrega 1
+    - Cápsula de video explicativa: Video entrega 1 (link a video/ej: Youtube)
     - Ingregrantes equipo
     - Enlace a Wiki
-- Release notes (por cada release)
+- Release notes (por cada entrega/release)
 - Documentación de aplicación
 - Licencia
 - .gitignore, correctamente configurado
 - Estructura de carpeta y archivos, de acuerdo a diseño de software
 - Código de aplicación
-- Cápsula de video explicativa
 - Información de Contacto y Contribución
 
-### 6.2 Documentación (en Wiki del repositorio)
+### 5.2 Documentación (en Wiki del repositorio)
 
 Debe incluir:
 
@@ -171,7 +160,9 @@ Recomendación de estructura:
 - **Wiki del proyecto:** documentación en profundidad (estrategia de pruebas, supuestos, dependencias, detalles técnicos).
 - **Carpeta de documentación:** directorio `docs` para documentos, imágenes, diagramas y material relevante.
 
-### 6.3 El video (qué debe incluir)
+ ⚠️ Ver **Anexo B**
+
+### 5.3 El video (qué debe incluir)
 
 - Alcances de la herramienta
 - Descripción del trabajo realizado
@@ -180,7 +171,7 @@ Recomendación de estructura:
 - Procedimiento de ejecución de pruebas
 - Resultados y problemas encontrados
 
-### 6.4 Presentación en clase (si eres seleccionado)
+### 5.4 Presentación en clase (si eres seleccionado)
 
 - Se realiza el día de entrega.
 - Orden de presentación al azar.
@@ -189,9 +180,15 @@ Recomendación de estructura:
 
 ---
 
-## 👥 7) Equipos
+## 📌 6) Otros
 
-\*Equipos asignados en aula Moodle.
+- Declarar supuestos por escrito.
+- El diseño gráfico queda a criterio del equipo.
+- Preguntas en "foro proyecto en Moodle".
+
+### 6.1 Fechas relevantes
+
+- Fechas en aula Moodle.
 
 ---
 
@@ -256,7 +253,7 @@ Alternativas de pago:
 
 ## Anexo C — Wiki en GitHub (Home + Pages)
 
-En GitHub Wiki tienes dos cosas bien concretas:
+En GitHub tenemos:
 
 - **Home** = la página principal (la portada).
 - **Pages** = el listado de páginas de la Wiki (menú lateral / lista de páginas).
@@ -267,7 +264,7 @@ La idea es que **Home** sea solo navegación + orientación, y que **Pages** ten
 
 **Home (contenido recomendado):**
 
-- Qué es este repo (2–3 líneas): nombre del proyecto + propósito.
+- Qué es este repo: nombre del proyecto + propósito.
 - Cómo partir (links directos):
   - Instalación / ejecución local (si lo documentan en Wiki; si no, link al README)
   - Cómo ejecutar pruebas
@@ -326,6 +323,8 @@ Estas sí se evalúan por hito. La clave es que la página **Entrega 1** tenga H
   - Alcance implementado (CRUD)
   - Cómo ejecutar el sistema (local)
   - Pruebas: qué se probó + cómo ejecutar + resultados
-  - Evidencia (capturas/links PR/release/tag)
+  - Evidencia (capturas de pantalla JIRA/Slack - links PR -release - tag)
   - Problemas encontrados / pendientes
   - Supuestos y dependencias específicas de E1 (si aplica)
+
+  ---
