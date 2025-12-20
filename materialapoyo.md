@@ -84,6 +84,51 @@
   - [Canjea créditos educativos](https://cloud.google.com/billing/docs/how-to/edu-grants)  
 
 ---
+## Reglas operativas para evitar el caos
+- Convención de tags: v1.0-entrega1, v2.0-entrega2, v3.0-entrega3
+- PR obligatorio a main (y “main protegido” desde E1)
+- **Una rama = un objetivo** (no mezclar feature + tests + docs en la misma).
+- **Nombre corto y claro**, sin tildes, sin espacios.
+- Siempre incluir **ID de Jira** (o Issue) para trazabilidad.
+- Merge a `develop` vía **Pull Request** (y a `main` solo con release/tag).
+
+### Convención de nombres de ramas (Branch Naming)
+
+Objetivo: mantener el repositorio ordenado, trazable (Jira/GitHub) y evitar caos.
+
+#### 1) Ramas principales (fijas)
+
+- `main` → estable / entregable
+- `develop` → integración de trabajo (si usan GitFlow)
+
+#### 2) Ramas de trabajo (por tipo)
+
+**Formato general:**
+```
+<tipo>/<id-jira>-<descripcion-corta-kebab-case>
+```
+
+##### Tipos permitidos
+- `feature/` → nueva funcionalidad
+- `fix/` → bug
+- `test/` → creación/mejora de pruebas
+- `ci/` → CI/CD, Jenkins, pipelines
+- `docs/` → documentación (README/Wiki)
+- `refactor/` → refactor sin cambio funcional
+- `chore/` → tareas menores (deps, config, limpieza)
+
+
+#### 3) Ejemplos
+
+- `feature/LIC-12-crear-licitacion`
+- `fix/LIC-18-error-validacion-fecha`
+- `test/LIC-25-pruebas-unitarias-repositorio`
+- `ci/LIC-31-jenkinsfile-pipeline`
+- `docs/LIC-40-actualizar-wiki-entrega2`
+- `refactor/LIC-44-separar-servicios`
+- `chore/LIC-50-actualizar-dependencias`
+
+---
 # :wave: Fundamentos de GitHub 
 
 ## :octocat: Git y GitHub
