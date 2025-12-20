@@ -6,6 +6,14 @@ Este repositorio contiene el proyecto práctico de la asignatura **INF331 - Test
 
 **INF331 - Testing de Software** es una asignatura enfocada en entregar los conocimientos y desarrollar las habilidades para asegurar la calidad del software. A través de ejercicios aplicados, los estudiantes adquieren experiencia en testing automatizado, testing ágil, integración continua (CI), despliegue continuo (CD) y buenas prácticas de desarrollo moderno.
 
+📝[DeepWiki](https://deepwiki.com/Pruebas-de-Software/HandsOnProject)
+
+## 🛠️ Descripción general del proyecto
+
+**HandsOnProject** es una experiencia práctica y progresiva en la que los estudiantes desarrollan una aplicación web desde cero, OpenSource, enfrentando escenarios similares a los de la industria. El proyecto se estructura en tres entregas consecutivas:
+
+Este proyecto busca simular un entorno de desarrollo profesional, donde se integran pruebas desde el primer momento, y se automatizan procesos de calidad y despliegue como parte central del ciclo de vida del software.
+
 Durante el curso se trabaja con tecnologías y herramientas reales como:
 - GitHub (Repositorio)
 - JIRA/Trello u otra  (gestión ágil)
@@ -17,15 +25,6 @@ Durante el curso se trabaja con tecnologías y herramientas reales como:
   - Testing integración
   - End2End
   - Entre otros
-
-## 🛠️ Descripción general del proyecto
-
-**HandsOnProject** es una experiencia práctica y progresiva en la que los estudiantes desarrollan una aplicación web desde cero, OpenSource, enfrentando escenarios similares a los de la industria. El proyecto se estructura en tres entregas consecutivas:
-
-Este proyecto busca simular un entorno de desarrollo profesional, donde se integran pruebas desde el primer momento, y se automatizan procesos de calidad y despliegue como parte central del ciclo de vida del software.
-
-📝[DeepWiki](https://deepwiki.com/Pruebas-de-Software/HandsOnProject)
-
 ---
 
 ## 📅 Material de apoyo
