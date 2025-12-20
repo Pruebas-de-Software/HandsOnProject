@@ -340,6 +340,13 @@ Estas sí se evalúan por hito. La clave es que la página **Entrega 1** tenga H
   - Supuestos y dependencias específicas de E1 (si aplica)
 
   ---
-## Anexo D — Configurar organización del proyecto
+## Anexo D — Configurar organización del proyecto (Identidad)
 
-En GitHub tenemos:
+- Nombre y “handle” claros (ej: inf331-equipo-7 o hands-on-<tema>-<equipo>).
+- Logo/Avatar consistente (simple, legible).
+- Description (puede apuntar al repo principal o a la Wiki).
+- README público de la org (.github/profile/README.md) con:
+  - propósito del proyecto
+  - links: repo, Wiki, etc.
+
+---
