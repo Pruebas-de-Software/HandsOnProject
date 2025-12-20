@@ -1,0 +1,331 @@
+# 📦 Entrega 1 — Construcción inicial aplicación y pruebas automatizadas
+
+## 🎯 Resumen rápido
+
+Esta entrega es la **primera presentación del proyecto**. El objetivo es construir la base con:
+
+- Un problema claro.
+- Herramientas de apoyo.
+- Una metodología de trabajo definida.
+
+En esta etapa el foco es implementar las funcionalidades prioritarias de la aplicación, además se debe incluir **CRUD (Create, Read, Update, Delete)** de funcionalidades principales: un **MVP**.  
+
+“Los más osados dicen que en un fin de semana está lista una aplicación de estas características.”
+
+---
+
+## ✅ 1) Antes de partir: decisiones obligatorias
+
+### 1.1 Elegir el problema (1 por equipo)
+
+Los problemas se entregan como cliente real: **pueden estar incompletos o desordenados**. Cada equipo debe escoger **un (1) problema**:
+
+- **Tema 1**.
+- **Tema 2**.
+- **Tema 3**.
+
+⚠️ Máximo **3 grupos por tema**.
+
+### 1.2 Elegir herramienta de testing (1 por equipo)
+
+Debes apoyarte en **una** herramienta de testing automatizado (ver **Anexo A**).
+
+⚠️ Máximo **2 grupos por herramienta de testing**.
+
+La elección debe considerar compatibilidad con las tecnologías a utilizar en el proyecto.
+
+Debes elegir bien, porque la herramienta puede impactar tu aplicación, incluso puede existir incompatibilidades que hacen imposible la compatibilidad (algunas son específicas para ciertas tecnologías y lenguajes). Esto impacta el tiempo de desarrollo de esta presentación.
+
+Otra herramienta de pruebas es posible, pero debes inscribirlo en "Aula".
+
+### 1.3 Inscripción en el foro del proyecto (Aula)
+
+En el foro proyecto (Aula) debes inscribir:
+
+- Tema elegido
+- Herramienta de testing elegida
+
+⚠️ **Se privilegiará el orden de inscripcción**.
+
+---
+
+## 🧩 2) ¿Qué debes desarrollar?
+
+
+1) Funcionalidades prioritarias de la aplicación
+2) Además incluir:
+
+- Listar elementos
+- Buscar un elemento específico
+- Visualizar el detalle de un elemento
+- Agregar un nuevo elemento
+- Editar un elemento existente
+- Eliminar un elemento
+
+### Ejemplo: VitaCocina
+
+- Listar recetas y consejos
+- Buscar recetas (criterios definidos por el equipo)
+- Visualizar receta en detalle (con imagen)
+- Agregar receta y consejo
+- Editar receta y consejo
+- Eliminar receta
+
+Si alguno de los casos de uso no aplica a su proyecto, se debe **reemplazar por uno más adecuado**.
+
+---
+
+## 🧪 3) Metodología y forma de trabajo
+
+### 3.1 Reglas de equipo
+
+- Equipos de 3 personas (inscribir en aula.usm.cl).
+- Asignar roles internos (incluyendo un líder de equipo).
+- Crear organización y repositorio en GitHub.
+
+### 3.2 Flujo de desarrollo y gestión
+
+- Usar GitFlow para el flujo de trabajo.
+- Aplicar Kanban con proyecto de tipo "Desarrollo de software" en JIRA.
+- Genera cuidadosamente cada hisoria de usuario en el tablero e incluye los criterios de aceptación.
+- Crear ítems en el tablero, priorizarlos y estimarlos (horas o story points).
+- Tablero **"siempre"** debe estar actualizado.
+
+Herramientas recomendadas: **GitHub + Slack + JIRA**.
+
+### 3.3 Integraciones (configuración)
+
+- Configurar proyecto en JIRA.
+- Integrar GitHub + Slack + JIRA (pueden usar configuraciones previas).
+
+⚠️ Si lo prefieres puedes usar Discord en lugar de Slack
+---
+
+## ☁️ 4) Plataforma en la nube (sugerida)
+
+Se sugiere usar: **GCP, Azure o AWS**.
+
+🔍 Una VM básica consume aprox. **30-40 USD al mes** si está 100% activa.
+
+ℹ️ Recomendación: Configurar **GitHub Copilot** (gratis para estudiantes).
+
+⚠️ Apagar los servicios en la nube cuando no se estén utilizando.
+
+(Créditos y links: ver **Anexo B**)
+
+---
+
+## 📌 5) Instrucciones de la Presentación 1
+
+- Declarar supuestos por escrito.
+- El diseño gráfico queda a criterio del equipo.
+- Preguntas en "foro proyecto en Moodle".
+
+### 5.1 Fechas relevantes
+
+- Fechas en aula Moodle.
+
+---
+
+## 📦 6) Entregables (lo que se entrega sí o sí)
+
+Se deben cosiderar los siguientes entregables:
+
+- Repositorio con código fuente en GitHub
+- Documentación del proyecto
+- Cápsula de video explicativa
+- Presentación en clases (si eres seleccionado)
+
+### 6.1 Repositorio con código fuente
+
+- README de instalación (completo, de acuerdo a definiciones presentadas en aula)
+  - Dejar visible enlaces a:
+    - Video entrega 1
+    - Ingregrantes equipo
+    - Enlace a Wiki
+- Release notes (por cada release)
+- Documentación de aplicación
+- Licencia
+- .gitignore, correctamente configurado
+- Estructura de carpeta y archivos, de acuerdo a diseño de software
+- Código de aplicación
+- Cápsula de video explicativa
+- Información de Contacto y Contribución
+
+### 6.2 Documentación (en Wiki del repositorio)
+
+Debe incluir:
+
+- **Resumen del Proyecto:** objetivos, alcance y propósito.
+- **Descripción del Trabajo Realizado:** actividades realizadas, funcionalidades implementadas y logros.
+- **Tecnologías de aplicación y su relación con las pruebas:** listado de tecnologías/herramientas y cómo aportan al proceso de pruebas.
+- **Evidencia del Trabajo Realizado:** capturas, fragmentos de código, resultados de pruebas u otro material.
+- **Estrategia de Pruebas:** metodología adoptada; tipos de pruebas (unitarias, integración, etc.), pruebas de Frontend, Backend, herramientas y cobertura.
+- **Supuestos y dependencias:**
+  - Listado de condiciones asumidas durante el Desarrollo.
+  - Identificación de factores externos que pueden influir en el proyecto (dependencias de terceros, limitaciones tecnológicas, etc.).
+
+Recomendación de estructura:
+
+- **README.md:** visión general + instalación + uso básico + links a doc más detallada + integrantes del equipo + links a videos.
+- **Wiki del proyecto:** documentación en profundidad (estrategia de pruebas, supuestos, dependencias, detalles técnicos).
+- **Carpeta de documentación:** directorio `docs` para documentos, imágenes, diagramas y material relevante.
+
+### 6.3 El video (qué debe incluir)
+
+- Alcances de la herramienta
+- Descripción del trabajo realizado
+- Proyecto y dependencias
+- Estrategia de pruebas utilizadas
+- Procedimiento de ejecución de pruebas
+- Resultados y problemas encontrados
+
+### 6.4 Presentación en clase (si eres seleccionado)
+
+- Se realiza el día de entrega.
+- Orden de presentación al azar.
+- Máximo 25 minutos por equipo.
+- Todo el equipo obtiene la misma nota.
+
+---
+
+## 👥 7) Equipos
+
+\*Equipos asignados en aula Moodle.
+
+---
+
+# 📎 ANEXOS
+
+## Anexo A — Herramientas de Testing Automatizado (seleccionar una)
+
+Máximo **2 grupos por herramienta de testing**.
+
+- Jest
+- Mocha (Chai)
+- Jasmine
+- Enzyme
+- Cypress
+- React Testing Library
+- Vue Test Utils
+- Angular Testing Utilities (Karma + Jasmine)
+- TestCafe
+- RSpec (Ruby, estilo BDD)
+
+En algunos casos se podrá complementar con:
+
+- Unittest (Python)
+- PyTest
+
+También te puede interesar conocer soluciones End2End / browser (similares a Selenium que veremos en entrega 3):
+
+- Playwraight
+- Puppeteer
+- Robot Framework
+- Watir
+
+Alternativas de pago:
+
+- Katalon
+- TestComplete (Solo 15 días de prueba)
+
+---
+
+## Anexo B — Créditos y links de Nube
+
+### Azure
+
+- 100USD en crédito de Azure, sin tarjeta de crédito
+
+### AWS
+
+- AWS Educate
+- $300 en créditos de AWS
+- $200 free Tier
+
+### GCP
+
+- Google Cloud para alumnos
+- Obtén y canjea créditos educativos
+
+### IA con Gemini
+
+- L#300 La era Gemini para desarrolladores y empresas
+
+---
+
+## Anexo C — Wiki en GitHub (Home + Pages)
+
+En GitHub Wiki tienes dos cosas bien concretas:
+
+- **Home** = la página principal (la portada).
+- **Pages** = el listado de páginas de la Wiki (menú lateral / lista de páginas).
+
+La idea es que **Home** sea solo navegación + orientación, y que **Pages** tenga páginas separadas: unas “del proyecto” y otras “de entregas”.
+
+### Cómo debería verse el Home (portada)
+
+**Home (contenido recomendado):**
+
+- Qué es este repo (2–3 líneas): nombre del proyecto + propósito.
+- Cómo partir (links directos):
+  - Instalación / ejecución local (si lo documentan en Wiki; si no, link al README)
+  - Cómo ejecutar pruebas
+- Entregas (links):
+  - Entrega 1 (link)
+  - Entrega 2 (placeholder)
+  - Entrega 3 (placeholder)
+- Documentación base del proyecto (links):
+  - Resumen del Proyecto
+  - Arquitectura y Diseño
+  - Tecnologías y Stack
+  - Estrategia de Pruebas (Global)
+  - Supuestos y Dependencias (Global)
+- Evidencias y recursos (links):
+  - Evidencias / Bitácora
+  - Release/Tag Entrega 1 (link al repo)
+
+En simple: **Home es un índice**, no un lugar para explicar todo.
+
+### Cómo debería verse la lista Pages (estructura real en GitHub Wiki)
+
+En Pages, yo lo ordenaría con nombres que se agrupen solos alfabéticamente (GitHub Wiki no permite carpetas reales, pero el prefijo ayuda).
+
+**Grupo 1 — Páginas del proyecto (genéricas)**
+
+Estas no son “por entrega”, sino cosas que valen para todo el semestre.
+
+- Proyecto - Resumen  
+  - Objetivo, alcance, usuarios, qué problema resuelve
+- Proyecto - Tecnologías y Stack  
+  - Tecnologías elegidas + breve justificación + cómo se relaciona con pruebas
+- Proyecto - Arquitectura y Diseño  
+  - Diagrama simple + estructura del repo + decisiones relevantes
+- Proyecto - Estrategia de Pruebas  
+  - Plan global: qué tipos de pruebas existen en el proyecto y cómo irá evolucionando en E1/E2/E3
+- Proyecto - Supuestos y Dependencias  
+  - Supuestos generales + dependencias externas/limitaciones
+- Proyecto - Evidencias  
+  - Capturas, links a PRs, resultados importantes, etc.
+
+**Grupo 2 — Páginas por entrega (específicas)**
+
+Estas sí se evalúan por hito. La clave es que la página **Entrega 1** tenga H1 = “Entrega 1”.
+
+- Entrega 1  
+  - (página evaluable, con el detalle de lo hecho en E1)
+- Entrega 2 (placeholder)
+- Entrega 3 (placeholder)
+
+### Plantilla mínima recomendada para la página “Entrega 1”
+
+(para que corrijas rápido y sea consistente)
+
+- Entrega 1
+  - Objetivo de la entrega
+  - Alcance implementado (CRUD)
+  - Cómo ejecutar el sistema (local)
+  - Pruebas: qué se probó + cómo ejecutar + resultados
+  - Evidencia (capturas/links PR/release/tag)
+  - Problemas encontrados / pendientes
+  - Supuestos y dependencias específicas de E1 (si aplica)
