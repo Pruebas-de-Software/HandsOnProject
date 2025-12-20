@@ -339,7 +339,7 @@ Estas sí se evalúan por hito. La clave es que la página **Entrega 1** tenga H
   - Problemas encontrados / pendientes
   - Supuestos y dependencias específicas de E1 (si aplica)
 
-  ---
+---
 ## Anexo D — Configurar organización del proyecto (Identidad)
 
 - Nombre y “handle” claros (ej: inf331-equipo-7 o hands-on-<tema>-<equipo>).
