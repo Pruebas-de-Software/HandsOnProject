@@ -3,7 +3,7 @@
 ### 🔹 Entrega 1: Construcción inicial aplicación y pruebas automatizadas
 
 - Primera entrega de aplicación.
-- Desarrollo de un CRUD funcional para una aplicación web definida por el equipo.
+- Desarrollo de un CRUD funcional, y funcioalidades prioritarias de aplicación web definida por el equipo.
 - Implementación de pruebas automatizadas iniciales según herramienta escogida
 
 📄 [Ver detalles de la Entrega 1](./entrega1.md)
