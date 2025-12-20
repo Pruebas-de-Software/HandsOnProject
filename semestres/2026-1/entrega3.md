@@ -14,7 +14,7 @@ En la entrega uno (1) generamos una aplicación y la probamos con una herramient
 
 En esta oportunidad, crearemos un conjunto de pruebas en alguna herramienta E2E, por defecto **[Selenium](https://www.selenium.dev/)** y lo integraremos a nuestro Pipeline. 
 
-Si no uusaste previamente alguna de las siguientes herramientas, puedes usarla en lugar de Selenium:
+Si no usaste previamente alguna de las siguientes herramientas, puedes usarla en lugar de Selenium:
 
 1. **[Playwraight](https://playwright.dev/)** enables reliable end-to-end testing for modern web apps.
 1. **[Puppeteer](https://pptr.dev/)** is a Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol. Puppeteer runs in headless mode by default, but can be configured to run in full ("headful") Chrome/Chromium.
