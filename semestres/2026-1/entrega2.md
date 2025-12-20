@@ -19,13 +19,13 @@ Debemos lograr, concretamente:
 - **Notificar al equipo**: con Slack, avisar cuándo el pipeline falla o pasa, para reaccionar rápido.
 - **Profesionalizar la infraestructura**: demostrar que el proyecto tiene una base “de industria” para seguir escalando en Entrega 3.
 
-Además, debemos considerar dos elementos clave:
+Además, debemos considerar:
 
 1. **Implementación del sistema CI/CD**.
 2. **Mejoras en la aplicación**:
-  - Nuevos requisitos según prioridades
-  - Requisito pendientes de la entrega anterior y compromisos contraido en entrega 1.
-  - Pruebas asociadas a las funcionalidades agregadas
+   - Nuevos requisitos según prioridades
+   - Requisito pendientes de la entrega anterior y compromisos contraido en entrega 1.
+   - Pruebas asociadas a las funcionalidades agregadas
 
 ---
 
