@@ -41,11 +41,11 @@
 
 ---
 
-### Qué se entrega siempre (común a las 3)
+### Qué se entrega siempre (común a las 3 entregas)
 
 - Repo GitHub
-- Wiki actualizada
-- video + (release/tag por entrega)
+- Documentación actualizada
+- Video + (release/tag por entrega)
 
 ### Criterios de evaluación
 - Calidad del código
@@ -79,7 +79,7 @@ Objetivo: mantener el repositorio ordenado, trazable (Jira/GitHub) y evitar caos
 <tipo>/<id-jira>-<descripcion-corta-kebab-case>
 ```
 
-##### Tipos permitidos
+##### Tipos sugeridos
 - `feature/` → nueva funcionalidad
 - `fix/` → bug
 - `test/` → creación/mejora de pruebas
