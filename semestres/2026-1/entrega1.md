@@ -128,18 +128,25 @@ Se deben cosiderar los siguientes entregables:
 
 ### 5.1 Repositorio con código fuente
 
-- README de instalación (completo, de acuerdo a definiciones presentadas en aula)
+- **README** de instalación (completo, de acuerdo a definiciones presentadas en aula)
   - Dejar visible enlaces a:
     - Cápsula de video explicativa: Video entrega 1 (link a video/ej: Youtube)
     - Ingregrantes equipo
     - Enlace a Wiki
-- Release notes (por cada entrega/release)
-- Documentación de aplicación
-- Licencia
-- .gitignore, correctamente configurado
-- Estructura de carpeta y archivos, de acuerdo a diseño de software
-- Código de aplicación
-- Información de Contacto y Contribución
+- **Release notes** (por cada entrega/release)
+- **Documentación** de aplicación
+- **Licencia**
+- **.gitignore**, correctamente configurado
+- **Estructura** de carpeta y archivos, de acuerdo a diseño de software
+- **Código** de aplicación
+- **Información de Contacto y Contribución**
+- **Tag** + Release (obligatorio por entrega)
+  - Crear un tag en GitHub que marque exactamente el estado entregado.
+  - Publicar un Release asociado al tag (con breve release notes).
+  - Convención de nombre del tag: v1.0-entrega1
+      - (Entrega 2: v2.0-entrega2, Entrega 3: v3.0-entrega3)
+  - El tag debe apuntar a un commit en la rama main (código estable).
+
 
 ### 5.2 Documentación (en Wiki del repositorio)
 
@@ -292,7 +299,7 @@ La idea es que **Home** sea solo navegación + orientación, y que **Pages** ten
   - Supuestos y Dependencias (Global)
 - Evidencias y recursos (links):
   - Evidencias / Bitácora
-  - Release/Tag Entrega 1 (link al repo)
+  - Release/Tag Entrega 1: link al release/tag v1.0-entrega1
 
 En simple: **Home es un índice**, no un lugar para explicar todo.
 
