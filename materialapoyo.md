@@ -108,7 +108,7 @@ Objetivo: mantener el repositorio ordenado, trazable (Jira/GitHub) y evitar caos
 <tipo>/<id-jira>-<descripcion-corta-kebab-case>
 ```
 
-##### Tipos permitidos
+##### Tipos sugeridos
 - `feature/` → nueva funcionalidad
 - `fix/` → bug
 - `test/` → creación/mejora de pruebas
