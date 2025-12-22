@@ -140,7 +140,8 @@ Se deben cosiderar los siguientes entregables:
 - **Estructura** de carpeta y archivos, de acuerdo a diseño de software
 - **Código** de aplicación
 - **Información de Contacto y Contribución**
-- **Tag** + Release (obligatorio por entrega)
+
+### 5.1.1 **Tag** + Release (obligatorio por entrega)
   - Crear un tag en GitHub que marque exactamente el estado entregado.
   - Publicar un Release asociado al tag (con breve release notes).
   - Convención de nombre del tag: v1.0-entrega1
