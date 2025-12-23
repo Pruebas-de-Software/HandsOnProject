@@ -4,7 +4,7 @@
 
 “En 3 entregas construiremos una app web con calidad creciente: funcionalidad → CI/CD → E2E, dejando evidencia y trazabilidad.”
 
-### “Definition of Done” corta por entrega (checklist)
+### “Definition of Done” resumida por entrega
 
 - Entrega1: Requisitos principales + CRUD + tests corriendo + documentación base + tag/release
 - Entrega2: Pipeline automático por cambios + integraciones (GitHub/Slack) + nuevos reqs + evidencia
@@ -41,7 +41,7 @@
 
 ---
 
-### Qué se entrega siempre (común a las 3 entregas)
+### ¿Qué se entrega siempre? (común a las 3 entregas)
 
 - Repo GitHub
 - Documentación actualizada
