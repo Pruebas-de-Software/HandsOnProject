@@ -47,7 +47,7 @@ Información de utilidad para el desarrollo del proyecto.
 - **[Instrucciones ejecución proyecto / Semestre 2 2025 (Nuevo)](./semestres/2025-2/entregas.md)**
 
 **🚀 Repositorios de proyectos 🚀**
-- **[Equipo 1: LicitAgil, Gestión de Licitaciones fácil](https://github.com/proyecto-equipo-1/licitagil-grupo-1)**
+- **[Equipo 1: LicitAgil, Gestión de Licitaciones fácil](https://github.com/proyecto-equipo-1/licitagil-grupo-1) ⭐**
   - Herramienta de testing: Cypress
   - Tecnologías a usar en el proyecto: React(Front-end) + NodeJS(Back-end) + PostgreSQL + AWS
 
