@@ -40,7 +40,7 @@ Información de utilidad para el desarrollo del proyecto.
 
 --- 
 
-## 📅 🚀Temas Segundo semestre 2025🚀
+## 📅 Temas Segundo semestre 2025
 
 **Temas a ser desarrollados**
 - [LicitAgil: Gestión de Licitaciones](./semestres/2025-2/tema1.md).
