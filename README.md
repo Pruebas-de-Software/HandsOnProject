@@ -34,7 +34,7 @@ Información de utilidad para el desarrollo del proyecto.
 📁[Material de apoyo](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/materialapoyo.md)
 
 ---
-## 📅 🚀Temas Primer semestre 2026🚀
+## 📅 🚀Temas 2026🚀
 
 ⚠️ PRONTO
 
