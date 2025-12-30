@@ -34,8 +34,13 @@ Información de utilidad para el desarrollo del proyecto.
 📁[Material de apoyo](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/materialapoyo.md)
 
 ---
+## 📅 🚀Temas Primer semestre 2026🚀
 
-## 📅 🚀Temas Segundo semestre 2025 (NUEVO)🚀
+⚠️ PRONTO
+
+--- 
+
+## 📅 🚀Temas Segundo semestre 2025🚀
 
 **Temas a ser desarrollados**
 - [LicitAgil: Gestión de Licitaciones](./semestres/2025-2/tema1.md).
@@ -44,7 +49,7 @@ Información de utilidad para el desarrollo del proyecto.
   
 **Instrucciones proyecto**
 
-- **[Instrucciones ejecución proyecto / Semestre 2 2025 (Nuevo)](./semestres/2025-2/entregas.md)**
+- **[Instrucciones ejecución proyecto / Semestre 2 2025](./semestres/2025-2/entregas.md)**
 
 **🚀 Repositorios de proyectos 🚀**
 - **[Equipo 1: LicitAgil, Gestión de Licitaciones fácil](https://github.com/proyecto-equipo-1/licitagil-grupo-1) ⭐**
