@@ -18,7 +18,7 @@ RentSmart será una aplicación web que permitirá conectar a propietarios de es
 
 La plataforma permitirá que cada propietario publique uno o más espacios, incorporando información como nombre, tipo de espacio, ubicación referencial, fotos, precio por hora o por día, disponibilidad y condiciones de uso. A partir de fotos y datos básicos, la plataforma podrá apoyarse en inteligencia artificial para proponer una descripción inicial del espacio, la cual podrá ser editada posteriormente por el propietario.
 
-Por su parte, los usuarios podrán explorar los espacios publicados, filtrarlos por distintos criterios y realizar solicitudes o reservas directamente desde la plataforma. El sistema podrá incorporar pago en línea mediante Stripe, permitiendo registrar el cobro de una reserva y eventualmente aplicar una comisión por uso de la plataforma.
+Por su parte, los usuarios podrán explorar los espacios publicados, filtrarlos por distintos criterios y realizar solicitudes o reservas directamente desde la plataforma. El sistema podrá incorporar pago en línea mediante [Stripe](https://stripe.com/es-us), permitiendo registrar el cobro de una reserva y eventualmente aplicar una comisión por uso de la plataforma.
 
 RentSmart también podrá incluir capacidades de búsqueda más avanzadas, permitiendo que un usuario describa en lenguaje natural qué tipo de actividad desea realizar, para que el sistema sugiera espacios adecuados según ese contexto. Por ejemplo, una persona podría buscar algo como: “necesito un lugar tranquilo para una reunión de 8 personas” o “busco una cocina equipada para un taller pequeño”.
 
@@ -26,9 +26,8 @@ La solución deberá quedar lo suficientemente abierta para que el equipo de est
 - Tipos exactos de espacios que estarán permitidos.
 - Reglas de publicación y validación.
 - Flujo definitivo de reserva.
-- Política de pagos, cancelaciones o reembolsos.
 - Sistema de reputación, comentarios o calificaciones.
-- Mecanismos de moderación, seguridad y soporte.
+- Pago
 - Alcance real del uso de inteligencia artificial en el producto.
 
 * * *
@@ -85,20 +84,16 @@ Ser una plataforma referente en la gestión digital de arriendo flexible de espa
   - Pagada.
   - Cancelada.
   - Finalizada.
-  - etc.
-- Historial de reservas para cada usuario.
 - Panel o vista para que el propietario pueda revisar sus espacios y reservas.
 - Panel o vista para que el usuario pueda revisar sus búsquedas, reservas o pagos.
 - Uso de inteligencia artificial para apoyar al menos una funcionalidad del sistema, por ejemplo:
   - Generación de descripción automática del espacio.
   - Recomendación de espacios según una necesidad expresada en lenguaje natural.
   - Etiquetado o categorización automática.
-  - etc.
 - Validaciones de negocio definidas por el equipo, tales como:
   - Evitar reservas en horarios no disponibles.
   - Restringir publicaciones incompletas.
   - Controlar conflictos de agenda.
-  - etc.
 - Diseño responsive.
 - Persistencia de datos en una base de datos.
 - Panel administrativo básico o capacidades de administración del sistema.
