@@ -67,7 +67,6 @@ Ser una plataforma referente en la gestión digital de arriendo flexible de espa
   - Precio por hora y/o por día.
   - Ubicación referencial.
   - Reglas o condiciones de uso.
-  - etc.
 - Edición, activación y desactivación de publicaciones.
 - Visualización de espacios disponibles en un catálogo o listado.
 - Búsqueda, ordenamiento y filtros por distintos criterios, por ejemplo:
@@ -76,7 +75,6 @@ Ser una plataforma referente en la gestión digital de arriendo flexible de espa
   - Ubicación.
   - Disponibilidad.
   - Capacidad.
-  - etc.
 - Visualización del detalle de cada espacio.
 - Gestión de disponibilidad del espacio mediante algún mecanismo definido por el equipo.
 - Creación y gestión de reservas.
@@ -108,7 +106,7 @@ Ser una plataforma referente en la gestión digital de arriendo flexible de espa
 
 ## Consideraciones Abiertas para el Equipo
 
-El proyecto debe entenderse como una base inicial de producto, no como una especificación cerrada. Por lo tanto, el equipo de estudiantes podrá profundizar y completar aspectos como:
+El proyecto debe entenderse como una base inicial de producto, incompleta, no como una especificación cerrada, se pueden hacer supuesto y consultas al profesor. Por lo tanto, el equipo de estudiantes podrá profundizar y completar aspectos como:
 
 - Modelo de negocio exacto de la plataforma.
 - Alcance del cobro de comisión.
