@@ -36,7 +36,9 @@ Información de utilidad para el desarrollo del proyecto.
 ---
 ## 📅 🚀Temas 2026🚀
 
-⚠️ PRONTO
+**Instrucciones proyecto**
+
+- **[Instrucciones ejecución proyecto / Semestre 1 2026](./semestres/2026-1/entregas.md)**
 
 --- 
 
