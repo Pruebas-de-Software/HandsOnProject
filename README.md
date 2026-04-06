@@ -42,7 +42,7 @@ Información de utilidad para el desarrollo del proyecto.
 
 **Temas a ser desarrollados**
 - [ RentSmart · Arriendo de espacios entre particulares](./semestres/2026-1/tema1.md).
-- [tema2](./semestres/2026-1/tema2.md).
+- [CampusLink · Red de oportunidades universitarias](./semestres/2026-1/tema2.md).
 - [tema3](./semestres/2026-1/tema3.md).
 
 **🚀 Repositorios de proyectos 🚀**
