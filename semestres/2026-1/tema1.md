@@ -1,5 +1,7 @@
 # RentSmart: Arriendo de Espacios entre Particulares
 
+![RentSmart](./recursos/tema1.png)
+
 ## El Problema
 
 En muchas ciudades, arrendar espacios por horas o por días entre particulares sigue siendo un proceso poco estandarizado y difícil de gestionar. Encontrar una sala de reuniones, una cancha, un estudio fotográfico, una cocina compartida u otro espacio similar suele implicar búsquedas informales en redes sociales, recomendaciones, mensajes por WhatsApp o llamadas directas.
