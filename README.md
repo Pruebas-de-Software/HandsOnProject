@@ -273,7 +273,7 @@ ___
 - **🔄 [Retrospectiva proyecto](./semestres/2022-1/retro.md)**
 
 ---
-Pruebas de Software - UTFSM - 2025
+Pruebas de Software - UTFSM - 2026
 
 ### Licencia
 Este proyecto está bajo la [MIT License](./LICENSE)
