@@ -38,7 +38,12 @@ Información de utilidad para el desarrollo del proyecto.
 
 **Instrucciones proyecto**
 
-- **[Instrucciones ejecución proyecto / Semestre 1 2026](./semestres/2026-1/entregas.md)**
+**[Instrucciones ejecución proyecto / Semestre 1 2026](./semestres/2026-1/entregas.md)**
+
+**Temas a ser desarrollados**
+- [tema1](./semestres/2026-1/tema1.md).
+- [tema2](./semestres/2026-1/tema2.md).
+- [tema3](./semestres/2026-1/tema3.md).
 
 **🚀 Repositorios de proyectos 🚀**
 
