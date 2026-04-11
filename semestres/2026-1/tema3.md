@@ -92,5 +92,5 @@ El equipo podrá definir o ampliar aspectos como:
 
 ## 👥 Autor
 
-- Equipo docente / adaptación basada en idea de proyecto para HandsOnProject
+- Equipo docente / adaptación basada en idea de proyecto para HandsOnProject 2026
 """
