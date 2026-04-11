@@ -118,3 +118,4 @@ El proyecto debe entenderse como una base inicial de producto, incompleta, no co
 ## Autor
 
 - Equipo docente / adaptación basada en idea de proyecto para HandsOnProject
+  2026
