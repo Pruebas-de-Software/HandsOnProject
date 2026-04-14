@@ -47,9 +47,9 @@ Información de utilidad para el desarrollo del proyecto.
 
 **🚀 Repositorios de proyectos 🚀**
 
-- Equipo 1
-- Equipo 2
-- Equipo 3
+- Equipo 1 
+- Equipo 2 
+- Equipo 3 
 
 --- 
 
