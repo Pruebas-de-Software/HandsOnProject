@@ -47,10 +47,15 @@ Información de utilidad para el desarrollo del proyecto.
 
 **🚀 Repositorios de proyectos 🚀**
 
-- Equipo 1 
-- Equipo 2 
-- Equipo 3 
+- **Equipo 1: CampusLink**
+- Herramienta de testing: Playwright
+- Tecnologías a usar en el proyecto: React (Front-end) + NestJS (Back-end) + PostgreSQL + Railway/Vercel
+  
+- **Equipo 2:** 
 
+- **Equipo 4: VaquitApp**
+- Herramienta de testing: Puppeteer
+- Tecnologías a usar en el proyecto: React + Node.js + Base de datos NoSQL (MongoDB) + Tailwind CSS + AWS
 --- 
 
 ## 📅 Segundo semestre 2025
