@@ -55,7 +55,7 @@ Información de utilidad para el desarrollo del proyecto.
   - Herramienta de testing: Vitest
   - Tecnologías a usar en el proyecto: Next.js + TypeScript + PostgreSQL + Prisma + Tailwind CSS + NextAuth/Auth.js
 
-- **Equipo 4: VaquitApp, Juntas y fondos colectivos digitales**
+- **Equipo 3: VaquitApp, Juntas y fondos colectivos digitales**
   - Herramienta de testing: Puppeteer
   - Tecnologías a usar en el proyecto: React + Node.js + Base de datos NoSQL (MongoDB) + Tailwind CSS + AWS
 --- 
