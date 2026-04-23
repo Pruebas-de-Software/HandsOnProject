@@ -41,9 +41,9 @@ Información de utilidad para el desarrollo del proyecto.
 **[Instrucciones ejecución proyecto / Semestre 1 2026](./semestres/2026-1/entregas.md)**
 
 **Temas a ser desarrollados**
-- [RentSmart · Arriendo de espacios entre particulares](./semestres/2026-1/tema1.md).
-- [CampusLink · Red de oportunidades universitarias](./semestres/2026-1/tema2.md).
-- [VaquitaApp · Juntas y fondos colectivos digitales](./semestres/2026-1/tema3.md).
+- [RentSmart: Arriendo de espacios entre particulares](./semestres/2026-1/tema1.md).
+- [CampusLink: Red de oportunidades universitarias](./semestres/2026-1/tema2.md).
+- [VaquitaApp: Juntas y fondos colectivos digitales](./semestres/2026-1/tema3.md).
 
 **🚀 Repositorios de proyectos 🚀**
 
