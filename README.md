@@ -63,9 +63,9 @@ Información de utilidad para el desarrollo del proyecto.
 ## 📅 Segundo semestre 2025
 
 **Temas a ser desarrollados**
-- [LicitAgil: Gestión de Licitaciones](./semestres/2025-2/tema1.md).
-- [Spech2Text X: Solución definitiva para transcripción de audios](./semestres/2025-2/tema2.md).
-- [Rescate Fresco: Marketplace de productos próximos a vencer o imperfectos](./semestres/2025-2/tema3.md).
+- [LicitAgil: Gestión de Licitaciones](./semestres/2025-2/tema1.md)
+- [Spech2Text X: Solución definitiva para transcripción de audios](./semestres/2025-2/tema2.md)
+- [Rescate Fresco: Marketplace de productos próximos a vencer o imperfectos](./semestres/2025-2/tema3.md)
   
 **Instrucciones proyecto**
 
