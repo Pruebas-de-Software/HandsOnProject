@@ -41,7 +41,6 @@ Información de utilidad para el desarrollo del proyecto.
 **[Instrucciones ejecución proyecto / Semestre 1 2026](./semestres/2026-1/entregas.md)**
 
 **Temas a ser desarrollados**
-- [RentSmart: Arriendo de espacios entre particulares](./semestres/2026-1/tema1.md)
 - [CampusLink: Red de oportunidades universitarias](./semestres/2026-1/tema2.md)
 - [VaquitaApp: Juntas y fondos colectivos digitales](./semestres/2026-1/tema3.md)
 
@@ -51,11 +50,7 @@ Información de utilidad para el desarrollo del proyecto.
   - Herramienta de testing: Playwright
   - Tecnologías a usar en el proyecto: React (Front-end) + NestJS (Back-end) + PostgreSQL + Railway/Vercel
   
-- **Equipo 2: CampusLink, Red de oportunidades universitarias** 
-  - Herramienta de testing: Vitest
-  - Tecnologías a usar en el proyecto: Next.js + TypeScript + PostgreSQL + Prisma + Tailwind CSS + NextAuth/Auth.js
-
-- **Equipo 3: VaquitApp, Juntas y fondos colectivos digitales**
+- **Equipo 2: VaquitApp, Juntas y fondos colectivos digitales**
   - Herramienta de testing: Puppeteer
   - Tecnologías a usar en el proyecto: React + Node.js + Base de datos NoSQL(MongoDB) + Tailwind CSS + AWS
 --- 
