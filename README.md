@@ -53,6 +53,7 @@ Información de utilidad para el desarrollo del proyecto.
 - **Equipo 2: VaquitApp, Juntas y fondos colectivos digitales**
   - Herramienta de testing: Puppeteer
   - Tecnologías a usar en el proyecto: React + Node.js + Base de datos NoSQL(MongoDB) + Tailwind CSS + AWS
+
 --- 
 
 ## 📅 Segundo semestre 2025
