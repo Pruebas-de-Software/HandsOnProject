@@ -50,7 +50,7 @@ Información de utilidad para el desarrollo del proyecto.
   - Herramienta de testing: Playwright
   - Tecnologías a usar en el proyecto: React (Front-end) + NestJS (Back-end) + PostgreSQL + Railway/Vercel
   
-- **Equipo 2: VaquitApp, Juntas y fondos colectivos digitales**
+- **[Equipo 2: VaquitApp, Juntas y fondos colectivos digitales](https://github.com/VaquitaApp/VaquitaApp)**
   - Herramienta de testing: Puppeteer
   - Tecnologías a usar en el proyecto: React + Node.js + Base de datos NoSQL(MongoDB) + Tailwind CSS + AWS
 
