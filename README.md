@@ -46,7 +46,7 @@ Información de utilidad para el desarrollo del proyecto.
 
 **🚀 Repositorios de proyectos 🚀**
 
-- **[Equipo 1: CampusLink, Red de oportunidades universitarias] (https://github.com/CampusLink-INF301/CampusLink)**
+- **[Equipo 1: CampusLink, Red de oportunidades universitarias](https://github.com/CampusLink-INF301/CampusLink)**
   - Herramienta de testing: Playwright
   - Tecnologías a usar en el proyecto: React (Front-end) + NestJS (Back-end) + PostgreSQL + Railway/Vercel
   
