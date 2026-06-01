@@ -10,10 +10,10 @@ En esta tarea, hemos recibido casos con alcances deliberadamente incompletos y a
 
 ## Temas:
 
-- [**Conectados:** Servicios a un clic](./2025-1/conectados.md).
-- [**RunTrack:** plataforma para runners](./2025-1/conectados.md).
-- [**LogisticaGlobal.com:** Gestión de Incidentes Robóticos en Warehouse](./2025-1/logisticaglobal.md).
-- [**Teatro Mora:** Eventos Teatrales](./2025-1/mora.md).
+- [**Conectados:** Servicios a un clic](./conectados.md).
+- [**RunTrack:** plataforma para runners](./runtrack.md).
+- [**LogisticaGlobal.com:** Gestión de Incidentes Robóticos en Warehouse](./logisticaglobal.md).
+- [**Teatro Mora:** Eventos Teatrales](./mora.md).
 ---
 
 **Para el tema elegido (EN EQUIPO) cada estudiante de manera individual debe preparar una Especificación de Requerimientos de Software completa basada en el caso asignado, que incluya los siguientes elementos:**
