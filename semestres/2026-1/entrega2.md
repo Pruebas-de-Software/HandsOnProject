@@ -148,9 +148,9 @@ Contenido recomendado:
    -	Resultado esperado (verde/rojo).
 
 9.	Problemas encontrados y soluciones
-   - “Qué falló” + “Cómo lo arreglamos”.
+   - “Qué falló” + “Cómo lo arreglamos”
 
 10.	Evidencia
-   - Capturas/logs relevantes.
+   - Capturas/logs relevantes
 
 --- 
