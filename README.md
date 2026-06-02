@@ -34,7 +34,9 @@ Información de utilidad para el desarrollo del proyecto.
 📁[Material de apoyo](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/materialapoyo.md)
 
 ---
-## 📅 🚀Temas 2026 - Semestre 1🚀
+## 📅 🚀2026 
+
+### Semestre 1🚀
 
 **Instrucciones proyecto**
 
@@ -55,6 +57,7 @@ Información de utilidad para el desarrollo del proyecto.
   - Tecnologías a usar en el proyecto: React + Node.js + Base de datos NoSQL(MongoDB) + Tailwind CSS + AWS
 
 --- 
+## 🧾 Versiones anteriores 
 
 ## 📅 Segundo semestre 2025
 
@@ -95,8 +98,6 @@ Información de utilidad para el desarrollo del proyecto.
 **Lecciones aprendidas y recomendaciones**
 - **🔄 [Retrospectiva entrega 2](./semestres/2025-2/retro.md)**
 ---
-
-## 🧾 Versiones anteriores 
 
 ### 📅 Primer semestre 2025
 
