@@ -40,8 +40,8 @@ Información de utilidad para el desarrollo del proyecto.
 
 Temas a ser desarrollados
 
-- [RentSmart: Arriendo de Espacios entre Particulares](./semestres/2026-2/tema1.md)
-- [Mira: Gestión de Proyectos Scrum y Kanban](./semestres/2026-2/tema2.md)
+- [RentSmart: Arriendo de espacios entre particulares](./semestres/2026-2/tema1.md)
+- [Mira: Gestión de proyectos Scrum y Kanban](./semestres/2026-2/tema2.md)
 - [CrowdStarter, plataforma web de crowdfunding](./semestres/2026-2/tema3.md)
 
 ---
