@@ -34,13 +34,13 @@ Información de utilidad para el desarrollo del proyecto.
 📁[Material de apoyo](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/materialapoyo.md)
 
 ---
-## 📅 🚀2026 🚀
+## 📅 2026 
 
-### Segundo semestre 2026 (Próximamente)
+### 🚀 Segundo semestre 2026 (Próximamente) 🚀
 
 Temas a ser desarrollados
 
-- [RentSmart: Arriendo de Espacios entre Particulares(./semestres/2026-2/tema1.md)
+- [RentSmart: Arriendo de Espacios entre Particulares](./semestres/2026-2/tema1.md)
 - [Mira: Gestión de Proyectos Scrum y Kanban](./semestres/2026-2/tema2.md)
 - [CrowdStarter, plataforma web de crowdfunding](./semestres/2026-2/tema3.md)
 
