@@ -60,7 +60,7 @@ Cada entrega es incremental. Los requisitos de una entrega anterior **continúan
 - Cada equipo deberá definir responsabilidades internas. Estas pueden rotar durante el semestre.
 - Todo integrante debe participar en el desarrollo, las pruebas, la revisión o la documentación técnica.
 - La contribución se verificará mediante Jira, commits, ramas, Pull Requests, revisiones y evidencias de colaboración.
-- El trabajo en pares o *mob programming* es válido y recomendable; cuando se utilice, debe quedar registrado mediante coautoría de commits, comentarios en el ítem o evidencia equivalente.
+- El trabajo en pares o *mob programming* es válido y recomendable.
 
 La cantidad de commits no determina por sí sola la contribución individual. Se evaluará el valor, la consistencia y la trazabilidad del trabajo realizado.
 
@@ -80,8 +80,8 @@ Cada historia debería expresar, como mínimo:
 
 ```text
 Como <tipo de usuario>
-quiero <capacidad>
-para <beneficio o propósito>.
+Quiero <capacidad>
+Para <beneficio o propósito>.
 ```
 
 Sus criterios de aceptación deben describir comportamientos observables. Se recomienda utilizar el formato **Dado / Cuando / Entonces** cuando facilite su comprensión.
@@ -222,11 +222,11 @@ Ejemplos de evidencia válida:
 
 En cada hito se deberá entregar:
 
-1. enlace al repositorio de GitHub;
-2. versión estable en `main`, tag y release correspondiente;
+1. Enlace al repositorio de GitHub;
+2. Versión estable en `main`, tag y release correspondiente;
 3. Wiki actualizada;
-4. cápsula de video explicativa;
-5. presentación en clases, cuando el equipo sea seleccionado.
+4. Cápsula de video explicativa;
+5. Presentación en clases, solo entregas 1 y 3
 
 Las fechas, el medio de entrega y la selección de equipos que presentan se publicarán en Aula.
 
