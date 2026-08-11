@@ -36,7 +36,7 @@ Información de utilidad para el desarrollo del proyecto.
 ---
 ## 📅 2026 
 
-### 🚀 Segundo semestre 2026 (Próximamente) 🚀
+### 🚀 Segundo semestre 2026 🚀
 
 **Instrucciones proyecto**
 
@@ -50,7 +50,7 @@ Temas a ser desarrollados
 
 ---
 
-### 📅 Semestre 1 (Actual)
+### 📅 Semestre 1
 
 **Instrucciones proyecto**
 
