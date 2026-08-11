@@ -56,7 +56,7 @@ Cada entrega es incremental. Los requisitos de una entrega anterior **continúan
 
 ### 4.1 Equipos y responsabilidades
 
-- Los equipos estarán formados por tres integrantes, según la asignación publicada en Aula.
+- Los equipos estarán formados por tres o cuatro integrantes, según la asignación publicada en Aula.
 - Cada equipo deberá definir responsabilidades internas. Estas pueden rotar durante el semestre.
 - Todo integrante debe participar en el desarrollo, las pruebas, la revisión o la documentación técnica.
 - La contribución se verificará mediante Jira, commits, ramas, Pull Requests, revisiones y evidencias de colaboración.
