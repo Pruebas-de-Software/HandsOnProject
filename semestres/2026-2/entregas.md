@@ -32,9 +32,9 @@ Las descripciones representan una **especificación inicial deliberadamente inco
 
 | Tema | Flujo principal que debe orientar el MVP |
 | --- | --- |
-| **RentSmart** | Un propietario publica un espacio; otro usuario lo busca, revisa su disponibilidad y solicita o realiza una reserva. |
-| **Mira** | Un usuario crea o integra una organización/proyecto, incorpora trabajo al backlog y gestiona su avance mediante un tablero Kanban o un Sprint. |
-| **CrowdStarter** | Un creador publica una campaña; otro usuario la descubre, revisa su información y realiza un aporte mediante el flujo de pago definido. |
+| [**RentSmart**](./tema1.md) | Un propietario publica un espacio; otro usuario lo busca, revisa su disponibilidad y solicita o realiza una reserva. |
+| [**Mira**](./tema2.md) | Un usuario crea o integra una organización/proyecto, incorpora trabajo al backlog y gestiona su avance mediante un tablero Kanban o un Sprint. |
+| [**CrowdStarter**](./tema3.md) | Un creador publica una campaña; otro usuario la descubre, revisa su información y realiza un aporte mediante el flujo de pago definido. |
 
 El CRUD es una base técnica necesaria, pero **no reemplaza el flujo de negocio**. Una aplicación que solo permita crear, editar y eliminar registros, sin resolver el proceso central del tema, no constituye un MVP suficiente.
 
