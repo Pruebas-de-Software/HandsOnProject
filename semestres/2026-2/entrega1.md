@@ -8,6 +8,8 @@ Esta entrega es la **primera presentación del proyecto**. El objetivo es constr
 - Herramientas de apoyo.
 - Una metodología de trabajo definida.
 
+Sin embargo, hemos recibido una especificación inicial incompleta, y debemos manejar el alcance y los requerimientos del cliente. 
+
 En esta etapa el foco es implementar las funcionalidades prioritarias de la aplicación, además se debe incluir **CRUD (Create, Read, Update, Delete)** de funcionalidades principales: un **MVP**.  
 
 “Los más osados dicen que en un fin de semana está lista una aplicación de estas características.”
