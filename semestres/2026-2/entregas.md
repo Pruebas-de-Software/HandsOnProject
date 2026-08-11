@@ -22,9 +22,9 @@ Al finalizar el semestre, el equipo deberá contar con una aplicación funcional
 
 Cada equipo deberá escoger uno de los siguientes proyectos:
 
-1. [RentSmart: Arriendo de espacios entre particulares](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/semestres/2026-2/tema1.md)
-2. [Mira: Gestión de proyectos Scrum y Kanban](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/semestres/2026-2/tema2.md)
-3. [CrowdStarter: Plataforma web de crowdfunding](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/semestres/2026-2/tema3.md)
+1. [RentSmart: Arriendo de espacios entre particulares](./tema1.md)
+2. [Mira: Gestión de proyectos Scrum y Kanban](./tema2.md)
+3. [CrowdStarter: Plataforma web de crowdfunding](./tema3.md)
 
 Las descripciones representan una **especificación inicial deliberadamente incompleta**. Cada equipo deberá analizar el problema, declarar supuestos, resolver dudas con el equipo docente y transformar la idea en requisitos verificables.
 
@@ -32,9 +32,9 @@ Las descripciones representan una **especificación inicial deliberadamente inco
 
 | Tema | Flujo principal que debe orientar el MVP |
 | --- | --- |
-| [**RentSmart**](./tema1.md) | Un propietario publica un espacio; otro usuario lo busca, revisa su disponibilidad y solicita o realiza una reserva. |
-| [**Mira**](./tema2.md) | Un usuario crea o integra una organización/proyecto, incorpora trabajo al backlog y gestiona su avance mediante un tablero Kanban o un Sprint. |
-| [**CrowdStarter**](./tema3.md) | Un creador publica una campaña; otro usuario la descubre, revisa su información y realiza un aporte mediante el flujo de pago definido. |
+| **RentSmart** | Un propietario publica un espacio; otro usuario lo busca, revisa su disponibilidad y solicita o realiza una reserva. |
+| **Mira** | Un usuario crea o integra una organización/proyecto, incorpora trabajo al backlog y gestiona su avance mediante un tablero Kanban o un Sprint. |
+| **CrowdStarter** | Un creador publica una campaña; otro usuario la descubre, revisa su información y realiza un aporte mediante el flujo de pago definido. |
 
 El CRUD es una base técnica necesaria, pero **no reemplaza el flujo de negocio**. Una aplicación que solo permita crear, editar y eliminar registros, sin resolver el proceso central del tema, no constituye un MVP suficiente.
 
