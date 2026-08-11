@@ -42,13 +42,35 @@ El CRUD es una base técnica necesaria, pero **no reemplaza el flujo de negocio*
 
 ## 3. Progresión de las entregas
 
-| Entrega | Foco | Incremento funcional | Incremento de calidad |
-| --- | --- | --- | --- |
-| **1** | Producto inicial y pruebas | MVP funcional, persistencia y flujo principal | Pruebas automatizadas iniciales, trazabilidad y documentación base |
-| **2** | CI/CD | Dos nuevos requisitos y correcciones comprometidas | Pipeline automático, reportes, despliegue e integraciones |
-| **3** | Calidad de extremo a extremo | Estabilización del producto | Pruebas E2E/UI en modo headless, artefactos, fallos visibles y notificaciones |
+### 🔹 Entrega 1: Producti inicial aplicación y pruebas automatizadas
 
-Cada entrega es incremental. Los requisitos de una entrega anterior **continúan vigentes** en las siguientes, salvo que el equipo docente indique expresamente lo contrario.
+- Primera entrega de aplicación.
+- MVP funcional, persistencia y flujo principal
+- Pruebas automatizadas iniciales, trazabilidad y documentación base
+
+📄 [Ver detalles de la Entrega 1](./entrega1.md)
+
+
+### 🔹 Entrega 2: CI/CD
+
+- Segunda entrega de aplicación
+- Instalación y configuración de herramienta CI/CD.
+- Nuevos requisitos y correcciones comprometidas
+- Creación de un pipeline de integración y despliegue continuo.
+
+📄 [Ver detalles de la Entrega 2](./entrega2.md)
+
+
+### 🔹 Entrega 3: Calidad de extremo a extremo
+
+- Tercera entrega de aplicación
+- Requisitos finales
+- Pruebas E2E/UI en modo headless, artefactos, fallos visibles y
+- Notificaciones automáticas de resultados.
+
+📄 [Ver detalles de la Entrega 3](./entrega3.md)
+
+Cada entrega es incremental. Los requisitos de una entrega anterior **continúan vigentes** en las siguientes, salvo que se indique expresamente lo contrario.
 
 ---
 
