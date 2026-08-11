@@ -38,6 +38,10 @@ Información de utilidad para el desarrollo del proyecto.
 
 ### 🚀 Segundo semestre 2026 (Próximamente) 🚀
 
+**Instrucciones proyecto**
+
+**[Instrucciones ejecución proyecto / Semestre 1 2026](./semestres/2026-2/entregas.md)**
+
 Temas a ser desarrollados
 
 - [RentSmart: Arriendo de espacios entre particulares](./semestres/2026-2/tema1.md)
