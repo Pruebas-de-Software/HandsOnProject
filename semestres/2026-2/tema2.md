@@ -8,42 +8,53 @@
 
 Los equipos que trabajan en proyectos de software necesitan organizar tareas, prioridades, responsables y avances de manera clara. Sin embargo, cuando no existe una herramienta centralizada, gran parte de esta información termina distribuida entre planillas, documentos, mensajes y reuniones.
 
-Esto dificulta conocer el estado real del proyecto, identificar bloqueos, coordinar el trabajo del equipo y mantener trazabilidad sobre los cambios realizados.
+Tradicionalmente, muchas organizaciones resuelven este problema contratando plataformas SaaS especializadas. Sin embargo, estas herramientas pueden incorporar costos recurrentes, funcionalidades que nunca se utilizan, restricciones de personalización y dependencia de un proveedor externo.
 
-> Se necesita una plataforma que permita organizar proyectos y equipos utilizando metodologías ágiles como **Scrum y Kanban**, centralizando el trabajo y facilitando su seguimiento.
+Al mismo tiempo, el desarrollo asistido por inteligencia artificial está reduciendo significativamente la barrera para construir software interno. Esto abre una nueva pregunta para las organizaciones:
+
+> **¿Por qué pagar permanentemente por una herramienta que la propia organización podría construir, adaptar y evolucionar según sus necesidades?**
+
+El desafío no consiste únicamente en crear un gestor de proyectos, sino también en explorar una tendencia más amplia: organizaciones capaces de generar sus propias herramientas digitales y, eventualmente, reutilizarlas o compartirlas con terceros.
 
 ---
 
 ## 💡 La Solución
 
-**Mira** será una plataforma web de gestión de proyectos que permitirá crear proyectos, organizar equipos y administrar el trabajo mediante tableros visuales.
+**Mira** será una plataforma web de gestión de proyectos que permitirá crear proyectos, organizar equipos y administrar el trabajo mediante tableros visuales basados en **Scrum y Kanban**.
 
-Cada proyecto podrá contener tareas o historias de usuario, responsables, prioridades, estados y fechas relevantes. Los usuarios podrán visualizar el avance mediante tableros Kanban y, cuando corresponda, organizar el trabajo mediante Sprints.
+Cada proyecto podrá contener tareas, historias de usuario, responsables, prioridades, estados y fechas relevantes. Los usuarios podrán visualizar el avance mediante tableros Kanban y organizar el trabajo mediante Sprints cuando corresponda.
 
 La plataforma deberá permitir que distintos usuarios colaboren dentro de uno o más proyectos, manteniendo trazabilidad sobre las principales acciones realizadas.
 
-La idea queda abierta para que cada equipo refine aspectos como el flujo de estados, roles, métricas, automatizaciones y funcionalidades complementarias.
+Mira nace además bajo una idea particular:
+
+> **No pagar por algo que se puede construir.**
+
+La organización podrá utilizar la plataforma como herramienta interna, adaptarla a sus propios procesos y, eventualmente, ofrecerla o compartirla con otras organizaciones que enfrenten necesidades similares.
+
+La solución queda deliberadamente abierta para que cada equipo refine aspectos como flujos, roles, métricas, automatizaciones y funcionalidades adicionales.
 
 ---
 
 ## 🎯 Misión
 
-Facilitar la planificación, organización y seguimiento del trabajo de equipos mediante una plataforma ágil, simple y colaborativa.
+Facilitar la planificación, organización y seguimiento del trabajo de equipos mediante una plataforma ágil, simple, colaborativa y adaptable a las necesidades de cada organización.
 
 ---
 
 ## 🌍 Visión
 
-Convertirse en una herramienta flexible para gestionar proyectos utilizando prácticas de **Scrum y Kanban**, entregando visibilidad sobre el trabajo y facilitando la colaboración de los equipos.
+Convertirse en una alternativa flexible a las plataformas tradicionales de gestión de proyectos, demostrando cómo las organizaciones pueden desarrollar sus propias herramientas digitales, evolucionarlas internamente y eventualmente compartirlas con terceros.
 
 ---
 
 ## ⭐ Principios
 
 - **Visibilidad:** el estado del trabajo debe ser fácil de comprender.
-- **Colaboración:** los miembros del equipo deben poder trabajar sobre información compartida.
+- **Colaboración:** los miembros del equipo deben trabajar sobre información compartida.
 - **Trazabilidad:** los cambios relevantes deben quedar registrados.
-- **Flexibilidad:** cada proyecto puede requerir distintas formas de organizar su trabajo.
+- **Flexibilidad:** cada proyecto puede requerir distintas formas de organizar el trabajo.
+- **Autonomía:** la organización debe poder adaptar la plataforma sin depender completamente de un proveedor externo.
 - **Simplicidad:** las operaciones frecuentes deben ser rápidas y claras.
 
 ---
@@ -96,6 +107,20 @@ El equipo podrá definir o ampliar aspectos como:
 - Automatizaciones.
 - Integraciones con herramientas externas.
 - Uso de inteligencia artificial para apoyar la gestión del proyecto.
+- Modelo multiempresa o multi-organización.
+- Posibilidad de convertir Mira en una plataforma reutilizable por terceros.
+
+---
+
+## 🔭 Una mirada al futuro del SaaS
+
+Mira también busca abrir una discusión sobre lo que está ocurriendo con el modelo tradicional de software como servicio.
+
+Durante años, para resolver una necesidad específica, la alternativa natural fue contratar una plataforma SaaS. Hoy, herramientas de desarrollo modernas y asistentes basados en inteligencia artificial permiten construir aplicaciones especializadas en mucho menos tiempo.
+
+Esto no implica que los SaaS vayan a desaparecer, pero sí que las organizaciones pueden comenzar a cuestionar qué herramientas realmente necesitan comprar y cuáles podrían construir por sí mismas.
+
+Mira representa justamente ese experimento: **crear una solución propia, ajustada al proceso real de una organización, con capacidad de evolucionar y eventualmente transformarse en un producto para terceros.**
 
 ---
 
