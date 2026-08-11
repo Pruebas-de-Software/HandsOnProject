@@ -1,4 +1,4 @@
-# HandsOnProject INF331 — Pauta consolidada de entregas
+# HandsOnProject INF331
 
 **Semestre 2 · 2026**  
 **Asignatura:** INF331 — Pruebas de Software  
