@@ -24,13 +24,13 @@ Los problemas se entregan como cliente real: **pueden estar incompletos o desord
 - **Tema 2**.
 - **Tema 3**.
 
-⚠️ Máximo **3 grupos por tema**.
+⚠️ Máximo **4 grupos por tema**.
 
 ### 1.2 Elegir herramienta de testing (1 por equipo)
 
 Debes apoyarte en **una** herramienta de testing automatizado (ver **Anexo A**).
 
-⚠️ Máximo **2 grupos por herramienta de testing**.
+⚠️ Máximo **3 grupos por herramienta de testing**.
 
 La elección debe considerar compatibilidad con las tecnologías a utilizar en el proyecto.
 
