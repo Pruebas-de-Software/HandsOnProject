@@ -40,7 +40,7 @@ Información de utilidad para el desarrollo del proyecto.
 
 **Instrucciones proyecto**
 
-**[Instrucciones ejecución proyecto / Semestre 1 2026](./semestres/2026-2/entregas.md)**
+**[Instrucciones ejecución proyecto / Semestre 2 2026](./semestres/2026-2/entregas.md)**
 
 Temas a ser desarrollados
 
