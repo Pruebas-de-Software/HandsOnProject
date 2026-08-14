@@ -1,4 +1,4 @@
-# RentSmart: Arriendo de Espacios entre Particulares
+# RentSmart: Arriendo de Espacios entre Particulares 
 
 ![RentSmart](./recursos/tema1.png)
 
